@@ -1,6 +1,4 @@
-export const config: {
-  hostedZoneId: string;
-  certArn: string;
-  environment: string;
-  domain: string;
+export declare const config: {
+    certArn: string;
+    environment: string;
 };

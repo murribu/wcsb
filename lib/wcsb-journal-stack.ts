@@ -4,9 +4,11 @@ import {
   CloudFrontWebDistribution,
   CloudFrontWebDistributionProps,
   Distribution,
+  LambdaEdgeEventType,
   SSLMethod,
   SecurityPolicyProtocol,
   ViewerProtocolPolicy,
+  experimental,
 } from "aws-cdk-lib/aws-cloudfront";
 import { BlockPublicAccess, Bucket } from "aws-cdk-lib/aws-s3";
 import { BucketDeployment, Source } from "aws-cdk-lib/aws-s3-deployment";
@@ -14,6 +16,8 @@ import { Construct } from "constructs";
 import { config } from "../config";
 import { Certificate } from "aws-cdk-lib/aws-certificatemanager";
 import { S3Origin } from "aws-cdk-lib/aws-cloudfront-origins";
+import { Code, Runtime } from "aws-cdk-lib/aws-lambda";
+import path = require("path");
 
 const proj = "WCSBJournal";
 const { certArn } = config;
@@ -33,12 +37,30 @@ export class WcsbJournalStack extends Stack {
       destinationBucket: websiteBucket,
     });
 
+    const lambdaAtEdgeFunction = new experimental.EdgeFunction(
+      this,
+      "LambdaAtEdgeFunction",
+      {
+        runtime: Runtime.NODEJS_20_X,
+        handler: "app.handler",
+        code: Code.fromAsset(
+          path.join(__dirname, "../assets/lambda/originRequestLambdaAtEdge/")
+        ),
+      }
+    );
+
     new Distribution(this, `${proj}Distribution`, {
       defaultBehavior: {
         allowedMethods: AllowedMethods.ALLOW_GET_HEAD_OPTIONS,
         compress: true,
         origin: new S3Origin(websiteBucket),
         viewerProtocolPolicy: ViewerProtocolPolicy.REDIRECT_TO_HTTPS,
+        edgeLambdas: [
+          {
+            functionVersion: lambdaAtEdgeFunction.currentVersion,
+            eventType: LambdaEdgeEventType.ORIGIN_REQUEST,
+          },
+        ],
       },
       defaultRootObject: "index.html",
       errorResponses: [
