@@ -1,16 +1,16 @@
 ---
 id: rogers-anderson
 title: Rogers Anderson
-desc: ""
-updated: 1716394382634
+desc: ''
+updated: 1716472864604
 created: 1716391477141
 ---
 
-# Position
+## Position
 
 Williamson County Mayor
 
-# Contact Info
+## Contact Info
 
 [website](https://www.williamsoncounty-tn.gov/55/County-Mayor)
 

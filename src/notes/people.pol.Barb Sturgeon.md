@@ -2,15 +2,16 @@
 id: barb-sturgeon
 title: Barb Sturgeon
 desc: ""
-updated: 1716394207944
+nav_order: 1
+updated: 1716474966187
 created: 1716391159512
 ---
 
-# Position
+## Position
 
 County Commissioner representing District 8
 
-# Contact Info
+## Contact Info
 
 [website](https://www.williamsoncounty-tn.gov/directory.aspx?EID=256)
 

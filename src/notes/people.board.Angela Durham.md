@@ -1,18 +1,19 @@
 ---
 id: angela-durham
-title: Angela Durham
-desc: ""
-updated: 1716394049316
+title: Angela Durham (Chair)
+desc: ''
+nav_order: 1
+updated: 1716474844193
 created: 1716391234649
 ---
 
-# Position
+## Position
 
 Chair of the Williamson County School Board
 
 District 1 Representative
 
-# Contact Info
+## Contact Info
 
 [twitter](https://twitter.com/AngelaDurham15)
 

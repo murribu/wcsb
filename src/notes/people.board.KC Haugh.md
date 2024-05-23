@@ -1,16 +1,16 @@
 ---
 id: kc-haugh
 title: KC Haugh
-desc: ""
-updated: 1716394345828
+desc: ''
+updated: 1716472842813
 created: 1716393256273
 ---
 
-# Position
+## Position
 
 Williamson County School Board Representative from District 11
 
-# Contact Info
+## Contact Info
 
 [twitter](https://x.com/kchaugh)
 
