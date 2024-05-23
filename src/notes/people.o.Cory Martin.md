@@ -1,7 +1,7 @@
 ---
 id: cory-martin
 title: Cory Martin
-desc: ''
+desc: ""
 updated: 1716472804157
 created: 1716390408384
 ---
@@ -10,9 +10,9 @@ I attend the Williamson County School Board Meetings and let folks know what's g
 
 ## Position
 
-Proprietor of this blog.
+Proprietor of this wiki.
 
-I'm also leading the School Board Team for [[organizations.OneWillco]]
+I also lead the School Board Team for [[organizations.OneWillco]]
 
 ## Contact Info
 

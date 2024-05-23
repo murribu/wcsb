@@ -93,6 +93,7 @@ publishing:
         - meetings
         - people
         - glossary
+        - organizations
     writeStubs: false
     siteRootDir: docs
     seo:

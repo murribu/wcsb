@@ -1,6 +1,6 @@
 ---
 id: may2024
-title: 'May 20, 2024'
+title: "May 20, 2024"
 desc: The May 2024 Williamson County School Board Meeting
 updated: 1716408592456
 created: 1716388870579
@@ -18,9 +18,9 @@ You can see my "live tweeting" of the event [here](https://x.com/murribu/status/
 
 ## Title IX
 
-By my count, there were 7 folks who spoke during public comment in support of the change to Title IX, encouraging our board to remain in compliance with it, including the recent changes.
+By my count, there were 7 folks who spoke during public comment in support of the change to Title IX, encouraging our board to remain in compliance with it, including the recent changes. Several of these speakers were wearing [[organizations.Wilco Iris]] shirts.
 
-Three people spoke against the recent changes, citing the many states (including TN) that are suing the federal government to retract these changes. One speaker was wearing a [[organizations.Moms For Liberty]] shirt.
+Three people spoke against the recent changes, citing the many states (including TN) that are suing the federal government to retract these changes. One speaker was wearing a [[organizations.MomsForLiberty]] shirt.
 
 [[Mr. Golden|people.admin.Jason Golden]] said, "we're at the study stage," regarding this topic.
 
