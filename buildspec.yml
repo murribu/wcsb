@@ -1,0 +1,32 @@
+version: 0.2
+
+env:
+  secrets-manager:
+    CERT_ARN: WCSB_JOURNAL_SECRET:CERT_ARN
+    DISTRIBUTION_ID: WCSB_JOURNAL_SECRET:DISTRIBUTION_ID
+    ENVIRONMENT: WCSB_JOURNAL_SECRET:ENVIRONMENT
+
+phases:
+  install:
+    runtime-versions:
+      nodejs: 20
+    commands:
+      - chmod +x bash/makeConfig.sh
+      - bash/makeConfig.sh
+      - npm install -g aws-cdk
+  pre_build:
+    commands:
+      - yarn
+      - wait $!
+      - yarn build
+      - cd src
+      - npx dendron publish export
+      - cd ..
+  build:
+    commands:
+      - npx cdk deploy --all --require-approval never
+      - aws cloudfront create-invalidation --distribution-id $DISTRIBUTION_ID --paths "/*"
+      - echo Build completed on `date`
+artifacts:
+  files:
+    - "**/*"
