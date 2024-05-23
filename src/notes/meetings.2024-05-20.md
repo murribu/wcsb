@@ -59,7 +59,7 @@ There were also 7 speakers who spoke about the inequity in supplemental pay that
 
 ## Budget
 
-Three individuals spoke about the budget. Two of them are current county commissioners. They each seemed to speak without providing much context to their comments, assuming that the audience already knew where the budget conversation stood. [[people.pol.Barb Sturgeon]] started talking at [52:54](https://www.youtube.com/live/PEsvj1Da6zI?si=WpieMyGWE7_0LkaQ&t=3174). After 106 seconds, Chair [[people.board.Angela Durham]] tried to cut her off. Remember, each speaker was allotted 60 seconds. Ms. Sturgeon continued to barrel through for a total of 135 second. Toward the end of her comments, she suggested an external audit. She took more than double her allotted time. As someone who stayed within the 60 second max, I was offended that she felt entitled to speak as long as she wanted to.
+Three individuals spoke about the budget. Two of them are current county commissioners. They each seemed to speak without providing much context to their comments, assuming that the audience already knew where the budget conversation stood. [[people.pol.Barb Sturgeon]] started talking at [52:54](https://www.youtube.com/live/PEsvj1Da6zI?si=WpieMyGWE7_0LkaQ&t=3174). After 106 seconds, Chair [[people.board.Angela Durham]] tried to cut her off. Remember, each speaker was allotted 60 seconds. Ms. Sturgeon continued to barrel through for a total of 135 seconds. Toward the end of her comments, she suggested an external audit. She took more than double her allotted time. As someone who stayed within the 60 second max, I was offended that she felt entitled to speak as long as she wanted to.
 
 <details>
 <summary>List of speakers</summary>
