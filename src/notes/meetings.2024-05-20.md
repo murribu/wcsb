@@ -92,7 +92,7 @@ The budget ended up passing by a vote of 10-0-1, with [[people.board.Donna Cleme
 
 There was one person who spoke during public comment in favor of the availability of diverse books, [[people.o.Diane Cochran]].
 
-The new TN law regarding age appropriate materials in schools has forced a new policy for material reviews. This policy was crafted by the policy committee and was up for a vote last night.
+The new TN law regarding age appropriate materials in schools has forced a new policy for material reviews. This policy was crafted by the policy committee and was up for a vote.
 
 The prevailing opinion of board was that this policy would be onerous and impractical, and yet it must be adopted to comply with the law.
 
@@ -100,7 +100,7 @@ Some highlights:
 
 - [[people.board.Rick Wimberly]] [estimated](https://x.com/murribu/status/1792725464471199919) that this would add 450 hours of work per librarian per year
 - [[people.board.Eric Welch]] [read](https://x.com/murribu/status/1792730046005952737) excerpts from Roots. That book has never received any complaints and is historically valuable. Further, it was recently enshrined as an official state book of TN, nominated by [[people.pol.Gino Bulso]]. But under this policy, it would be removed. He called the TN law a "pile of crap."
-- [[people.board.Drason Beasley]] [spoke up](https://x.com/murribu/status/1792733750025207831), which is a very rare event. He expressed some frustration that board members were critiquing the policy and yet they had not showed up for the policy meeting. [[people.board.Rick Wimberly]] jovially acknowledged that he was the object of that complaint.
+- [[people.board.Drason Beasley]] [spoke up](https://x.com/murribu/status/1792733750025207831), which is a rare event. He expressed some frustration that board members were critiquing the policy and yet they had not showed up for the policy meeting. [[people.board.Rick Wimberly]] jovially acknowledged that he was the object of that complaint.
 - For an eloquent explanation of the implications of this policy, [watch Lisa Carson's comments](https://www.youtube.com/live/PEsvj1Da6zI?si=WW-ptyYfjeBk7qqd&t=9185). She helped write the policy they're voting on. This segment is about 4 or 5 minutes long.
 
 The policy passed for [[glossary.first reading]], by a vote of 9-2, with [[people.board.Eric Welch]] and [[people.board.KC Haugh]] dissenting.
