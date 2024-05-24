@@ -2,13 +2,13 @@
 id: may2024
 title: "May 20, 2024"
 desc: The May 2024 Williamson County School Board Meeting
-updated: 1716408592456
+updated: 1716558717315
 created: 1716388870579
 ---
 
 This school board meeting had 4 main topics. The first pertained to the federal government's [update to Title IX](https://www.nytimes.com/2024/04/19/us/politics/biden-title-ix-rules.html) to include gender identity and sexual preference as protected classes. The second topic was the inequity in supplemental pay that negatively affects fine arts teachers. The third issue was the budget. And the final main concern was the new TN law regarding the availability of age appropriate materials in school libraries.
 
-[[I|people.o.Cory Martin]] also spoke about the declining racial inequality among Williamson County Schools' faculty and administrators.
+[[I|people.o.Cory Martin]] also spoke about the declining racial inequality among Williamson County Schools' teachers and administrators.
 
 Since there were 28 people who signed up to speak, each person was allowed 60 seconds.
 
@@ -59,7 +59,7 @@ There were also 7 speakers who spoke about the inequity in supplemental pay that
 
 ## Budget
 
-Three individuals spoke about the budget. Two of them are current county commissioners. They each seemed to speak without providing much context to their comments, assuming that the audience already knew where the budget conversation stood. [[people.pol.Barb Sturgeon]] started talking at [52:54](https://www.youtube.com/live/PEsvj1Da6zI?si=WpieMyGWE7_0LkaQ&t=3174). After 106 seconds, Chair [[people.board.Angela Durham]] tried to cut her off. Remember, each speaker was allotted 60 seconds. Ms. Sturgeon continued to barrel through for a total of 135 seconds. Toward the end of her comments, she suggested an external audit. She took more than double her allotted time. As someone who stayed within the 60 second max, I was offended that she felt entitled to speak as long as she wanted to.
+Three individuals spoke about the budget. Two of them are current county commissioners. They each seemed to speak without providing much context to their comments, assuming that the audience already knew where the budget conversation stood. [[people.pol.Barb Sturgeon]] started talking at [52:54](https://www.youtube.com/live/PEsvj1Da6zI?si=WpieMyGWE7_0LkaQ&t=3174). After 106 seconds, Chair [[Angela Durham|people.board.Angela Durham]] tried to cut her off. Remember, each speaker was allotted 60 seconds. Ms. Sturgeon continued to barrel through for a total of 135 seconds. Toward the end of her comments, she suggested an external audit. She took more than double her allotted time. As someone who stayed within the 60 second max, I was offended that she felt entitled to speak as long as she wanted to.
 
 <details>
 <summary>List of speakers</summary>
@@ -76,7 +76,7 @@ Highlights from the board's discussion:
 
 - [[people.board.Eric Welch]] [said](https://x.com/murribu/status/1792715048248541423) he was "proud to put his name on this budget."
 
-- [[people.board.Josh Brown]] [said](https://x.com/murribu/status/1792715398481424631) that 71% of the burden of funding is on the county. It is a burden, but it's a choice. He said they should pass this budget and continue the conversation with the commission.
+- [[Josh Brown|people.board.Josh Brown]] [said](https://x.com/murribu/status/1792715398481424631) that 71% of the burden of funding is on the county. It is a burden, but it's a choice. He said they should pass this budget and continue the conversation with the commission.
 
 - [[people.board.Jay Galbreath]] [called out](https://x.com/murribu/status/1792716180203221057) the TISA formula as a reason why we get less money from TN. [Also](https://x.com/murribu/status/1792716734497206325), this $555 million budget should not require a tax increase.
 
