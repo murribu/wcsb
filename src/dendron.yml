@@ -87,6 +87,7 @@ publishing:
     enablePrettyRefs: true
     enableKatex: true
     copyAssets: true
+    siteUrl: https://cory.school
     siteIndex: home
     siteHierarchies:
         - home
@@ -95,15 +96,16 @@ publishing:
         - glossary
         - organizations
     writeStubs: false
-    siteRootDir: docs
+    siteRootDir: src
     seo:
         title: WCSB Wiki
         description: Wiki for the Williamson County School Board
     github:
         enableEditLink: true
         editLinkText: Edit this page on GitHub
-        editBranch: main
-        editViewMode: tree
+        editBranch: main/src
+        editViewMode: edit
+        editRepository: https://github.com/murribu/wcsb
     enableSiteLastModified: true
     enableFrontmatterTags: true
     enableHashesForFMTags: false
