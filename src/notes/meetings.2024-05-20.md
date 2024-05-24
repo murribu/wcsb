@@ -2,7 +2,7 @@
 id: may2024
 title: "May 20, 2024"
 desc: The May 2024 Williamson County School Board Meeting
-updated: 1716558717315
+updated: 1716559826837
 created: 1716388870579
 ---
 
@@ -20,7 +20,7 @@ You can see my "live tweeting" of the event [here](https://x.com/murribu/status/
 
 By my count, there were 7 folks who spoke during public comment in support of the change to Title IX, encouraging our board to remain in compliance with it, including the recent changes. Several of these speakers were wearing [[organizations.Wilco Iris]] shirts.
 
-Three people spoke against the recent changes, citing the many states (including TN) that are suing the federal government to retract these changes. One speaker was wearing a [[organizations.MomsForLiberty]] shirt.
+Three people spoke against the recent changes, citing the many states (including TN) that are suing the federal government to retract these changes. One speaker was wearing a [[organizations.MomsForLiberty]] shirt and referred to a [debunked story](https://www.nbcnews.com/tech/misinformation/urban-myth-litter-boxes-schools-became-gop-talking-point-rcna51439) of litter boxes in school.
 
 [[Mr. Golden|people.admin.Jason Golden]] said, "we're at the study stage," regarding this topic.
 
@@ -59,7 +59,7 @@ There were also 7 speakers who spoke about the inequity in supplemental pay that
 
 ## Budget
 
-Three individuals spoke about the budget. Two of them are current county commissioners. They each seemed to speak without providing much context to their comments, assuming that the audience already knew where the budget conversation stood. [[people.pol.Barb Sturgeon]] started talking at [52:54](https://www.youtube.com/live/PEsvj1Da6zI?si=WpieMyGWE7_0LkaQ&t=3174). After 106 seconds, Chair [[Angela Durham|people.board.Angela Durham]] tried to cut her off. Remember, each speaker was allotted 60 seconds. Ms. Sturgeon continued to barrel through for a total of 135 seconds. Toward the end of her comments, she suggested an external audit. She took more than double her allotted time. As someone who stayed within the 60 second max, I was offended that she felt entitled to speak as long as she wanted to.
+Three individuals spoke about the budget. Two of them are current county commissioners. They each seemed to speak without providing much context to their comments, assuming that the audience already knew where the budget conversation stood. [[people.pol.Barb Sturgeon]] started talking at [52:54](https://www.youtube.com/live/PEsvj1Da6zI?si=WpieMyGWE7_0LkaQ&t=3174). After 106 seconds, Chair [[Angela Durham|people.board.Angela Durham]] tried to cut her off. Remember, each speaker was allotted 60 seconds. Ms. Sturgeon continued to barrel through for a total of 135 seconds. Toward the end of her comments, she suggested an external audit. She took more than double her allotted time.
 
 <details>
 <summary>List of speakers</summary>
