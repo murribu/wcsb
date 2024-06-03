@@ -2,7 +2,7 @@
 id: may2024
 title: "May 20, 2024"
 desc: The May 2024 Williamson County School Board Meeting
-updated: 1716559826837
+updated: 1717423624309
 created: 1716388870579
 ---
 
@@ -70,7 +70,7 @@ Three individuals spoke about the budget. Two of them are current county commiss
 
 </details>
 
-The school board members discussed the budget before their vote. I'm certain I've gotten something wrong here, but here's what I've gathered so far. In March of 2024, the WCSB voted to approve a budget that was around $561 million. The budget was presented to the county commission's budget committee, which is made up of 6 of the 24 commissioners (though the [website](https://www.williamsoncounty-tn.gov/DocumentCenter/View/16301/committee_list24?bidId=) only lists 4, plus our [[County Mayor|people.pol.Rogers Anderson]]), and the school board was asked to bring the number down. They then presented a $555 million budget and the budget committee did not approve it, by a 3-3 vote. The budget committee recommended a $545 million budget instead. The budget that the school board voted on last night (and approved) was the $555 million budget. I assume that is why two of our county commissioners were upset.
+The school board members discussed the budget before their vote. In March of 2024, the WCSB voted to approve a budget that was around $566 million. The budget was presented to the county commission's education committee, which is made up of 7 of the 24 commissioners (including [[people.pol.Mary Smith]] and [[people.pol.Barb Sturgeon]], [citation](https://www.williamsoncounty-tn.gov/DocumentCenter/View/16301/committee_list24?bidId=)), and the school board was asked to bring the number down due to insurance savings. The county commission's budget committee unanimously approved a $555 million budget. But then two weeks later, that same budget committee reduced the school fund by $10 million to $545 million, and that was approved on a 3-2 vote. The budget that the school board voted on (and approved) was the $555 million budget. I assume that is why two of our county commissioners were upset.
 
 Highlights from the board's discussion:
 
