@@ -14,7 +14,7 @@ This school board meeting had all of the same topics as [[last month's meeting|m
 
 ## Mr. Golden's Evaluation and Contract Extension
 
-Each board member rates Mr. Golden on a scale of 1-5 against the goals he set for himself at the beginning of the school year. Different goals are weighted differently, but the bottom line is that his score was 3.81 this year, compared to 3.73 last year.
+Every year, each board member rates Mr. Golden on a scale of 1-5 against the goals he set for himself at the beginning of the school year. Different goals are weighted differently, but the bottom line is that his score was 3.81 this year, compared to 3.73 last year.
 
 Also of note, Mr. Golden received the Superintendent of the Year award from the TN Organization of School Superintendents in May of 2024 ([link](https://williamsonchamber.com/uncategorized/golden-named-mid-cumberland-superintendent-of-the-year/)).
 
@@ -26,7 +26,7 @@ His salary was initially $279k and he has received raises commensurate with dist
 
 After unanimously approving the evaluations that the board members had already submitted, [[people.board.Dan Cash]] wanted to retroactively change his vote on the contract extension to a "no." So, I suppose the vote was 9-2 instead of 10-1.
 
-Last year, Mr. Golden's contract was extended unanimously ([link](https://x.com/murribu/status/1670948052222312448)). Something changed over the past year to make [[people.board.Dan Cash]] and [[people.board.Donna Clements]] change their votes. The adendum didn't have his salary last year either, and his evaluation was higher this year than last.
+Last year, Mr. Golden's contract was extended unanimously ([link](https://x.com/murribu/status/1670948052222312448)). Something changed over the past year to make [[people.board.Dan Cash]] and [[people.board.Donna Clements]] change their votes. The addendum didn't have his salary last year either, and his evaluation was higher this year than last.
 
 ## Bullying
 
