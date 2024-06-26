@@ -32,7 +32,7 @@ Last year, Mr. Golden's contract was extended unanimously ([link](https://x.com/
 
 [[people.o.Revida Rahman]] spoke during public comment, asking the board to do something to decrease the bullying numbers.
 
-Mr. Golden took time to talk about some recently release bullying numbers. Going back to the work session, he clarified that they removed the "Other" category, which was heavily used last year. So some of the bullying categories' numbers look to have dramatically increased. But this is just a shift in how those incidences are being categorized.
+Mr. Golden took time to talk about some recently released bullying numbers. Going back to the work session, he clarified that they removed the "Other" category, which was heavily used last year. So some of the bullying categories' numbers look to have dramatically increased. But this is just a shift in how those incidences are being categorized.
 
 He also mentioned that the numbers were highest in middle schools. That makes sense, and is something we need to be vigilant about.
 
