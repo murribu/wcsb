@@ -2,7 +2,7 @@
 id: june2024
 title: "June 17, 2024"
 desc: The June 2024 Williamson County School Board Meeting
-updated: 1719346476562
+updated: 1720455408299
 created: 1719346476562
 ---
 
@@ -32,7 +32,7 @@ Last year, Mr. Golden's contract was extended unanimously ([link](https://x.com/
 
 [[people.o.Revida Rahman]] spoke during public comment, asking the board to do something to decrease the bullying numbers.
 
-Mr. Golden took time to talk about some recently release bullying numbers. Going back to the work session, he clarified that they removed the "Other" category, which was heavily used last year. So some of the bullying categories' numbers look to have dramatically increased. But this is just a shift in how those incidences are being categorized.
+Mr. Golden took time to talk about some recently released bullying numbers. Going back to the work session, he clarified that they removed the "Other" category, which was heavily used last year. So some of the bullying categories' numbers look to have dramatically increased. But this is just a shift in how those incidences are being categorized.
 
 He also mentioned that the numbers were highest in middle schools. That makes sense, and is something we need to be vigilant about.
 
@@ -45,7 +45,7 @@ After the first speaker, Mr. Golden clarified that the federal changes to Title 
 
 #### Supporting LGBTQ
 
-- Spencer List
+- Spencer Lyst
 - Heather Thomas
 - a student
 - [[people.o.Josh Scott]]
@@ -53,9 +53,9 @@ After the first speaker, Mr. Golden clarified that the federal changes to Title 
 #### Against LGBTQ
 
 - [[people.o.Bill Petty]]
-- Noah Craig
-- Genavene Pajos
-- Jenny Caperos
+- Noah Krieg
+- Genevieve Pahos
+- Jenny Caparos
 
 </details>
 
