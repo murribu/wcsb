@@ -2,7 +2,7 @@
 id: june2024
 title: "June 17, 2024"
 desc: The June 2024 Williamson County School Board Meeting
-updated: 1719346476562
+updated: 1720455408299
 created: 1719346476562
 ---
 
@@ -45,7 +45,7 @@ After the first speaker, Mr. Golden clarified that the federal changes to Title 
 
 #### Supporting LGBTQ
 
-- Spencer List
+- Spencer Lyst
 - Heather Thomas
 - a student
 - [[people.o.Josh Scott]]
@@ -53,9 +53,9 @@ After the first speaker, Mr. Golden clarified that the federal changes to Title 
 #### Against LGBTQ
 
 - [[people.o.Bill Petty]]
-- Noah Craig
-- Genavene Pajos
-- Jenny Caperos
+- Noah Krieg
+- Genevieve Pahos
+- Jenny Caparos
 
 </details>
 
