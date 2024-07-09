@@ -2,20 +2,20 @@
 id: 2024-candidate-info
 title: 2024 Candidate Info
 desc: ""
-updated: 1720534790714
+updated: 1720537066585
 created: 1719797390571
 nav_order: 1
 ---
 
 On this page, I'll coalesce the available information about the 2024 candidates for the Williamson County School Board.
 
-First, I'll recount my experience at the only in-person forum for this campaign and link to some surveys that the candidates could fill out.
+First, I'll recount my experience at the only in-person forum for this campaign.
 
 Then I'll link to a bunch of resources where candidates have shared information about themselves.
 
 ## League of Women Voters candidate event
 
-I attended the [[organizations.League of Women Voters]] candidate event [link](https://my.lwv.org/tennessee/williamson-county/event/meet-school-board-candidates-event). All 13 candidates were invited. Here is a brief summary of what I heard from the candidates who showed up.
+I attended the [[organizations.League of Women Voters]] candidate event ([link](https://my.lwv.org/tennessee/williamson-county/event/meet-school-board-candidates-event)). All 13 candidates were invited. Here is a brief summary of what I heard from the candidates who showed up.
 
 ### FSSD - Kevin Townsel (Independent)
 
@@ -53,7 +53,7 @@ She wants to stand up for the kids. She has a background in HR and higher educat
 
 Her 4 kids went to Williamson County Schools. 2 grandkids are WCS. She has a long history, a strong present, and a long future in this county. She is the chair of the Criminal Justice committee with the NAACP in Nashville
 
-She is passionately anti-vouchers
+She is passionately anti-vouchers.
 
 ### Candidates who did not show up
 
