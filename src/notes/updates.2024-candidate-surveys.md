@@ -2,7 +2,7 @@
 id: 2024-candidate-info
 title: 2024 Candidate Info
 desc: ""
-updated: 1720537066585
+updated: 1720538725319
 created: 1719797390571
 nav_order: 1
 ---
@@ -106,3 +106,5 @@ The [[organizations.Williamson County Chamber of Commerce]] interviewed the cand
 - District 11 [Tonja Hibma](https://ballotpedia.org/Tonja_Hibma#Campaign_themes)
 
 If you know of more publicly available surveys or forums, please let me know and I'll update the list.
+
+Also, if you want to know which district you're in, go to [https://tncot.cc/tndistrict](https://tncot.cc/tndistrict) and type in your address. Your "County Commission District" is the same as your School Board District.
