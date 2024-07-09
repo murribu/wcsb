@@ -92,6 +92,7 @@ publishing:
     siteHierarchies:
         - home
         - meetings
+        - updates
         - people
         - glossary
         - organizations

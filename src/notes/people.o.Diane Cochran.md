@@ -1,8 +1,8 @@
 ---
 id: diane-cochran
 title: Diane Cochran
-desc: ''
-updated: 1716472812823
+desc: ""
+updated: 1720490219560
 created: 1716394845821
 ---
 
@@ -14,7 +14,7 @@ Candidate for the Williamson County School Board in District 3
 
 [website](https://www.votedianecochran.com/)
 
-<a href="dcochran@votedianecochran">dcochran@votedianecochran</a>
+<a href="mailto:dcochran@votedianecochran">dcochran@votedianecochran</a>
 
 [facebook](https://www.facebook.com/vote.dianecochran)
 
