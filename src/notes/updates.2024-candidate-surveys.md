@@ -2,7 +2,7 @@
 id: 2024-candidate-info
 title: 2024 Candidate Info
 desc: ""
-updated: 1720538725319
+updated: 1720553716129
 created: 1719797390571
 nav_order: 1
 ---
@@ -102,7 +102,7 @@ The [[organizations.Williamson County Chamber of Commerce]] interviewed the cand
 - District 3 [Dennis Driggers](https://ballotpedia.org/Dennis_Driggers#Campaign_themes)
 - District 5 [Jennifer Aprea](https://ballotpedia.org/Jennifer_Aprea#Campaign_themes)
 - District 5 [Margie Johnson](https://ballotpedia.org/Margie_Johnson#Campaign_themes)
-- District 7 [Shandus Parish](https://ballotpedia.org/Shandus_Parish#Campaign_themes)
+- District 9 [Shandus Parish](https://ballotpedia.org/Shandus_Parish#Campaign_themes)
 - District 11 [Tonja Hibma](https://ballotpedia.org/Tonja_Hibma#Campaign_themes)
 
 If you know of more publicly available surveys or forums, please let me know and I'll update the list.
