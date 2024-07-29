@@ -2,7 +2,7 @@
 id: 2024-candidate-info
 title: 2024 Candidate Info
 desc: ""
-updated: 1720553716129
+updated: 1722285345231
 created: 1719797390571
 nav_order: 1
 ---
@@ -79,6 +79,10 @@ Here is a link to the survey that [[organizations.OneWillco]] sent out. [https:/
 
 [[organizations.SOCM]] hosted a virtual forum. You can see archived video here: [https://www.facebook.com/SOCMTN/videos/1674407056661959](https://www.facebook.com/SOCMTN/videos/1674407056661959).
 
+## Wilco Iris
+
+[[organizations.Wilco Iris]] published their candidate survey. You can find it at [https://docs.google.com/document/d/1bwVm62hYOeFqwggx3oYFw_h-I6fRxK2IoqBQLApC1Xc/mobilebasic](https://docs.google.com/document/d/1bwVm62hYOeFqwggx3oYFw_h-I6fRxK2IoqBQLApC1Xc/mobilebasic)
+
 ## Our Voices Aligned
 
 [[organizations.Our Voices Aligned]] produced a summary instagram post for each district's race:
@@ -104,6 +108,10 @@ The [[organizations.Williamson County Chamber of Commerce]] interviewed the cand
 - District 5 [Margie Johnson](https://ballotpedia.org/Margie_Johnson#Campaign_themes)
 - District 9 [Shandus Parish](https://ballotpedia.org/Shandus_Parish#Campaign_themes)
 - District 11 [Tonja Hibma](https://ballotpedia.org/Tonja_Hibma#Campaign_themes)
+
+## The News TN
+
+[The News TN](https://thenewstn.com) had a Q&A with the candidates and you can find those here: [https://www.thenewstn.com/schools/williamson-county-school-board-election-ramping-up-with-start-of-early-voting/article_7c14cd10-406f-11ef-869d-a786868d5e4d.html](https://www.thenewstn.com/schools/williamson-county-school-board-election-ramping-up-with-start-of-early-voting/article_7c14cd10-406f-11ef-869d-a786868d5e4d.html)
 
 If you know of more publicly available surveys or forums, please let me know and I'll update the list.
 
