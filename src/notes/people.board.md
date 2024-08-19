@@ -3,7 +3,7 @@ id: board
 title: Board Members
 desc: ""
 nav_order: 1
-updated: 1716474913737
+updated: 1724101002742
 created: 1716392615582
 ---
 
@@ -11,7 +11,7 @@ created: 1716392615582
 
 - District 1 Representative: [[people.board.Angela Durham]] (current Chair)
 - District 2 Representative: [[people.board.Dan Cash]]
-- District 3 Representative: vacant
+- District 3 Representative: [[people.board.Dennis Driggers]]
 - District 4 Representative: [[people.board.Josh Brown]] (current Vice Chair)
 - District 5 Representative: [[people.board.Jennifer Aprea]]
 - District 6 Representative: [[people.board.Jay Galbreath]]
