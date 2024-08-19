@@ -2,7 +2,7 @@
 id: august2024worksession
 title: "August 15, 2024"
 desc: ""
-updated: 1724095644192
+updated: 1724097501736
 created: 1724093757368
 ---
 
@@ -34,7 +34,7 @@ The district is reaching out to each family that chose not to opt in for counsel
 
 The incoming board members who won their elections are:
 
-- District 1: [[people.board.Tony Bostic]]
+- District 1: [[people.o.Tony Bostic]]
 - District 3: [[people.board.Dennis Driggers]]
 - District 5: [[people.o.Margie Johnson]]
 - District 7: [[people.o.Melissa Wyatt]]
