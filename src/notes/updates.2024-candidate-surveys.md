@@ -2,7 +2,7 @@
 id: 2024-candidate-info
 title: 2024 Candidate Info
 desc: ""
-updated: 1722285345231
+updated: 1724095741831
 created: 1719797390571
 nav_order: 1
 ---
@@ -59,7 +59,7 @@ She is passionately anti-vouchers.
 
 - District 1 - [[people.o.Tony Bostic]] (Republican)
 
-- District 3 - [[people.o.Dennis Driggers]] (Republican)
+- District 3 - [[people.board.Dennis Driggers]] (Republican)
 
 - District 5 - [[people.o.Margie Johnson]] (Republican)
 
