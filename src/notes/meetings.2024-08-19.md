@@ -2,11 +2,11 @@
 id: august2024
 title: "August 19, 2024 Board Meeting"
 desc: "The August 2024 Williamson County School Board Meeting"
-updated: 1724183315302
+updated: 1724186482677
 created: 1724180262538
 ---
 
-The board met for their August 2024 board meeting yesterday. For the first time in her tenure, [[people.board.Jennifer Aprea]] was absent. [[people.board.Rick Wimberly]] and [[people.board.Eric Welch]] were also absent.
+The board met for their August 2024 meeting yesterday. For the first time in her tenure, [[people.board.Jennifer Aprea]] was absent. [[people.board.Rick Wimberly]] and [[people.board.Eric Welch]] were also absent.
 
 - [Agenda](https://meeting.boeconnect.net/Public/Agenda/566?meeting=650356)
 - [Live Stream](https://www.youtube.com/live/_75NKjH_rvI) - 1:21:01
@@ -24,7 +24,7 @@ There were five main topics in the meeting:
 
 There was a large contingency from Brentwood Middle School and Brentwood High School who spoke in favor of increasing supplemental pay for fine arts teachers to be comparable to athletic coaches. This is the fourth month in a row in which students have impatiently and eloquently implored the school board to remediate this discrepancy. By my count, there were 10 students and 1 adult who spoke to this issue.
 
-[[Mr. Golden|people.admin.Jason Golden]] addressed these concerns during his Superintendent report, saying that there is working being done to make this change. But it's not a quick process.
+[[Mr. Golden|people.admin.Jason Golden]] addressed these concerns during his Superintendent report, saying that there is work being done to make this change. But it's not a quick process.
 
 [[people.o.Angela Frederick]] also addressed these concerns in her public comments, saying that progress is being made. She also thanked the outgoing board members for their service.
 
