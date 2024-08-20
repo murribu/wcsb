@@ -1,8 +1,8 @@
 ---
 id: august2024worksession
-title: "August 15, 2024"
-desc: ""
-updated: 1724097501736
+title: "August 15, 2024 Work Session"
+desc: "The August 2024 Williamson County School Board Work Session"
+updated: 1724180337643
 created: 1724093757368
 ---
 
