@@ -1,12 +1,12 @@
 ---
 id: august2024
 title: "August 19, 2024 Board Meeting"
-desc: "The August 2024 Williamson County School Board Meeting"
-updated: 1724186482677
+desc: The August 2024 Williamson County School Board Meeting
+updated: 1726319963403
 created: 1724180262538
 ---
 
-The board met for their August 2024 meeting yesterday. For the first time in her tenure, [[people.board.Jennifer Aprea]] was absent. [[people.board.Rick Wimberly]] and [[people.board.Eric Welch]] were also absent.
+The board met for their August 2024 meeting yesterday. For the first time in her tenure, [[people.pol.Jennifer Aprea]] was absent. [[people.pol.Rick Wimberly]] and [[people.board.Eric Welch]] were also absent.
 
 - [Agenda](https://meeting.boeconnect.net/Public/Agenda/566?meeting=650356)
 - [Live Stream](https://www.youtube.com/live/_75NKjH_rvI) - 1:21:01
@@ -42,10 +42,10 @@ The most discussed piece of the budget that was voted on this month pertained to
 
 ## Changing Board
 
-[[people.board.Angela Durham]], [[people.board.Sheila Cleveland]], and [[people.board.KC Haugh]] each gave moving remarks about their time on the board. We gave all of the outgoing board members a standing ovation in recognition of their service.
+[[people.pol.Angela Durham]], [[people.pol.Sheila Cleveland]], and [[people.pol.KC Haugh]] each gave moving remarks about their time on the board. We gave all of the outgoing board members a standing ovation in recognition of their service.
 
 As I said in my previous post, [[people.board.Dennis Driggers]] has already been seated as the representative from District 3. The other 5 new board members will be sworn in next month.
 
-Notably, [[people.o.Tony Caudill]] and [[people.o.Melissa Wyatt]] were in the audience for this meeting. Mr. Caudill lost his race to represent District 11. Ms. Wyatt won her race to represent District 7.
+Notably, [[people.o.Tony Caudill]] and [[people.board.Melissa Wyatt]] were in the audience for this meeting. Mr. Caudill lost his race to represent District 11. Ms. Wyatt won her race to represent District 7.
 
-The next school board meeting will be on Monday, September 16 at 6:30pm. You're invited to come join me!
+The next school board meeting will be on Monday, September 16 at 6:30pm. You're invited to come join me! It starts at 6:30pm at 1320 W Main St, Franklin, TN 37064.

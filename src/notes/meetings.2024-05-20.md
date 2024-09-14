@@ -1,6 +1,6 @@
 ---
 id: may2024
-title: "May 20, 2024"
+title: 'May 20, 2024'
 desc: The May 2024 Williamson County School Board Meeting
 updated: 1720539950383
 created: 1716388870579
@@ -59,7 +59,7 @@ There were also 7 speakers who spoke about the inequity in supplemental pay that
 
 ## Budget
 
-Three individuals spoke about the budget. Two of them are current county commissioners. They each seemed to speak without providing much context to their comments, assuming that the audience already knew where the budget conversation stood. [[people.pol.Barb Sturgeon]] started talking at [52:54](https://www.youtube.com/live/PEsvj1Da6zI?si=WpieMyGWE7_0LkaQ&t=3174). After 106 seconds, Chair [[Angela Durham|people.board.Angela Durham]] tried to cut her off. Remember, each speaker was allotted 60 seconds. Ms. Sturgeon continued to barrel through for a total of 135 seconds. Toward the end of her comments, she suggested an external audit. She took more than double her allotted time.
+Three individuals spoke about the budget. Two of them are current county commissioners. They each seemed to speak without providing much context to their comments, assuming that the audience already knew where the budget conversation stood. [[people.pol.Barb Sturgeon]] started talking at [52:54](https://www.youtube.com/live/PEsvj1Da6zI?si=WpieMyGWE7_0LkaQ&t=3174). After 106 seconds, Chair [[Angela Durham|people.pol.Angela Durham]] tried to cut her off. Remember, each speaker was allotted 60 seconds. Ms. Sturgeon continued to barrel through for a total of 135 seconds. Toward the end of her comments, she suggested an external audit. She took more than double her allotted time.
 
 <details>
 <summary>List of speakers</summary>
@@ -98,9 +98,9 @@ The prevailing opinion of board was that this policy would be onerous and imprac
 
 Some highlights:
 
-- [[people.board.Rick Wimberly]] [estimated](https://x.com/murribu/status/1792725464471199919) that this would add 450 hours of work per librarian per year
+- [[people.pol.Rick Wimberly]] [estimated](https://x.com/murribu/status/1792725464471199919) that this would add 450 hours of work per librarian per year
 - [[people.board.Eric Welch]] [read](https://x.com/murribu/status/1792730046005952737) excerpts from Roots. That book has never received any complaints and is historically valuable. Further, it was recently enshrined as an official state book of TN, nominated by [[people.pol.Gino Bulso]]. But under this policy, it would be removed. He called the TN law a "pile of crap."
-- [[people.board.Drason Beasley]] [spoke up](https://x.com/murribu/status/1792733750025207831), which is a rare event. He expressed some frustration that board members were critiquing the policy and yet they had not showed up for the policy meeting. [[people.board.Rick Wimberly]] jovially acknowledged that he was the object of that complaint.
+- [[people.board.Drason Beasley]] [spoke up](https://x.com/murribu/status/1792733750025207831), which is a rare event. He expressed some frustration that board members were critiquing the policy and yet they had not showed up for the policy meeting. [[people.pol.Rick Wimberly]] jovially acknowledged that he was the object of that complaint.
 - For an eloquent explanation of the implications of this policy, [watch Lisa Carson's comments](https://www.youtube.com/live/PEsvj1Da6zI?si=WW-ptyYfjeBk7qqd&t=9185). She helped write the policy they're voting on. This segment is about 4 or 5 minutes long.
 
-The policy passed for [[glossary.first reading]], by a vote of 9-2, with [[people.board.Eric Welch]] and [[people.board.KC Haugh]] dissenting.
+The policy passed for [[glossary.first reading]], by a vote of 9-2, with [[people.board.Eric Welch]] and [[people.pol.KC Haugh]] dissenting.
