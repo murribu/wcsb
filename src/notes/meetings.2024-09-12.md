@@ -2,7 +2,7 @@
 id: september2024worksession
 title: "September 12, 2024 Work Session"
 desc: The September 2024 Williamson County School Board Work Session
-updated: 1726324925300
+updated: 1726326137640
 created: 1726263986714
 ---
 
@@ -15,16 +15,16 @@ The main theme of the meeting was welcoming and orienting the new board members.
 
 ## Welcoming New Board Members
 
-Because of the TN legislature's decision to allow school board races to be partisan, we now have 6 new board members. It is unusual to have this level of turn over, so [[people.admin.Jason Golden]] began by going around the room for introductions. He also gave a susinct, 101-level overview of what the role of the board is, including the process by which the board will elect a board chair and vice chair on Monday.
+Because of the TN legislature's decision to allow school board races to be partisan, we now have 6 new board members. It is unusual to have this level of turnover, so [[people.admin.Jason Golden]] began by going around the room for introductions. He also gave a succinct, 101-level overview of what the role of the board is, including the process by which the board will elect a board chair and vice chair on Monday.
 
 He then transitioned into speaking about the viral mis-information problem about "targeted" schools. In that context, he emphasized that a threat to harm 2 or more people at school is now a zero-tolerance offense. This means that if someone is found to have made a valid threat, there is a mandatory one-year suspension.
 
 [[people.board.Dennis Driggers]] asked for an update on the "two students who were arrested last month and now there’s a lawsuit against us." He was told that that conversation would likely include legal advice and so it would need to be in a closed-door meeting. It took a couple of times to hear this message before he understood. Here is the story I believe he’s referring to:
 https://tennesseelookout.com/2024/08/21/another-lawsuit-challenges-use-of-threats-of-mass-violence-law-to-arrest-students-in-school/
 
-## Family Life Cirriculum
+## Family Life Curriculum
 
-The board discussed the annual family life cirriculum meeting. This is an opportunity for members of the public to view the family life cirriculum that is taught to 1st, 4th, 7th, and 9th grade students. The cirriculum is largely based on TN state law. For more info, you can read about [Erin's Law](https://www.tn.gov/content/dam/tn/education/health-&-safety/Erins_Law_Guidelines_2022_Final.pdf). The meeting will be held at 5pm this Monday evening at 1761 West Main Street Franklin TN 37064.
+The board discussed the annual family life curriculum meeting. This is an opportunity for members of the public to view the family life curriculum that is taught to 1st, 4th, 7th, and 9th grade students. The curriculum is largely based on TN state law. For more info, you can read about [Erin's Law](https://www.tn.gov/content/dam/tn/education/health-&-safety/Erins_Law_Guidelines_2022_Final.pdf). The meeting will be held at 5pm this Monday evening at 1761 West Main Street Franklin TN 37064.
 
 ## Textbook Adoption Process
 
