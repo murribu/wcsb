@@ -1,6 +1,6 @@
 ---
 id: june2024
-title: "June 17, 2024"
+title: 'June 17, 2024'
 desc: The June 2024 Williamson County School Board Meeting
 updated: 1720455408299
 created: 1719346476562
@@ -52,7 +52,7 @@ After the first speaker, Mr. Golden clarified that the federal changes to Title 
 
 #### Against LGBTQ
 
-- [[people.o.Bill Petty]]
+- [[people.pol.Bill Petty]]
 - Noah Krieg
 - Genevieve Pahos
 - Jenny Caparos
@@ -67,7 +67,7 @@ Also, Sarah Landing thanked the board for the work they did on the budget, speci
 
 This budget is the culmination of a LOT of work.
 
-Just before the vote to approve the budget, [[people.board.Jay Galbreath]] proposed an amendment to take the nearly $200k that we have allocated as a safety net and use it to increase arts teachers' supplemental pay. When asked, [[people.admin.Rachel Farmer]] (basically the district's CFO) said this made her very nervous. The amendment failed by one vote, 5-6. [[people.board.Angela Durham]], [[people.board.Dan Cash]], [[people.board.Josh Brown]], [[people.board.Jay Galbreath]], and [[people.board.Donna Clements]] voted for it.
+Just before the vote to approve the budget, [[people.board.Jay Galbreath]] proposed an amendment to take the nearly $200k that we have allocated as a safety net and use it to increase arts teachers' supplemental pay. When asked, [[people.admin.Rachel Farmer]] (basically the district's CFO) said this made her very nervous. The amendment failed by one vote, 5-6. [[people.pol.Angela Durham]], [[people.board.Dan Cash]], [[people.board.Josh Brown]], [[people.board.Jay Galbreath]], and [[people.board.Donna Clements]] voted for it.
 
 The main reasons folks voted against it were that (a) it would upset the delicate balance that had been already struck in the budget, (b) there could be unforeseen consequences (folks left out of the raise), (c) the removal of the safety net could cause many problems.
 
@@ -79,4 +79,4 @@ Not much changed since last month. [[people.admin.Lisa Carson]] was present agai
 
 The biggest moment was when [[people.board.Drason Beasley]] asked Ms. Carson, "Do you feel confident that you could defend WCS and keep us out of litigation if we pass this policy?" She answered, "No," explaining that it would depend on how the board responds to specific challenges that would determine her ability to defend the district.
 
-[[people.board.Eric Welch]] and [[people.board.KC Haugh]] voted against this policy in [[glossary.first reading]] last month. [[people.board.Rick Wimberly]] joined them in voting against it this month. But it passed 8-3. Those dissenting votes were grateful for the work put into the policy, but couldn't justify putting their name on a policy that bans books.
+[[people.board.Eric Welch]] and [[people.pol.KC Haugh]] voted against this policy in [[glossary.first reading]] last month. [[people.pol.Rick Wimberly]] joined them in voting against it this month. But it passed 8-3. Those dissenting votes were grateful for the work put into the policy, but couldn't justify putting their name on a policy that bans books.

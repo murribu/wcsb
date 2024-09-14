@@ -1,12 +1,12 @@
 ---
 id: august2024worksession
-title: "August 15, 2024 Work Session"
-desc: "The August 2024 Williamson County School Board Work Session"
+title: 'August 15, 2024 Work Session'
+desc: The August 2024 Williamson County School Board Work Session
 updated: 1724180337643
 created: 1724093757368
 ---
 
-The board met for their August [[glossary.Work Session]] this past Thursday. All board members were present except for [[people.board.Rick Wimberly]] and [[people.board.Donna Clements]]. Since [[people.pol.Eliot Mitchell]] retired, and [[people.board.Dennis Driggers]] won the election to replace him, Dr. Driggers has already been seated as a board member and was present at this meeting. The other election winners will be officially sworn in at the September meeting.
+The board met for their August [[glossary.Work Session]] this past Thursday. All board members were present except for [[people.pol.Rick Wimberly]] and [[people.board.Donna Clements]]. Since [[people.pol.Eliot Mitchell]] retired, and [[people.board.Dennis Driggers]] won the election to replace him, Dr. Driggers has already been seated as a board member and was present at this meeting. The other election winners will be officially sworn in at the September meeting.
 
 There were three main topics. First, policy updates to reflect changes to TN state law. Second, staffing. Third, counseling services.
 
@@ -34,12 +34,12 @@ The district is reaching out to each family that chose not to opt in for counsel
 
 The incoming board members who won their elections are:
 
-- District 1: [[people.o.Tony Bostic]]
+- District 1: [[people.board.Tony Bostic]]
 - District 3: [[people.board.Dennis Driggers]]
-- District 5: [[people.o.Margie Johnson]]
-- District 7: [[people.o.Melissa Wyatt]]
-- District 9: [[people.o.Claire Reeves]]
-- District 11: [[people.o.Tonja Hibma]]
+- District 5: [[people.board.Margie Johnson]]
+- District 7: [[people.board.Melissa Wyatt]]
+- District 9: [[people.board.Claire Reeves]]
+- District 11: [[people.board.Tonja Hibma]]
 
 ## Tonight
 

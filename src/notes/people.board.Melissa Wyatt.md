@@ -1,14 +1,14 @@
 ---
 id: melissa-wyatt
 title: Melissa Wyatt
-desc: ""
-updated: 1720489269058
+desc: ''
+updated: 1726317809974
 created: 1720489090669
 ---
 
 ## Position
 
-Candidate for the Williamson County School Board in District 7
+Williamson County School Board Representative from District 7
 
 ## Contact Info
 

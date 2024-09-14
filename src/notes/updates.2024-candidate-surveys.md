@@ -1,7 +1,7 @@
 ---
 id: 2024-candidate-info
 title: 2024 Candidate Info
-desc: ""
+desc: ''
 updated: 1724095741831
 created: 1719797390571
 nav_order: 1
@@ -33,13 +33,13 @@ She would love to make school board meetings boring again. And to continue the s
 
 ### District 5 - Jennifer Aprea (Independent)
 
-[[people.board.Jennifer Aprea]] is the only incumbent running. It'll be important to have a smooth transition to the new board. She and her kids are reaping the benefits of our great school system. She wants to keep politics out, so she's independent. She's a former teacher, and business owner.
+[[people.pol.Jennifer Aprea]] is the only incumbent running. It'll be important to have a smooth transition to the new board. She and her kids are reaping the benefits of our great school system. She wants to keep politics out, so she's independent. She's a former teacher, and business owner.
 
 Teacher retention and recruitment are the biggest issue. She wants to continue to work in advocating at the state and local level to properly fund education.
 
 ### District 7 - Melissa Wyatt (Independent)
 
-[[people.o.Melissa Wyatt]] says that retaining and recruiting teachers is the biggest issue. Also keeping public dollars in public school. She's anti-vouchers.
+[[people.board.Melissa Wyatt]] says that retaining and recruiting teachers is the biggest issue. Also keeping public dollars in public school. She's anti-vouchers.
 
 ### District 9 - Shandus Parish (Democrat)
 
@@ -57,17 +57,17 @@ She is passionately anti-vouchers.
 
 ### Candidates who did not show up
 
-- District 1 - [[people.o.Tony Bostic]] (Republican)
+- District 1 - [[people.board.Tony Bostic]] (Republican)
 
 - District 3 - [[people.board.Dennis Driggers]] (Republican)
 
-- District 5 - [[people.o.Margie Johnson]] (Republican)
+- District 5 - [[people.board.Margie Johnson]] (Republican)
 
 - District 7 - [[people.o.Angela Beaton]] (Republican)
 
-- District 9 - [[people.o.Claire Reeves]] (Republican)
+- District 9 - [[people.board.Claire Reeves]] (Republican)
 
-- District 11 - [[people.o.Tonja Hibma]] (Republican)
+- District 11 - [[people.board.Tonja Hibma]] (Republican)
 
 - District 11 - [[people.o.Tony Caudill]] (Independent)
 

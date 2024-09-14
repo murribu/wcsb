@@ -1,14 +1,14 @@
 ---
 id: margie-johnson
 title: Margie Johnson
-desc: ""
-updated: 1720490651410
+desc: ''
+updated: 1726317779322
 created: 1720489986003
 ---
 
 ## Position
 
-Candidate for the Williamson County School Board in District 5
+Williamson County School Board Representative from District 5
 
 ## Contact Info
 
