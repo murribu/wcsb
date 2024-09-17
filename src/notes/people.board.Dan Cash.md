@@ -1,14 +1,16 @@
 ---
 id: dan-cash
 title: Dan Cash
-desc: ''
-updated: 1716472791212
+desc: ""
+updated: 1726591350491
 created: 1716472492426
 ---
 
 ## Position
 
-Williamson County School Board Representative from District 2
+Vice Chair of the Williamson County School Board
+
+Representative from District 2
 
 ## Contact Info
 
