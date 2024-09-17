@@ -2,7 +2,7 @@
 id: september2024
 title: "September 16, 2024 Board Meeting"
 desc: "The September 2024 Williamson County School Board Meeting"
-updated: 1726596743097
+updated: 1726599193711
 created: 1726588045222
 ---
 
@@ -46,7 +46,7 @@ The board needed to elect a new chair and vice chair. [[people.board.Eric Welch]
 
 ### Public Comment
 
-I introduced the new board to the work of [[organizations.OneWillco]].
+[[I|people.o.Cory Martin]] introduced the new board to the work of [[organizations.OneWillco]].
 
 There were 5 middle schoolers and 2 adults who again addressed the inequity in supplemental pay for fine arts teachers.
 
