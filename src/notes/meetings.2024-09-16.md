@@ -2,7 +2,7 @@
 id: september2024
 title: "September 16, 2024 Board Meeting"
 desc: "The September 2024 Williamson County School Board Meeting"
-updated: 1726599193711
+updated: 1726667184100
 created: 1726588045222
 ---
 
@@ -56,6 +56,6 @@ And [[people.o.Angela Frederick]] introduced the board to the work of the [[orga
 
 All of the votes were unanimous. The only real contention was [[people.board.Margie Johnson]] musing that we should consider reducing the number of built-in snow days. We currently allow for 10 and we don't usually use them all. She was also concerned about whether we pay school-based employees when there are snow days. The short answer seemed to be that it's moot for salaried employees and hourly employees are paid for the hours that they actually work.
 
-The rest of the meeting was rather uneventful. They revisited and codified some of the points of discussion from [[Thursdays Work Session|meetings.2024-09-12]], so review that for more context.
+The rest of the meeting was rather uneventful. They revisited and codified some of the points of discussion from [[Thursday's Work Session|meetings.2024-09-12]], so review that for more context.
 
 The next school board meeting will be Monday, October 21st.
