@@ -1,10 +1,10 @@
 ---
 id: 2024-candidate-info
 title: 2024 Candidate Info
-desc: ''
-updated: 1724095741831
+desc: ""
+updated: 1729021610619
 created: 1719797390571
-nav_order: 1
+nav_order: 1000
 ---
 
 On this page, I'll coalesce the available information about the 2024 candidates for the Williamson County School Board.

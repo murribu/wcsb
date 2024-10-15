@@ -2,8 +2,9 @@
 id: september2024worksession
 title: "September 12, 2024 Work Session"
 desc: The September 2024 Williamson County School Board Work Session
-updated: 1726326137640
+updated: 1729021652060
 created: 1726263986714
+nav_order: 996
 ---
 
 The board met for their September [[glossary.Work Session]] on Thursday. All board members were present.

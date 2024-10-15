@@ -1,9 +1,10 @@
 ---
 id: june2024
-title: 'June 17, 2024'
+title: "June 17, 2024"
 desc: The June 2024 Williamson County School Board Meeting
-updated: 1720455408299
+updated: 1729021633684
 created: 1719346476562
+nav_order: 999
 ---
 
 This school board meeting had all of the same topics as [[last month's meeting|meetings.2024-05-20]], plus two more: (a) [[people.admin.Jason Golden]]'s evaluation and contract extension and (b) some new bullying numbers that were recently released.

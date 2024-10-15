@@ -2,8 +2,9 @@
 id: 2024-election-day
 title: 2024 Election Day
 desc: ""
-updated: 1722285524321
+updated: 1729021602320
 created: 1722284975301
+nav_order: 999
 ---
 
 ## Election Day

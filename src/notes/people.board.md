@@ -1,8 +1,8 @@
 ---
 id: board
 title: Board Members
-desc: ''
-updated: 1726317718024
+desc: ""
+updated: 1729018464160
 created: 1716392615582
 nav_order: 1
 ---
@@ -10,9 +10,9 @@ nav_order: 1
 ## School Board
 
 - District 1 Representative: [[people.board.Tony Bostic]]
-- District 2 Representative: [[people.board.Dan Cash]]
+- District 2 Representative: [[people.board.Dan Cash]] (current Vice Chair)
 - District 3 Representative: [[people.board.Dennis Driggers]]
-- District 4 Representative: [[people.board.Josh Brown]] (current Vice Chair)
+- District 4 Representative: [[people.board.Josh Brown]] (current Chair)
 - District 5 Representative: [[people.board.Margie Johnson]]
 - District 6 Representative: [[people.board.Jay Galbreath]]
 - District 7 Representative: [[people.board.Melissa Wyatt]]

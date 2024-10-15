@@ -1,9 +1,10 @@
 ---
 id: august2024worksession
-title: 'August 15, 2024 Work Session'
+title: "August 15, 2024 Work Session"
 desc: The August 2024 Williamson County School Board Work Session
-updated: 1724180337643
+updated: 1729021640307
 created: 1724093757368
+nav_order: 998
 ---
 
 The board met for their August [[glossary.Work Session]] this past Thursday. All board members were present except for [[people.pol.Rick Wimberly]] and [[people.board.Donna Clements]]. Since [[people.pol.Eliot Mitchell]] retired, and [[people.board.Dennis Driggers]] won the election to replace him, Dr. Driggers has already been seated as a board member and was present at this meeting. The other election winners will be officially sworn in at the September meeting.

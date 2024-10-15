@@ -2,8 +2,9 @@
 id: september2024
 title: "September 16, 2024 Board Meeting"
 desc: "The September 2024 Williamson County School Board Meeting"
-updated: 1726667184100
+updated: 1729021658509
 created: 1726588045222
+nav_order: 995
 ---
 
 There were two meetings of note yesterday: the Family Life Curriculum meeting and the regularly scheduled School Board meeting.

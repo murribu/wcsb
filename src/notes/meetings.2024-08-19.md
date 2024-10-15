@@ -2,8 +2,9 @@
 id: august2024
 title: "August 19, 2024 Board Meeting"
 desc: The August 2024 Williamson County School Board Meeting
-updated: 1726319963403
+updated: 1729021645927
 created: 1724180262538
+nav_order: 997
 ---
 
 The board met for their August 2024 meeting yesterday. For the first time in her tenure, [[people.pol.Jennifer Aprea]] was absent. [[people.pol.Rick Wimberly]] and [[people.board.Eric Welch]] were also absent.
