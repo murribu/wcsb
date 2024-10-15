@@ -1,9 +1,10 @@
 ---
 id: may2024
-title: 'May 20, 2024'
+title: "May 20, 2024"
 desc: The May 2024 Williamson County School Board Meeting
-updated: 1720539950383
+updated: 1729021625354
 created: 1716388870579
+nav_order: 1000
 ---
 
 This school board meeting had 4 main topics. The first pertained to the federal government's [update to Title IX](https://www.nytimes.com/2024/04/19/us/politics/biden-title-ix-rules.html) to include gender identity and sexual preference as protected classes. The second topic was the inequity in supplemental pay that negatively affects fine arts teachers. The third issue was the budget. And the final main concern was the new TN law regarding the availability of age appropriate materials in school libraries.
