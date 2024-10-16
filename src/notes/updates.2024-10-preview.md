@@ -2,7 +2,7 @@
 id: 2024-10-preview
 title: "October 2024 Work Session Preview"
 desc: ""
-updated: 1729028338301
+updated: 1729089955830
 created: 1729017800679
 nav_order: 998
 ---
@@ -10,6 +10,8 @@ nav_order: 998
 The [agenda](https://meeting.boeconnect.net/Public/Agenda/566?meeting=657178) for the Thursday, October 17, 2024 Work Session has two components that are worth noting before the meeting.
 
 ## Dress Code Policy Change
+
+UPDATE (10/16/24): The following interpretation was incorrect. See [[updates.2024-10-preview-correction]] for more context.
 
 The second section of the dress code policy outlines messages that are not allowed on clothing, such as the advocation of violence or the use of drugs. The third bullet point under this section specifies the types of hate speech that are not allowed.
 
