@@ -2,8 +2,8 @@
 id: josh-brown
 title: Josh Brown
 desc: ""
-nav_order: 2
-updated: 1726591346138
+nav_order: 1
+updated: 1729535795439
 created: 1716391797643
 ---
 
