@@ -2,7 +2,7 @@
 id: october2024
 title: "October 21, 2024 Board Meeting"
 desc: The October 2024 Williamson County School Board Meeting
-updated: 1729631003507
+updated: 1729631351142
 created: 1729613556867
 nav_order: 993
 ---
@@ -13,7 +13,7 @@ nav_order: 993
 
 ## Supplemental Pay for Arts Teachers
 
-Over the past 6 months or so, many folks from the public have shown up to speak to the descrepancy between what arts teachers receive as their supplemental pay versus what athletic coaches receive.
+Over the past 6 months or so, many folks from the public have shown up to speak to the discrepancy between what arts teachers receive as their supplemental pay versus what athletic coaches receive.
 
 Two students showed to keep this issue afloat. One of the students was making her 4th appearance speaking to the board.
 
@@ -45,7 +45,7 @@ He then took each argument for rescinding the resolution and addressed them one-
 
 [[people.board.Jay Galbreath]] said that it was unprecedented to send the resolution in March because it was so narrowly passed. He asked the board to consider a policy to dictate how many votes are needed on a resolution to pass it along to the legislature.
 
-[[people.board.Tonja Hibma]] says she would vote to rescind, in order to take a neutral stance. She said that this would be a good opportunity to look at TISA funding and get more money from the state of TN for Williamson County Schools.
+[[people.board.Tonja Hibma]] said she would vote to rescind, in order to take a neutral stance. She said that this would be a good opportunity to look at TISA funding and get more money from the state of TN for Williamson County Schools.
 
 The vote was 10-2 in favor of rescinding the anti-voucher resolution. [[people.board.Melissa Wyatt]] and [[people.board.Eric Welch]] were the "no" votes. Notably, [[people.board.Drason Beasley]] voted in favor of the anti-voucher resolution back in March. Then he voted to rescind it yesterday.
 
