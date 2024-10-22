@@ -2,8 +2,9 @@
 id: october2024
 title: "October 21, 2024 Board Meeting"
 desc: The October 2024 Williamson County School Board Meeting
-updated: 1729629808939
+updated: 1729629936231
 created: 1729613556867
+nav_order: 993
 ---
 
 - [Agenda](https://meeting.boeconnect.net/Public/Agenda/566?meeting=659574)
