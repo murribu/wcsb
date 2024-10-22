@@ -2,7 +2,7 @@
 id: may2024
 title: "May 20, 2024"
 desc: The May 2024 Williamson County School Board Meeting
-updated: 1729021625354
+updated: 1729619974209
 created: 1716388870579
 nav_order: 1000
 ---
@@ -34,7 +34,7 @@ Three people spoke against the recent changes, citing the many states (including
 - Laura Seay
 - Eli Givens
 - Robert Mcnamra
-- Eve Boger
+- [[people.o.Eve Boger]]
 - [[people.o.Braunwyn Windham]]
 - Lucie Pitt
 

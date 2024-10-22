@@ -2,10 +2,10 @@
 id: wilco-iris
 title: Wilco Iris
 desc: ""
-updated: 1716558508362
+updated: 1729619868157
 created: 1716394411737
 ---
 
-A Safe Space for LGBTQIA+ Teens
+A student-led, adult-facilitated non-profit for queer youth in Williamson County.
 
-[https://wilcoiris.org/](https://wilcoiris.org/)
+[https://www.threads.net/@wilco_iris](https://www.threads.net/@wilco_iris)
