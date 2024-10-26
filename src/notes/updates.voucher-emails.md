@@ -2,7 +2,7 @@
 id: voucher-emails
 title: Voucher Emails
 desc: ""
-updated: 1729976606711
+updated: 1729977080989
 created: 1729960597859
 nav_order: 996
 ---
@@ -37,6 +37,8 @@ District | Representative  | Anti | Pro | Replies | Voted
 I asked for emails from Monday, October 14 through Monday, October 21. If the representative replied on Tuesday, the 22nd or later (and I know some did), those are not counted in these totals. I asked for this timeframe because I was more interested in any correspondence prior to the meeting.
 
 Sixty-one people emailed the whole board while many others emailed just one representative, leading to the discrepancies between the board members' totals.
+
+It is important to note that the public had approximately 72 hours of notice about this vote.
 
 One constituent emailed the whole board asking them to rescind the anti-voucher resolution. That was [[people.pol.Barb Sturgeon]]. Of course, she is a county commissioner from District 8. She spoke for the residents of her district, saying that "the majority of them did not support [the anti-voucher resoltuion]." Notably in her email, Ms. Sturgeon misspelled [[people.board.Eric Welch]]'s name as "Welsh." He replied to her, "My last name is spelled Welch, with a CH like 'charged' and not an sh like 'shackled'." She replied, apologizing for the misspelling.
 
