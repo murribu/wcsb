@@ -2,7 +2,7 @@
 id: november2024worksession
 title: "November 14, 2024 Work Session"
 desc: "The November 2024 Williamson County School Board Work Session"
-updated: 1731708344166
+updated: 1731710761936
 created: 1731704469493
 nav_order: 992
 ---
@@ -30,7 +30,7 @@ There was a lively discussion of the Five Year Capital Plan (starting at [1:37:5
 
 The board was presented with calendars that they will be voting to approve for the two upcoming school years. Notably, Halloween will be a "professional development" day in 2025. You can see the discussion at [2:25:03](https://www.youtube.com/live/HSGD6aCMPCE?t=8703)
 
-They also talked about the proposed change to the Head Lice policy. Basically, to align more closely with CDC guidelines and the TN Department of Health, the proposed policy change would end the requirement to remove students from the classroom if lice is found. [2:43:58](https://www.youtube.com/live/HSGD6aCMPCE?t=9838)
+They also talked about the proposed change to the Head Lice policy. Basically, to align more closely with CDC guidelines and the TN Department of Health, the proposed policy change would end the requirement to remove students from the classroom if lice are found. [2:43:58](https://www.youtube.com/live/HSGD6aCMPCE?t=9838)
 
 There is a proposed change to the Equal Opportunity Employment policy to move "sexual orientation," "gender identity," and "pregnancy" into a parenthetical phrase following the word "sex." This is to align more closely with the EEOC's guidelines.
 
