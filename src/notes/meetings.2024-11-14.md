@@ -2,7 +2,7 @@
 id: november2024worksession
 title: "November 14, 2024 Work Session"
 desc: "The November 2024 Williamson County School Board Work Session"
-updated: 1731710761936
+updated: 1731710978870
 created: 1731704469493
 nav_order: 992
 ---
@@ -34,7 +34,7 @@ They also talked about the proposed change to the Head Lice policy. Basically, t
 
 There is a proposed change to the Equal Opportunity Employment policy to move "sexual orientation," "gender identity," and "pregnancy" into a parenthetical phrase following the word "sex." This is to align more closely with the EEOC's guidelines.
 
-[[people.board.Donna Clements]] took this as an opportunity to propose that we remove "sexual orientation" and "gender identity" from the policy. She noted that there are only 8 county districts in TN that have these words in their EO policy out of the 95 counties. [[people.admin.Dana Ausbrooks]] again explained why this would be a bad idea and could invite legal ramifications, as she did in the [[meetings.2024-10-17]]. You can see this discussion starting at [3:29:53](https://www.youtube.com/live/HSGD6aCMPCE?t=12593)
+[[people.board.Donna Clements]] took this as an opportunity to propose the removal of the words "sexual orientation" and "gender identity" from the policy. She noted that there are only 8 county districts in TN that have these words in their EO policy out of the 95 counties. [[people.admin.Dana Ausbrooks]] again explained why this would be a bad idea and could invite legal ramifications, as she did in the [[meetings.2024-10-17]]. You can see this discussion starting at [3:29:53](https://www.youtube.com/live/HSGD6aCMPCE?t=12593)
 
 Unfortunately, the video lost its audio feed as the board was discussing this possibility. However, the board will not be voting on the removal of those terms this month. So we will have plenty of opportunity to hear from our representatives on this topic before this kind of change is voted on.
 
