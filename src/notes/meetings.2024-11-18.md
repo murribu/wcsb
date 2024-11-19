@@ -2,7 +2,7 @@
 id: november2024
 title: "November 18, 2024 Board Meeting"
 desc: The November 2024 Williamson County School Board Meeting
-updated: 1732042865874
+updated: 1732050463209
 created: 1732034572563
 nav_order: 991
 ---
@@ -21,7 +21,7 @@ Ten folks spoke about the need to increase the amount of recess time our kids ge
 
 Seven folks signed up to speak about the discrepancy between fine arts teachers' supplemental pay versus athletic coaches' supplemental pay. Six of the speakers were students and they were all fantastic!
 
-Mr. Golden addressed this issue later in the meeting. In response to the persistent outcry, he added to his goals for the coming year. He hopes to "identity opportunities to access alternative funding sources for WCS academic, arts, and athletic programming."
+Mr. Golden addressed this issue later in the meeting. In response to the ongoing elevation of this issue, the board added to his goals for the coming year that he should "identity opportunities to access alternative funding sources for WCS academic, arts, and athletic programming."
 
 ## Calendar
 
@@ -29,23 +29,23 @@ Two people signed up to speak about the school calendar. The way the WCS calenda
 
 Mr. Golden addressed this later, saying that there are unintended consequences of accommodating this type of a custody plan. It may solve the problem for some, but create problems for others. So they focus on optimizing for education when forming the calendar. It is better for students and teachers to have fall break and spring break occur between quarters.
 
-## Five Year Plan
+## Five Year Capital Plan
 
 Every November, the board votes on a [[glossary.five year plan]]. This is a non-binding guess about how much money the district will need over the next five years. Once approved, it is sent on to the county commission for their perusal in January.
 
-[[people.board.Jay Galbreath]] asked to add some commentary to the Five Year Plan to show when each line item was added or changed. [[people.admin.Jason Golden]] and [[people.board.Claire Reeves]] agreed that this was a good idea.
+[[people.board.Jay Galbreath]] asked to add some commentary to the Five Year Capital Plan to show when each line item was added or changed. [[people.admin.Jason Golden]] and [[people.board.Claire Reeves]] agreed that this was a good idea.
 
 [[people.board.Tony Bostic]] and [[people.board.Margie Johnson]] expressed surprise and consternation about having to vote on this plan, saying that they weren't sure where these numbers came from.
 
 [[people.board.Donna Clements]] expressed concern that the numbers were too high. She cited the growth in our county that has leveled off over the past 4 years or so, saying that we might not need so many new schools.
 
-[[people.board.Josh Brown]] addressed the concerns, imploring the skeptical board members to collaborate and fix the problems they mentioned rather than vote against the Five Year Plan. If this plan were not to pass, it could have major negative financial implications for the county.
+[[people.board.Josh Brown]] addressed the concerns, imploring the skeptical board members to collaborate and fix the problems they mentioned rather than vote against the Five Year Capital Plan. If this plan were not to pass, it could have major negative financial implications for the county. Also, it should not have been a surprise. The board voted on the annual agenda, which included this Five Year Capital Plan, in August which was after the 6 new board members had won their races.
 
-Even still, [[people.board.Tony Bostic]] voted against the plan. [[people.board.Donna Clements]] and [[people.board.Margie Johnson]] abstained, which is effectively a "no" vote, since it needs 7 "yes" votes to pass. Fortunately, the other 9 board members voted in favor of the Five Year Plan, so it passed.
+Even still, [[people.board.Tony Bostic]] voted against the plan. [[people.board.Donna Clements]] and [[people.board.Margie Johnson]] abstained, which is effectively a "no" vote, since the plan needs 7 "yes" votes to pass. Fortunately, the other 9 board members voted in favor of the Five Year Captial Plan, so it passed.
 
 ## Equal Opportunity Employment Policy
 
-Last month, [[people.admin.Dana Ausbrooks]] recommended adding a footnote to the EOE policy, referencing [Bostock v. Clayton County](https://en.wikipedia.org/wiki/Bostock_v._Clayton_County). This was initially a tiny change and so it was going to be fast-tracked via a [[glossary.first and final]] vote. [[people.board.Donna Clements]] asked for it to go through the usual [[glossary.first reading]] process. In the intervening weeks, the change was expanded to move the words "pregnancy, sexual orientation, and gender identity" into a parenthetical statement after the word "sex." This closely mirrors the federal [EEOC](https://en.wikipedia.org/wiki/Equal_Employment_Opportunity_Commission) language.
+Last month, [[people.admin.Dana Ausbrooks]] recommended adding a footnote to the EOE policy, referencing [Bostock v. Clayton County](https://en.wikipedia.org/wiki/Bostock_v._Clayton_County). This was initially a tiny change and so it was going to be fast-tracked via a [[glossary.first and final]] vote. [[people.board.Donna Clements]] asked for it to go through the usual [[glossary.first reading]] process. In the intervening weeks, the change was expanded to move the words "pregnancy, sexual orientation, and gender identity" into a parenthetical phrase after the word "sex." This closely mirrors the federal [EEOC](https://en.wikipedia.org/wiki/Equal_Employment_Opportunity_Commission) language.
 
 There are a few board members who have expressed interest in removing the subclasses from the policy all together. Namely, [[people.board.Donna Clements]], [[people.board.Claire Reeves]], and [[people.board.Tony Bostic]]. So last night, Dr. Reeves proposed an amendment to do just that. It's important to note that this change wasn't an agenda item, so the public was not notified that this would be voted on.
 
