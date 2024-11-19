@@ -2,7 +2,7 @@
 id: november2024
 title: "November 18, 2024 Board Meeting"
 desc: The November 2024 Williamson County School Board Meeting
-updated: 1732042865874
+updated: 1732047186763
 created: 1732034572563
 nav_order: 991
 ---
@@ -41,7 +41,7 @@ Every November, the board votes on a [[glossary.five year plan]]. This is a non-
 
 [[people.board.Josh Brown]] addressed the concerns, imploring the skeptical board members to collaborate and fix the problems they mentioned rather than vote against the Five Year Plan. If this plan were not to pass, it could have major negative financial implications for the county.
 
-Even still, [[people.board.Tony Bostic]] voted against the plan. [[people.board.Donna Clements]] and [[people.board.Margie Johnson]] abstained, which is effectively a "no" vote, since it needs 7 "yes" votes to pass. Fortunately, the other 9 board members voted in favor of the Five Year Plan, so it passed.
+Even still, [[people.board.Tony Bostic]] voted against the plan. [[people.board.Donna Clements]] and [[people.board.Margie Johnson]] abstained, which is effectively a "no" vote, since the plan needs 7 "yes" votes to pass. Fortunately, the other 9 board members voted in favor of the Five Year Plan, so it passed.
 
 ## Equal Opportunity Employment Policy
 
