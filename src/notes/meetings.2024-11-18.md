@@ -2,7 +2,7 @@
 id: november2024
 title: "November 18, 2024 Board Meeting"
 desc: The November 2024 Williamson County School Board Meeting
-updated: 1732050463209
+updated: 1732072101809
 created: 1732034572563
 nav_order: 991
 ---
@@ -56,6 +56,10 @@ Mr. Welch went on to point out that this change would be a departure from the es
 The argument in favor of removing these terms seemed to coalesce around the possibility that the board will need to change the policy again if the federal guidance changes.
 
 By a vote of 9-3, the board increased liability for the district, flew in the face of how board policy has historically been derived, and went against the recommendation of the district's counsel by removing the terms "sexual orientation," "gender identity," and "pregnancy" from the Equal Opportunity Employment policy. [[people.board.Melissa Wyatt]], [[people.board.Eric Welch]], and [[people.board.Drason Beasley]] voted against this change.
+
+## Wilco Civic Brew
+
+If you'd like to hear [[people.pol.Nancy Garrett]] and [[people.pol.Jennifer Aprea]] discuss this meeting, check out their podcast, [Wilco Civic Brew](https://podcasts.apple.com/us/podcast/willco-civic-brew/id1772288327).
 
 ## Call To Action
 
