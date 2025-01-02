@@ -1,8 +1,8 @@
 ---
-id: mnq6lug6omnkj812l7jxajg
+id: december2024
 title: "December 9, 2024 Board Meeting"
 desc: "The December 2024 Williamson County School Board Meeting"
-updated: 1733849300965
+updated: 1735833575535
 created: 1733842219207
 nav_order: 990
 ---
