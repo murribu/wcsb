@@ -2,8 +2,9 @@
 id: january2025
 title: "January 21, 2025 Board Meeting"
 desc: ""
-updated: 1737584108106
+updated: 1737584269405
 created: 1737581987797
+nav_order: 989
 ---
 
 ## Work Session
