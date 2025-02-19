@@ -2,7 +2,7 @@
 id: june2024
 title: "June 17, 2024"
 desc: The June 2024 Williamson County School Board Meeting
-updated: 1729021633684
+updated: 1739981895726
 created: 1719346476562
 nav_order: 999
 ---
@@ -55,7 +55,7 @@ After the first speaker, Mr. Golden clarified that the federal changes to Title 
 
 - [[people.pol.Bill Petty]]
 - Noah Krieg
-- Genevieve Pahos
+- [[people.o.Genevieve Pahos]]
 - Jenny Caparos
 
 </details>

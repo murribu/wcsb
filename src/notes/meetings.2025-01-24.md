@@ -2,7 +2,7 @@
 id: jan24legislators
 title: WCSB Meeting with TN State Legislators
 desc: ""
-updated: 1737758817870
+updated: 1737759839285
 created: 1737754806220
 nav_order: 988
 ---
@@ -47,7 +47,7 @@ For some background, the state uses a formula called [TISA](https://www.tn.gov/e
 
 [[people.pol.Jack Johnson]] gave us a history lesson on TISA funding. It came about in the 1980s because of a lawsuit brought against the state, saying that it wasn't providing enough funds to smaller, rural counties. Williamson county was a part of that lawsuit because at that time, it was more rural! Now, we have grown a LOT and are on the other side of that equation.
 
-In order to get more money for Williamson County, they added a provision for "fast-growing" distrcits to receive more money. But then Williamson County stopped growing so much.
+In order to get more money for Williamson County, they added a provision for "fast-growing" districts to receive more money. But then Williamson County stopped growing so much.
 
 So now, they're looking at going outside of the TISA calculation to add funding for high-performing districts.
 
@@ -57,7 +57,7 @@ So now, they're looking at going outside of the TISA calculation to add funding 
 
 [[people.board.Melissa Wyatt]] cites the fact that 51 of the 95 TN counties do not have a private school option. Also, there are 184 schools in TN that would qualify for vouchers and the voucher amount only covers the tuition for 19 of them.
 
-Senator Johnson says that it's not designed to cover the entire amount, but just to help out. Maybe they can't pay $11k, but they could pay $4k.
+Senator Johnson says that it's not designed to cover the entire amount, but just to help out. Maybe a family can't pay $11k, but they could pay $4k.
 
 Mr. Bulso also mentioned that there aren't private schools in many rural counties YET. He's confident that the demand will draw in new institutions, including religious schools.
 
@@ -69,7 +69,7 @@ Mr. Welch and Senator Johnson had another heated exchange.
 
 [[people.board.Josh Brown]] wanted to know about the "hold harmless" clause.
 
-(This is Cory interjecting now with some background) The "hold harmless" clause says that if a school district loses enrollment because of folks using voucher - **or for any other reason** - their funding will not be negatively affected. At the instituion of the voucher bill, there will be a "floor" of funding established for each district and their funding will not go below that floor. There is some confusion about whether this floor is in perpetuity or whether it gets re-drawn after each school year. Okay, back to the meeting...
+(This is Cory interjecting now with some background) The "hold harmless" clause says that if a school district loses enrollment because of folks using vouchers - **or for any other reason** - their funding will not be negatively affected. At the institution of the voucher bill, there will be a "floor" of funding established for each district and their funding will not go below that floor. There is some confusion about whether this floor is in perpetuity or whether it gets re-drawn after each school year. Okay, back to the meeting...
 
 [[people.pol.Gino Bulso]] said that the floor will last for "as long as we have an education system."
 
