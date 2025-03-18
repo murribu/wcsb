@@ -2,8 +2,9 @@
 id: march2025
 title: "Board Rejects Teachers' and Parents' Textbook Recommendations"
 desc: Board Rejects Teachers' and Parents' Textbook Recommendations
-updated: 1742328555042
+updated: 1742328641407
 created: 1742308991890
+nav_order: 985
 ---
 
 - [Agenda](https://meeting.boeconnect.net/Public/Agenda/566?meeting=679313)
