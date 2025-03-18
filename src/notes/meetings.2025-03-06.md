@@ -2,7 +2,7 @@
 id: march2025worksession
 title: "March 6, 2025 Work Session"
 desc: The March 2025 Williamson County School Board Work Session
-updated: 1741405089510
+updated: 1741405818692
 created: 1741402505984
 nav_order: 986
 ---
@@ -30,7 +30,7 @@ The board adopted a decision tree to guide their process to determine whether a 
 
 ### Removal of First Amendment Guidance
 
-There was a section of the policy that specified that materials may not be removed "because of doctrinal approval/dispproval or based upon disagreement with viewpoints, political ideas or social perspectives discussed in the books." The board will be voting on whether to remove this section.
+There was a section of the policy that specified that materials may not be removed "because of doctrinal approval/disapproval or based upon disagreement with viewpoints, political ideas or social perspectives discussed in the books." The board will be voting on whether to remove this section.
 
 ### Mature Materials List
 
@@ -42,9 +42,9 @@ Parents will be required to opt-in each school year if they want their student t
 
 The discussion around this sounded like they will be adding to the policy that you don't have to have a kid in school (or be a WCS employee) in order to file a complaint. However, the policy amendment makes it look like that language is being removed. So I'm confused here. Hopefully this will be cleared up on Monday.
 
-### Science Book Adoption
+## Science Book Adoption
 
-Over the past month or so, the district has had viewing sessions so that the public could come inspect the science books that the district is considering adoption for the next 8 years. These materials range from Kindergarden to basically college textbooks for AP classes.
+Over the past month or so, the district has had viewing sessions so that the public could come inspect the science books that the district is considering adopting for the next 8 years. These materials range from Kindergarten to basically college textbooks for AP classes.
 
 There are only a handful of books for each subject that are approved by the state of TN. Some subjects only had one!
 
