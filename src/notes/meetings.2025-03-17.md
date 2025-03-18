@@ -2,7 +2,7 @@
 id: march2025
 title: "Board Rejects Teachers' and Parents' Textbook Recommendations"
 desc: Board Rejects Teachers' and Parents' Textbook Recommendations
-updated: 1742328269928
+updated: 1742328555042
 created: 1742308991890
 ---
 
@@ -59,3 +59,5 @@ The board then adopted the amended slate of textbooks by a vote of 9-2, with [[p
 ## Call to action
 
 Do you have a student who has taken AP Psych or might want to in the next 8 years? Please [email the board](https://www.wcs.edu/about-us/members) and let them know how you feel about the options they have.
+
+Also, if you want to join the [[organizations.OneWillco]] NCAA bracket challenge, [click here](https://docs.google.com/forms/d/e/1FAIpQLSf8Jh4aRolDxrb2NMSsB7ZdVw399_pwo7yqga03Q36FgBMTDg/viewform)
