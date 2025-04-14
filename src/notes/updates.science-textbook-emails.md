@@ -1,8 +1,8 @@
 ---
 id: science-textbook-emails
-title: Science Textbook Emails
+title: Teachers and Parents Give Feedback on the Rejection of their Science Textbook Recommendations
 desc: ""
-updated: 1744663126022
+updated: 1744663535803
 created: 1744557413579
 nav_order: 994
 ---
