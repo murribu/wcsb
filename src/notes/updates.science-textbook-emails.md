@@ -2,14 +2,14 @@
 id: science-textbook-emails
 title: Science Textbook Emails
 desc: ""
-updated: 1744661439764
+updated: 1744661909342
 created: 1744557413579
 nav_order: 994
 ---
 
 At the [[March board meeting|meetings.2025-03-17]], the board voted to adopt STEMscopes as our textbooks for K-8, in spite of it being the least recommended textbook by teachers (in some grades, STEMscopes got zero teacher votes). [Click here](https://www.facebook.com/story.php?story_fbid=122155366574530252&id=61565907579602&mibextid=wwXIfr&rdid=S4nLotwAn7e1QAYJ#) to see the specifics of which textbooks the teachers preferred.
 
-I was interested in seeing what the public reaction was to the board's decision. So I submitted a [[glossary.public records request]] to see all emails that were sent to or from any school board member between the dates of March 17, 2025 and April 1, 2025 with any of the following terms: "StemScopes", "STEM Scopes", "Science", "Textbook", and/or "Textbooks".
+I was interested in seeing what the public reaction was to the board's decision. So I submitted a [[glossary.public records request]] to see all emails that were sent to or from any school board members between the dates of March 17, 2025 and April 1, 2025 with any of the following terms: "StemScopes", "STEM Scopes", "Science", "Textbook", and/or "Textbooks".
 
 I received a PDF that was 1,426 pages long, containing 632 emails.
 
