@@ -2,9 +2,9 @@
 id: science-textbook-emails
 title: Science Textbook Emails
 desc: ""
-updated: 1744656331329
+updated: 1744657158945
 created: 1744557413579
-nav_order: 995
+nav_order: 994
 ---
 
 At the [[March board meeting|meetings.2025-03-17]], the board voted to adopt STEMscopes as our textbooks for K-8, in spite of the teachers recommending it lowest.
