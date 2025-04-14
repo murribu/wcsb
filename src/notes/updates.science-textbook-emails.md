@@ -2,14 +2,14 @@
 id: science-textbook-emails
 title: Science Textbook Emails
 desc: ""
-updated: 1744661439764
+updated: 1744662609632
 created: 1744557413579
 nav_order: 994
 ---
 
 At the [[March board meeting|meetings.2025-03-17]], the board voted to adopt STEMscopes as our textbooks for K-8, in spite of it being the least recommended textbook by teachers (in some grades, STEMscopes got zero teacher votes). [Click here](https://www.facebook.com/story.php?story_fbid=122155366574530252&id=61565907579602&mibextid=wwXIfr&rdid=S4nLotwAn7e1QAYJ#) to see the specifics of which textbooks the teachers preferred.
 
-I was interested in seeing what the public reaction was to the board's decision. So I submitted a [[glossary.public records request]] to see all emails that were sent to or from any school board member between the dates of March 17, 2025 and April 1, 2025 with any of the following terms: "StemScopes", "STEM Scopes", "Science", "Textbook", and/or "Textbooks".
+I was interested in seeing what the public reaction was to the board's decision. So I submitted a [[glossary.public records request]] to see all emails that were sent to or from any school board members between the dates of March 17, 2025 and April 1, 2025 with any of the following terms: "StemScopes", "STEM Scopes", "Science", "Textbook", and/or "Textbooks".
 
 I received a PDF that was 1,426 pages long, containing 632 emails.
 
@@ -146,7 +146,7 @@ students."
 
 "We feel unheard, unvalued, and discouraged. We respectfully ask you to reconsider your decision and honor the recommendation of the many teaching professionals who want only the best for their students." - WCS middle school science teacher
 
-"You really should listen to the experts as we are in the trenches every single day and know what works best for our students. This really is all part of a larger problem of communication and respect. In my 28 years of teaching , I have never once reached out to a board but strongly urge you to reconsider approval of the Science Curriculum you passed for WCS." - WCS elementary teacher
+"You really should listen to the experts as we are in the trenches every single day and know what works best for our students. This really is all part of a larger problem of communication and respect. In my 28 years of teaching, I have never once reached out to a board but strongly urge you to reconsider approval of the Science Curriculum you passed for WCS." - WCS elementary teacher
 
 "The lack of regard for the research and opinions that you asked for from us is an insult to the extra time and effort we put forth. I hope you will consider the injustice done and reconsider the voice of your educators." - WCS elementary math and science teacher
 
@@ -156,14 +156,14 @@ contend is merely a collection of articles - my classes could not utilize the ph
 This forced me to rely on online readings or print materials myself, as the digital platform updated those textbook mistakes." - WCS middle school science teacher
 
 "This decision was a huge blow to morale. I have personally been in education for 20 years and have never seen a school
-board chose a curriculum in such a manner. It is disrespectful to every WCS teacher for the school board to go rogue and choose curriculum that is completely outside
+board choose a curriculum in such a manner. It is disrespectful to every WCS teacher for the school board to go rogue and choose curriculum that is completely outside
 of what teachers and administration and parents believe is best for our schools." - WCS elementary school teacher
 
 "I am concerned about the adoption of STEMscopes, and my reason extends beyond comparing the available options side by side. My former district adopted STEMscopes. It proved to be an extremely challenging adoption for teachers to implement. The components were not user friendly, and the material did not help teachers cover the content with the necessary rigor, not to mention valuable time that was lost trying to figure out how to utilize the materials as well as time spent finding additional supplemental materials." - WCS elementary teacher
 
 "I am an elementary school counselor in Williamson County for 23 years. I have never contacted the entire board in my tenure here but I'm so saddened and disappointed with your decision on Monday night that I feel I must reach out. By choosing the textbook option that did not receive the majority support, you are undermining the educational goals that teachers and parents dedicated so many hours on. I also believe with this decision many exceptional science educators will be looking elsewhere for employment."
 
-"I'm writing to you to say how incredibly disappointed and angered I am, along with hundreds, if not thousands of teachers and members of the community over the recent science textbook adoption. Your decision is a slap in the face to teachers who have spent hours of PD and personal time researching , discussing , and diving into the textbook materials" - WCS elementary teacher
+"I'm writing to you to say how incredibly disappointed and angered I am, along with hundreds, if not thousands of teachers and members of the community over the recent science textbook adoption. Your decision is a slap in the face to teachers who have spent hours of PD and personal time researching, discussing, and diving into the textbook materials" - WCS elementary teacher
 
 "If anyone on the board ever questions why teaching positions are so difficult to fill please look directly at this science textbook adoption cycle to get your answer." - WCS employee
 
