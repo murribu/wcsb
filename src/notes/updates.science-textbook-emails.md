@@ -2,7 +2,7 @@
 id: science-textbook-emails
 title: Science Textbook Emails
 desc: ""
-updated: 1744657243622
+updated: 1744657694679
 created: 1744557413579
 nav_order: 994
 ---
@@ -92,7 +92,7 @@ He also hosted a very lengthy discussion on facebook. [Click here](https://www.f
 
 The only emails from [[people.board.Tony Bostic]] and [[people.board.Tonja Hibma]] were internal to other board members and/or front office personel.
 
-I found no emails from [[people.board.Drason Beasley]]
+I found no emails from [[people.board.Drason Beasley]]. He was absent from the board meeting and did not vote on this textbook adoption process.
 
 ## Work Session Agenda
 
