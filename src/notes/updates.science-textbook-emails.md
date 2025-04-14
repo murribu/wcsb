@@ -2,7 +2,7 @@
 id: science-textbook-emails
 title: Science Textbook Emails
 desc: ""
-updated: 1744654293601
+updated: 1744655609959
 created: 1744557413579
 nav_order: 995
 ---
@@ -20,15 +20,21 @@ Here is a 10,000 foot overview of what I found.
 `Anti` means they didn't.
 
 ```
-Category                       | Pro | Anti | Total
--------------------------------|-----|------|------
-General Public                 |  20 |  167 |   187
-Current or former teacher      |   1 |   93 |    94
-Current WCS teacher / employee |   0 |   81 |    81
-Adoption Process Participant   |   0 |   10 |    10
+Category       | Pro | Anti | Total
+---------------|-----|------|------
+General Public |  20 |  167 |   187
+Teachers       |   1 |   93 |    94
+WCS            |   0 |   81 |    81
+Committee      |   0 |   10 |    10
 ```
 
 I identified 187 unique individuals who wrote about the science textbook adoption for K-8 grades. Twenty of those individuals (around 11%) said they were pleased with the outcome. The other 89% ranged from angry to bewildered in their displeasure with the outcome.
+
+"Teachers" includes current and former teachers, from WCS and other districts.
+
+"WCS" includes current WCS teachers and employees.
+
+"Committee" includes folks who worked on the Textbook Adoption Committee
 
 Some of these emails were only sent to one or two board members, but the vast majority went to all of them.
 
