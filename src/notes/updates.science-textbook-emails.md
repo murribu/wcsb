@@ -2,7 +2,7 @@
 id: science-textbook-emails
 title: Science Textbook Emails
 desc: ""
-updated: 1744655609959
+updated: 1744656331329
 created: 1744557413579
 nav_order: 995
 ---
@@ -173,4 +173,4 @@ of what teachers and administration and parents believe is best for our schools.
 
 "If anyone on the board ever questions why teaching positions are so difficult to fill please look directly at this science textbook adoption cycle to get your answer." - WCS employee
 
-"I watched the morale in my bu ilding this week deteriorate as teachers processed this decision made by the board. All teachers, not just science teachers, questioned whether their voices mattered." - WCS math and science instructional coach
+"I watched the morale in my building this week deteriorate as teachers processed this decision made by the board. All teachers, not just science teachers, questioned whether their voices mattered." - WCS math and science instructional coach
