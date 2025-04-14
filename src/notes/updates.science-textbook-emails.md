@@ -2,7 +2,7 @@
 id: science-textbook-emails
 title: Science Textbook Emails
 desc: ""
-updated: 1744657694679
+updated: 1744659139378
 created: 1744557413579
 nav_order: 994
 ---
@@ -13,7 +13,7 @@ I was interested in seeing what the public reaction was to the board's decision.
 
 I received a PDF that was 1,426 pages long, containing 632 emails.
 
-Here is a 10,000 foot overview of what I found.
+This post is a 10,000 foot overview of what I found: Public Opinion Data, Responses from Board Members, and Quotes from Teachers.
 
 `Pro` means the emailer liked the choice of STEMscopes.
 
@@ -40,11 +40,11 @@ Some of these emails were only sent to one or two board members, but the vast ma
 
 ## Responses From Board Members
 
-### Dan Cash
+### Dan Cash (District 2)
 
 [[people.board.Dan Cash]] only replied to folks who agreed with his vote to adopt STEMscopes, mostly thanking them for their support.
 
-### Dennis Driggers
+### Dennis Driggers (District 3)
 
 Most of [[people.board.Dennis Driggers]]'s emails were internal to other board members or front office employees.
 
@@ -52,7 +52,7 @@ He asked for some help formulating his [Williamson Herald Op Ed](https://www.wil
 
 He also coordinated with [[organizations.MomsForLiberty]]'s local chapter chair, [[people.o.Genevieve Pahos]], to try to get a copy of the AP Psych book for her to peruse.
 
-### Josh Brown
+### Josh Brown (District 4)
 
 [[people.board.Josh Brown]] only showed up in two emails that I saw.
 
@@ -60,11 +60,11 @@ First, he corrected the record when [[people.board.Margie Johnson]] said that [[
 
 Second, he confirmed that he would not speak to the media.
 
-### Margie Johnson
+### Margie Johnson (District 5)
 
 [[people.board.Margie Johnson]] didn't show up much either. She sent some internal communications, upset about the textbook adoption process. And replied to 3 outside emails.
 
-### Jay Galbreath
+### Jay Galbreath (District 6)
 
 [[people.board.Jay Galbreath]] sent 18 emails in response to criticism, defending his position and better understanding constituent concerns. Some were short messages of thanks, others were long email threads where he discussed the situation in depth.
 
@@ -72,19 +72,19 @@ He also arranged to meet with some teachers to hear what they had to say in pers
 
 He also hosted a very lengthy discussion on facebook. [Click here](https://www.facebook.com/share/p/18b1WrE7wT/) to see it.
 
-### Melissa Wyatt
+### Melissa Wyatt (District 7)
 
 [[people.board.Melissa Wyatt]] voted against the adoption of STEMscopes. Most of her replies to constituents were thanking them for their efforts.
 
-### Donna Clements
+### Donna Clements (District 8)
 
 [[people.board.Donna Clements]] had a block of text that she copied and pasted as a response 105 times over the course of about an hour. The first one was at 6:46 PM on 3/26 and the last was at 7:47 PM that same night. She spent an average of about 35 seconds reading each teacher or constituent's email before pasting in her reply. Some emails were sent less than 10 seconds apart.
 
-### Claire Reeves
+### Claire Reeves (District 9)
 
 [[people.board.Claire Reeves]] engaged in dialog with one teacher who wrote in. It was a civil and in-depth discussion.
 
-### Eric Welch
+### Eric Welch (District 10)
 
 [[people.board.Eric Welch]] also voted against the adoption of STEM Scopes. Most of his replies to constituents were thanking them.
 
@@ -97,12 +97,6 @@ I found no emails from [[people.board.Drason Beasley]]. He was absent from the b
 ## Work Session Agenda
 
 The board will have their monthly [[glossary.Work Session]] on Thursday, April 17. The [agenda](https://meeting.boeconnect.net/Public/Agenda/566?meeting=684331) has already been posted and there is no mention of revisiting the science textbook adoption decision. So that likely means that it will not be reversed.
-
-## Pro STEMscopes emails
-
-One former WCS teacher wrote in to express her gratitude for the board's adopting of the STEMscopes textbooks.
-
-Another person wrote in claiming that there were "hateful and disrespectful messages" being sent by teachers and staff. It was revealed in another email that this claim was made before he had any evidence. I can confirm that there were many teachers and staff who wrote in about this topic. Some of them were certainly angry, but zero of them were hateful or disrespectful.
 
 ## Quotes from teachers
 
@@ -174,3 +168,9 @@ of what teachers and administration and parents believe is best for our schools.
 "If anyone on the board ever questions why teaching positions are so difficult to fill please look directly at this science textbook adoption cycle to get your answer." - WCS employee
 
 "I watched the morale in my building this week deteriorate as teachers processed this decision made by the board. All teachers, not just science teachers, questioned whether their voices mattered." - WCS math and science instructional coach
+
+## Pro STEMscopes emails
+
+One former WCS teacher wrote in to express her gratitude for the board's adopting of the STEMscopes textbooks.
+
+Another person wrote in claiming that there were "hateful and disrespectful messages" being sent by teachers and staff. It was revealed in another email that this claim was made before he had any evidence. I can confirm that there were many teachers and staff who wrote in about this topic. Some of them were certainly angry, but zero of them were hateful or disrespectful.
