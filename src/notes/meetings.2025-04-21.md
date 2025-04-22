@@ -2,7 +2,7 @@
 id: april2025
 title: "Parents Show Up To Support Teachers"
 desc: "The April 21, 2025 Williamson County School Board Meeting"
-updated: 1745354517138
+updated: 1745354638642
 created: 1745337300089
 nav_order: 984
 ---
@@ -66,7 +66,7 @@ It also requires librarians to develop a "Mature Materials List", in order to co
 
 ## Special Education
 
-At the work session, there was a long discussion about the [[glossary.iep]] process. [[people.board.Tony Bostic]] seemed displeased with the way the district interacts with parents of students with an IEP. He suggested instituting a program where educators would be required to maintain service delivery logs to ensure that they were complying with IEPs. Front office personnel and [[people.board.Eric Welch]] resisted this idea, saying it would add an unnecessary burden on our educators. [[people.admin.Dana Ausbrooks]] further explained that this type of a system would not enhance our protection against IEP complaints. Compliance with an IEP is driven by results, not by process. If the required services are rendered and the student does not make progress, the education system has still failed. The SDL system would not protect the district in such a case.
+At the work session, there was a long discussion about the [[glossary.iep]] process. [[people.board.Tony Bostic]] seemed displeased with the way the district interacts with parents of students with an IEP. At the work session, he proposed instituting a program where educators would be required to maintain service delivery logs to ensure that they were complying with IEPs. Front office personnel and [[people.board.Eric Welch]] resisted this idea, saying it would add an unnecessary burden on our educators. [[people.admin.Dana Ausbrooks]] further explained that this type of a system would not enhance our protection against IEP complaints. Compliance with an IEP is driven by results, not by process. If the required services are rendered and the student does not make progress, the education system has still failed. The SDL system would not protect the district in such a case.
 
 So, Mr. Bostic's proposed changes were excluded from the vote this month.
 
