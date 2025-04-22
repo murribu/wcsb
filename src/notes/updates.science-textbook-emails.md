@@ -1,8 +1,8 @@
 ---
 id: science-textbook-emails
-title: Science Textbook Emails
+title: Teachers and Parents Give Feedback on the Rejection of their Science Textbook Recommendations
 desc: ""
-updated: 1744662609632
+updated: 1744663535803
 created: 1744557413579
 nav_order: 994
 ---
@@ -90,7 +90,7 @@ He also hosted a very lengthy discussion on facebook. [Click here](https://www.f
 
 ### Others
 
-The only emails from [[people.board.Tony Bostic]] and [[people.board.Tonja Hibma]] were internal to other board members and/or front office personel.
+The only emails from [[people.board.Tony Bostic]] and [[people.board.Tonja Hibma]] were internal to other board members and/or front office personnel.
 
 I found no emails from [[people.board.Drason Beasley]]. He was absent from the board meeting and did not vote on this textbook adoption process.
 
