@@ -2,7 +2,7 @@
 id: april2025
 title: "Parents Show Up To Support Teachers"
 desc: "The April 21, 2025 Williamson County School Board Meeting"
-updated: 1745354638642
+updated: 1745355783079
 created: 1745337300089
 nav_order: 984
 ---
@@ -54,7 +54,7 @@ This change also removes "Williamson County resident" from the list of persons w
 
 ### Mature Materials List
 
-It also requires librarians to develop a "Mature Materials List", in order to comply with TN state law, as mentioned above. There was some concern about the label "Mature" as it might imply that there are inappropriate materials, specifically in elementary schools. The policy's intent is to identify materials that might not be age-appropriate.
+It also requires librarians to develop a "Mature Materials List" in order to comply with TN state law, as mentioned above. There was some concern about the label "Mature" as it might imply that there are inappropriate materials, specifically in elementary schools. The policy's intent is to identify materials that might not be age-appropriate.
 
 ### Vote
 
