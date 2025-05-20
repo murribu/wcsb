@@ -2,7 +2,7 @@
 id: may2025
 title: "Board Protects Admin Pay"
 desc: "The May 19, 2025 Williamson County School Board Meeting"
-updated: 1747757415948
+updated: 1747766782729
 created: 1747753492777
 nav_order: 983
 ---
@@ -21,6 +21,8 @@ And their regular voting meeting last night.
 All board members were present for both meetings.
 
 Compared to recent months, these were pretty boring meetings. Three issues stood out to me though: service delivery logs for educational service providers, homeschool students' ability to participate in marching band, and the conversation around teacher and admin salaries.
+
+There was some school board news that did not happen in a meeting as well. [[people.board.Tony Bostic]], [[people.board.Margie Johnson]], and [[people.board.Donna Clements]] are suing the Tennessee Department of Education for the alleged "chronic underfunding of Williamson County Schools." The Williamson Scene wrote a great article on it. You can read it by [clicking here](https://www.williamsonscene.com/news/state-education-department-sued-for-underfunding-williamson-schools/article_0755976d-3ea9-4728-b822-ee7622064685.html)
 
 ## Service Delivery Logs
 
