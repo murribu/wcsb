@@ -2,7 +2,7 @@
 id: may2025
 title: "Board Protects Admin Pay"
 desc: "The May 19, 2025 Williamson County School Board Meeting"
-updated: 1747766782729
+updated: 1747767809966
 created: 1747753492777
 nav_order: 983
 ---
@@ -21,8 +21,6 @@ And their regular voting meeting last night.
 All board members were present for both meetings.
 
 Compared to recent months, these were pretty boring meetings. Three issues stood out to me though: service delivery logs for educational service providers, homeschool students' ability to participate in marching band, and the conversation around teacher and admin salaries.
-
-There was some school board news that did not happen in a meeting as well. [[people.board.Tony Bostic]], [[people.board.Margie Johnson]], and [[people.board.Donna Clements]] are suing the Tennessee Department of Education for the alleged "chronic underfunding of Williamson County Schools." The Williamson Scene wrote a great article on it. You can read it by [clicking here](https://www.williamsonscene.com/news/state-education-department-sued-for-underfunding-williamson-schools/article_0755976d-3ea9-4728-b822-ee7622064685.html)
 
 ## Service Delivery Logs
 
@@ -53,6 +51,10 @@ The rest of the meeting was filled with unanimous votes on budget issues and sma
 The amendment failed, 8-3-1 with [[people.board.Tony Bostic]], [[people.board.Dennis Driggers]], and [[people.board.Margie Johnson]] voting in favor of the amendment and [[people.board.Donna Clements]] abstaining.
 
 The unamended Pay Charts were approved 10-1-1 with [[people.board.Margie Johnson]] voting no and [[people.board.Tony Bostic]] abstaining.
+
+## Some Board Members Sue TN Department of Education
+
+There was some school board news this month that happened outside of their public meetings. [[people.board.Tony Bostic]], [[people.board.Margie Johnson]], and [[people.board.Donna Clements]] are suing the Tennessee Department of Education for the alleged "chronic underfunding of Williamson County Schools." The Williamson Scene wrote a great article on it. You can read it by [clicking here](https://www.williamsonscene.com/news/state-education-department-sued-for-underfunding-williamson-schools/article_0755976d-3ea9-4728-b822-ee7622064685.html)
 
 ## Call to Action
 
