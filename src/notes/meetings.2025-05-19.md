@@ -1,8 +1,8 @@
 ---
 id: may2025
-title: "The Board Protects Admin Pay"
+title: "Board Protects Admin Pay"
 desc: "The May 19, 2025 Williamson County School Board Meeting"
-updated: 1747756164174
+updated: 1747757415948
 created: 1747753492777
 nav_order: 983
 ---
@@ -49,6 +49,8 @@ The rest of the meeting was filled with unanimous votes on budget issues and sma
 [[people.board.Claire Reeves]] and [[people.board.Eric Welch]] were both concerned about the lack of time available to consider this change, which led to a conversation about delaying the approval of the Pay Charts. Ms. Hall said that would be problematic because they are currently trying to hire teachers. So the board agreed that a deferral was a bad idea.
 
 The amendment failed, 8-3-1 with [[people.board.Tony Bostic]], [[people.board.Dennis Driggers]], and [[people.board.Margie Johnson]] voting in favor of the amendment and [[people.board.Donna Clements]] abstaining.
+
+The unamended Pay Charts were approved 10-1-1 with [[people.board.Margie Johnson]] voting no and [[people.board.Tony Bostic]] abstaining.
 
 ## Call to Action
 
