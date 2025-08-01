@@ -2,9 +2,9 @@
 id: 2025-superintendent-evaluation
 title: 2025 Superintendent Evaluation
 desc: ""
-updated: 1754083102130
+updated: 1754083456694
 created: 1754074773874
-nav_order: 994
+nav_order: 993
 ---
 
 Each June, the school board evaluates the superintendent against the goals he set for himself the previous August. Those goals have to be approved by the board and then they guide his efforts over the school year. Each board member ranks the superintendent's performance on a scale of 1 to 5 pertaining to each goal, with 1 meaning "Significantly Below Expectations" and 5 meaning "Significantly Above Expectations." These ranks are then weighted and compiled for an overall evaluation score.
