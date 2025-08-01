@@ -2,7 +2,7 @@
 id: june2025
 title: "Superintendent Evaluation and Cell Phone Free Schools"
 desc: "The June 16, 2025 Williamson County School Board Meeting"
-updated: 1750270222525
+updated: 1750271231535
 created: 1750267327670
 nav_order: 982
 ---
@@ -28,7 +28,7 @@ There were three main topics discussed this month.
 
 When Mr. Golden was hired, it was on a 4-year contract. Each June since then, the board has voted to extend his contract by one year, which has kept his deal perpetually with 4 years on it.
 
-Each June has also brought the board's annual evaluation of the superintendent. I'm going to go into a deeper dive on these next month, but the most interesting difference this year is the fact that Mr. Golden did not ask for an extension, so there was no board vote.
+Each June has also brought the board's annual evaluation of the superintendent. I'm going to go into a deeper dive on these next month, but the most interesting difference this year is the fact that Mr. Golden did not ask for an extension, so there was no board vote on whether to extend his contract.
 
 His given reason was the fact that half of the board has only worked with him for a few months, so he wanted to spend more time working with them before asking for an extension.
 
@@ -47,7 +47,7 @@ There is a new TN law that requires public schools to adopt a policy that limits
 
 Ultimately, that effort failed and the board adopted a policy that wireless communication devices must be "silenced and not used during the school day." But the student may remain in possession of them. This includes devices like watches, cell phones, laptops, tablets, and gaming devices. There is a carveout for high school lunchtime. Cell phones will be allowed then.
 
-The main reason for not wanting to go "bell to bell" is the difficulty in implementation. It seemed like every board member wants to get to that policy and the board probably will get there eventually. But it was going to be such a big chance, they felt that it would be burdensome to the administrators to go all the way too quickly.
+The main reason for not wanting to go "bell to bell" is the difficulty in implementation. It seemed like every board member wants to get to that policy and the board probably will get there eventually. But it was going to be such a big change, they felt that it would be burdensome to the administrators to go all the way too quickly.
 
 ## Next Meeting
 
