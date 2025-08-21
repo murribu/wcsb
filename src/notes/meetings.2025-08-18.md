@@ -1,8 +1,8 @@
 ---
 id: august2025
-title: "Removal of Diversity Goal, New School Year Starting Strong"
+title: "Diversity Goal Removed"
 desc: ""
-updated: 1755784729640
+updated: 1755786359213
 created: 1755782548620
 nav_order: 981
 ---
@@ -49,6 +49,30 @@ One parent spoke about a traumatizing incident. His daughter, among other studen
 Another citizen spoke about a desire for our cell phone ban to go further, advocating for a "bell to bell" restriction.
 
 This prompted [[people.admin.Jason Golden]] to talk about how the existing ban has been going. He said that it has gone more smoothly than they anticipated, but warned that they may be in a "honeymoon period."
+
+## New School Year Starting Strong
+
+### Enrollment
+
+Mr. Golden cited many numbers, indicating a strong start to our new school year. Enrollment is higher than expected. We expected a 0.4% decrease and it has only been a 0.2% decrease. Each cohort has higher enrollment than last year. Though there are about 1300 fewer kindergardeners this year than seniors who graducated last year, which leads to the overall decrease.
+
+### Teacher Bonuses
+
+The teachers across the district received their bonuses that were issued from the state of Tenneesee in conjunction with the voucher bill.
+
+### Retention in 3rd and 4th Grade
+
+Fewer than five 3rd and 4th graders were retained this past year. And for those who were retained, the decision was made based on conversations with the families and school admin. This is a continuation of what our schools have been doing for years.
+
+## Mature Reading Lists
+
+Parents can now proactively opt their children out of having access to materials that are deemed "mature." Thirteen percent of parents district-wide have chosen this option. Here are the numbers by grade band:
+
+Elementary: 18%
+
+Middle: 13%
+
+High: 7%
 
 ## Next Meeting
 
