@@ -2,7 +2,7 @@
 id: 2025-superintendent-evaluation
 title: 2025 Superintendent Evaluation
 desc: ""
-updated: 1754083456694
+updated: 1754084322958
 created: 1754074773874
 nav_order: 993
 ---
@@ -29,7 +29,7 @@ Year | Avg  | Min  | Max  | Vote   |
 2025 | 3.31 | 2.46 | 4.43 |  N/A   |
 ```
 
-- I can't know min and max for 2022 because of missing data, but the average was published in the agenda for the [June 2022 meeting](https://meeting.boeconnect.net/Public/Agenda/566?meeting=531239).
+- I can't know min and max for 2022 because of missing data, but the average was published in the [June 2022 meeting agenda](https://meeting.boeconnect.net/Public/Agenda/566?meeting=531239).
 
 The lowest score over this time period was from [[people.board.Jay Galbreath]] in 2021, when he gave the superintendent a score of 1.5 out of 5. This was largely due to Mr. Galbreath's dissatisfaction with Mr. Golden's leadership coming out of the pandemic. Not surprisingly, Mr. Galbreath voted not to extend Mr. Golden's contract that year.
 
@@ -37,7 +37,7 @@ The highest score is a tie between [[people.board.Drason Beasley]] in 2023 and 2
 
 The highest score that received a "No" vote on the contract extension was from [[people.board.Donna Clements]] in 2024. She presented a 3.28, which would be between "Met Expectations" and "Above Expectations." She cited concerns regarding the superintendent's salary not being explicitly noted in the amendment as her reasoning for voting against the extension.
 
-The lowest score that received a "Yes" vote was from [[people.pol.Angela Durham]] in 2021. She gave Mr. Golden a 2.25, which is second lowest only to the aforementioned 1.5 that Mr. Galbreath assessed that same year. But, she voted to extend his contract anyway.
+The lowest score that received a "Yes" vote was from [[people.pol.Angela Durham]] in 2021. She gave Mr. Golden a 2.25, which is second lowest only to the aforementioned 1.5 that Mr. Galbreath assessed that same year. But, she voted to extend his contract.
 
 Obviously most of these scores are from members who are no longer serving on the board, so there may be very little signal to derive here. But if we take Ms. Clements's line of 3.28 as the high water mark for a "no", there were 6 evaluations below that line this year. If, however, we take Ms. Durham's 2.25 mark as the low end for a "yes," all 12 evaluations were above that line.
 
