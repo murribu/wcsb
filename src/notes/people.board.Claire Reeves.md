@@ -1,14 +1,17 @@
 ---
 id: claire-reeves
 title: Claire Reeves
-desc: ''
-updated: 1726317830925
+desc: ""
+updated: 1758036903633
 created: 1720490165248
+nav_order: 2
 ---
 
 ## Position
 
-Williamson County School Board Representative from District 9
+Vice Chair of the Williamson County School Board
+
+Representative from District 9
 
 ## Contact Info
 
