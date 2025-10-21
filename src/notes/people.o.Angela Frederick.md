@@ -2,8 +2,8 @@
 id: angela-frederick
 title: Angela Frederick
 desc: ""
-updated: 1724181432220
+updated: 1761056569631
 created: 1724181124845
 ---
 
-President of [[organizations.WCEA]]
+Former president of [[organizations.WCEA]]
