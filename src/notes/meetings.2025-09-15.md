@@ -2,7 +2,7 @@
 id: september2025
 title: "Teacher Suspended Pending Investigation"
 desc: ""
-updated: 1758048478687
+updated: 1758055488914
 created: 1758036132844
 nav_order: 980
 ---
@@ -22,7 +22,7 @@ They also held their regular voting meeting Monday night.
 
 [[people.board.Tonja Hibma]] was absent from this meeting as well.
 
-Earlier in the month, on September 4th, the district hosted its annual presentation of the Family Life Curriculum. I was one of three members of the public who attended. Ms. Hibma was also in attendance.
+Earlier in the month, on September 4th, the district hosted its annual presentation of the Family Life Curriculum. I was one of three members of the public who attended. Ms. Hibma was also in attendance. It was very similar to the presentation from last year, which you can read about [[here|meetings.2024-09-16]].
 
 There were four topics from the school board meetings that stood out to me. First, the board elected a Chair and Vice Chair for this school year. Second, a public commenter returned to discuss how the district has dealt with his child receiving death threats. Third, they are beginning discussions about the next budget, including concerns regarding "class voluntary fees." And fourth, a WCS high school teacher was suspended pending an investigation into a social media post she allegedly made.
 
@@ -34,7 +34,7 @@ There were four topics from the school board meetings that stood out to me. Firs
 
 ## Death Threat
 
-As I wrote [[last week|meetings.2025-08-18]], a parent spoke about his dissatisfaction with how the district responded to his kid receiving death threats. He returned this month with some of his friends to speak on his behalf as well. There was some confusion when the first speaker asked to give his time to someone else. Mr. Brown conferred with counsel and decided not to allow this, so the speaker yielded his time. After the father finished, he claimed his friend had not been allowed to speak. In a rare moment, Mr. Brown directly rebutted him, clarifying that the other speaker was allowed but had chosen not to speak.
+As I wrote [[last month|meetings.2025-08-18]], a parent spoke about his dissatisfaction with how the district responded to his kid receiving death threats. He returned this month with some of his friends to speak on his behalf as well. There was some confusion when the first speaker asked to give his time to someone else. Mr. Brown conferred with counsel and decided not to allow this, so the speaker yielded his time. After the father finished, he claimed his friend had not been allowed to speak. In a rare moment, Mr. Brown directly rebutted him, clarifying that the other speaker was allowed but had chosen not to speak.
 
 ## Budget
 
@@ -42,7 +42,7 @@ It's very early in the budget process, but [[people.board.Jay Galbreath]] is bea
 
 ## Teacher Suspended For Social Media Post
 
-Monday morning, a WCS teacher was suspended without pay pending an investigation into her social media post regarding Charlie Kirk's death. You can read the WKRN story [here](https://www.wkrn.com/news/local-news/williamson-county-school-employee-suspended-for-charlie-kirk-comments/). An important detail that is omitted from that story is that this post was intended for a private audience. Someone then took that post and publicized it.
+Monday morning, a WCS teacher was suspended without pay pending an investigation into her social media post regarding Charlie Kirk's death. You can read the WKRN story [here](https://www.wkrn.com/news/local-news/williamson-county-school-employee-suspended-for-charlie-kirk-comments/). An important detail that is omitted from that story is that this post was intended for a private audience. Someone then took that private post and publicized it.
 
 By my count, four or five members of the public spoke to encourage the board to terminate the teacher. One member of the public spoke to ask the board not to terminate her. This one member has a child in the teacher's class.
 
