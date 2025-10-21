@@ -2,19 +2,19 @@
 id: october2025
 title: "Cell Phone Policy Compromise"
 desc: ""
-updated: 1761073172433
+updated: 1761075743593
 created: 1761054988529
 nav_order: 979
 ---
 
 The Williamson County School Board held its October meetings last week, covering topics ranging from textbook policies to cell phone use in schools
 
-[[people.board.Dan Cash]], [[people.board.Josh Brown]], and [[people.board.Drason Beasley]] were absent.
+[[people.board.Dan Cash]], [[people.board.Josh Brown]], and [[people.board.Drason Beasley]] were absent for the work session.
 
 - [Agenda](https://meeting.boeconnect.net/Public/Agenda/566?meeting=711753)
 - [Live Stream](https://www.youtube.com/watch?v=_FstgEiK1jw) - 3:22:26
 
-They also held their regular voting meeting Monday night.
+Their regular voting meeting was Monday night and all board members were present.
 
 - [Agenda](https://meeting.boeconnect.net/Public/Agenda/566?meeting=714482)
 - [Live Stream](https://www.youtube.com/live/T4FlVPLGTV0) - 1:55:53
@@ -40,6 +40,8 @@ Committee members are required to take an oath, stating that they have no confli
 ## Cell Phones in Schools
 
 [[people.board.Claire Reeves]] rewrote the wireless communication policy based on the technology committee’s recommendations. She also proposed that this new policy be implemented in January of 2026. At the [[glossary.Work Session]], [[people.board.Eric Welch]] took exception to this proposed timeline, citing the technology committee and school principals whose consensus was to avoid changing the rules in the middle of the school year. There were some heated exchanges during the work session. But at the voting meeting yesterday, Dr. Reeves amended her proposal to be implemented in August of 2026.
+
+This proposal passed for first reading 11-1, with [[people.board.Drason Beasley]] voting no.
 
 ## Next Meeting
 
