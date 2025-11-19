@@ -2,8 +2,9 @@
 id: november2025
 title: "Cell Phones Allowed During High School Lunch"
 desc: ""
-updated: 1763505787998
+updated: 1763519000296
 created: 1763501587888
+nav_order: 978
 ---
 
 https://www.threads.com/@murribu/post/DRLW8lNDUU9?xmt=AQF0baVnTS3F6xGYnLUVTiKPQrzSWiVcQHyQERqDcA3TfA
