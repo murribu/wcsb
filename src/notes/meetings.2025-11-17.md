@@ -2,12 +2,10 @@
 id: november2025
 title: "Cell Phones Allowed During High School Lunch"
 desc: ""
-updated: 1763519000296
+updated: 1763519153801
 created: 1763501587888
 nav_order: 978
 ---
-
-https://www.threads.com/@murribu/post/DRLW8lNDUU9?xmt=AQF0baVnTS3F6xGYnLUVTiKPQrzSWiVcQHyQERqDcA3TfA
 
 The Williamson County School Board held its November meetings this week. The main topic was the adoption of a new policy regarding cell phones and other wireless communication devices.
 
