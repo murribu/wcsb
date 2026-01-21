@@ -2,7 +2,7 @@
 id: november2025
 title: "Cell Phones Allowed During High School Lunch"
 desc: ""
-updated: 1763519478340
+updated: 1769033854329
 created: 1763501587888
 nav_order: 978
 ---
@@ -48,4 +48,4 @@ A proposed addition to the textbook adoption committee policy that was brought t
 
 ## Next Meeting
 
-The next meeting will be in 2026! Monday, January 20th at 6:30pm. See you there!
+The next meeting will be in 2026! Tuesday, January 20th at 6:30pm. See you there!
