@@ -2,7 +2,7 @@
 id: january2026
 title: "Carol Passes Baton To Cory, Reward Schools Celebrated"
 desc: ""
-updated: 1769035840829
+updated: 1771447219644
 created: 1769033866624
 nav_order: 977
 ---
@@ -23,11 +23,11 @@ The most notable items were [[people.admin.Carol Birdsong]]'s finale, the celebr
 
 ## Carol
 
-Carol Birdsong has long been the Executive Director of Communications for WCS. She received a lovely send-off at the voting meeting, with effusive praise being shared all around. She "passed the clicker" to her hand-picked successor, Cory Mason, whom she has been training for a long time.
+Carol Birdsong has long been the Executive Director of Communications for WCS and she is scheduled to retire on January 30, 2026. She received a lovely send-off at the voting meeting, with effusive praise being shared all around. She "passed the clicker" to her hand-picked successor, Cory Mason, whom she has been prepping for a long time.
 
 ## Reward Schools
 
-Many principals and vice principals were present for the meeting, receiving an rousing applause for their schools achieving the status of being a Reward School. This indicates that they have demonstrated high levels of performance and/or improvement in performance.
+Many principals and vice principals were present for the meeting, receiving a rousing applause for their schools achieving the status of being a Reward School. This indicates that they have demonstrated high levels of performance and/or improvement in performance.
 
 WCS broke our previous record with 35 of our 52 schools attaining this recognition. To hear the list of schools, start the livestream at the [46:50 mark](https://www.youtube.com/live/aRw5TODZmls?si=uSeHUUyyxb1cJR5-&t=2810).
 
@@ -43,8 +43,8 @@ Finally, there was an update on the technology use guidance committee. The upsho
 
 ## Re-zoning
 
-Starting in 27-28, there will likely be some rezoning to alleviate the increased demand on the Page and Nolensville communities. That process hasn't started yet, but it's something to keep an eye on.
+For the 27-28 school year, there will likely be some rezoning to alleviate the increased demand on the Page and Nolensville communities. That process hasn't started yet, but it's something to keep an eye on.
 
 ## Next meeting
 
-The next meeting with be Tuesday, February 17, 2026 at 6:30pm. See you there!
+The next meeting will be Tuesday, February 17, 2026 at 6:30pm. See you there!
