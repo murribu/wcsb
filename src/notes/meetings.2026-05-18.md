@@ -1,9 +1,10 @@
 ---
 id: may2026
-title: 2026 05 18
+title: Service Delivery Logs, Continued Pushback on T2 Consolidation
 desc: ""
-updated: 1779217982588
+updated: 1779219388425
 created: 1779196504593
+nav_order: 973
 ---
 
 The Williamson County School Board held its May meeting yesterday.
