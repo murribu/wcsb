@@ -1,6 +1,6 @@
 ---
 id: august2024
-title: "August 19, 2024 Board Meeting"
+title: 'August 19, 2024 Board Meeting'
 desc: The August 2024 Williamson County School Board Meeting
 updated: 1729021645927
 created: 1724180262538
@@ -25,7 +25,7 @@ There were five main topics in the meeting:
 
 There was a large contingency from Brentwood Middle School and Brentwood High School who spoke in favor of increasing supplemental pay for fine arts teachers to be comparable to athletic coaches. This is the fourth month in a row in which students have impatiently and eloquently implored the school board to remediate this discrepancy. By my count, there were 10 students and 1 adult who spoke to this issue.
 
-[[Mr. Golden|people.admin.Jason Golden]] addressed these concerns during his Superintendent report, saying that there is work being done to make this change. But it's not a quick process.
+[[Mr. Golden|people.o.Jason Golden]] addressed these concerns during his Superintendent report, saying that there is work being done to make this change. But it's not a quick process.
 
 [[people.o.Angela Frederick]] also addressed these concerns in her public comments, saying that progress is being made. She also thanked the outgoing board members for their service.
 
@@ -35,7 +35,7 @@ I would encourage you to read my last update from [[Thursday's Work Session|meet
 
 ## School Bus Issues
 
-One parent spoke during public comment to relay his experience. His child has been consistently arriving home well over an hour after school lets out. [[Mr. Golden|people.admin.Jason Golden]] addressed this during his Superintendent report, saying that we have enough bus drivers to cover every route. But we do not have enough substitutes. So any time there is someone who is out sick, there will be a disruption in service. They are still working to find more bus drivers.
+One parent spoke during public comment to relay his experience. His child has been consistently arriving home well over an hour after school lets out. [[Mr. Golden|people.o.Jason Golden]] addressed this during his Superintendent report, saying that we have enough bus drivers to cover every route. But we do not have enough substitutes. So any time there is someone who is out sick, there will be a disruption in service. They are still working to find more bus drivers.
 
 ## Budget
 

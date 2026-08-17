@@ -1,7 +1,7 @@
 ---
 id: april2025
-title: "Parents Show Up To Support Teachers"
-desc: "The April 21, 2025 Williamson County School Board Meeting"
+title: Parents Show Up To Support Teachers
+desc: 'The April 21, 2025 Williamson County School Board Meeting'
 updated: 1745355783079
 created: 1745337300089
 nav_order: 984
@@ -60,7 +60,7 @@ It also requires librarians to develop a "Mature Materials List" in order to com
 
 [[people.board.Dan Cash]] seemed confused about why these changes were necessary. [[people.admin.Dana Ausbrooks]] and [[people.board.Jay Galbreath]] tried to explain the reasons, but he was apparently unconvinced, asking "do we implement policies, anticipating that laws will change?"
 
-[[people.admin.Jason Golden]] recommended the approval of these changes and they passed 8-3, with [[people.board.Melissa Wyatt]], [[people.board.Eric Welch]], and Mr. Cash voting against it.
+[[people.o.Jason Golden]] recommended the approval of these changes and they passed 8-3, with [[people.board.Melissa Wyatt]], [[people.board.Eric Welch]], and Mr. Cash voting against it.
 
 [[Last month|meetings.2025-03-17]], some folks in the community who were pleased with the adoption of STEMscopes said that the board should not always "rubber stamp" the superintendent's recommendations. Notably, Mr. Welch and Ms. Wyatt voted against Mr. Golden's recommendation on this vote.
 

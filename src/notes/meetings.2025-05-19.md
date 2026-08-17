@@ -1,7 +1,7 @@
 ---
 id: may2025
-title: "Board Protects Admin Pay"
-desc: "The May 19, 2025 Williamson County School Board Meeting"
+title: Board Protects Admin Pay
+desc: 'The May 19, 2025 Williamson County School Board Meeting'
 updated: 1747770176015
 created: 1747753492777
 nav_order: 983
@@ -36,7 +36,7 @@ At the voting meeting, Mr. Bostic told the board that he had reconsidered and wi
 
 Four community members from the Page High School community showed up to ask the board to consider the ability for a homeschool student to participate in marching band and/or color guard.
 
-After public comment, [[people.admin.Jason Golden]] and [[people.admin.Dana Ausbrooks]] clarified that the district does not have a policy regarding this topic and state law is silent as well.
+After public comment, [[people.o.Jason Golden]] and [[people.admin.Dana Ausbrooks]] clarified that the district does not have a policy regarding this topic and state law is silent as well.
 
 [[people.board.Jay Galbreath]] confirmed that the next step would be to bring this up at a policy meeting and proceed from there. It sounds like these community members were heard and the board will address the issue.
 

@@ -1,6 +1,6 @@
 ---
 id: september2024worksession
-title: "September 12, 2024 Work Session"
+title: 'September 12, 2024 Work Session'
 desc: The September 2024 Williamson County School Board Work Session
 updated: 1729021652060
 created: 1726263986714
@@ -16,7 +16,7 @@ The main theme of the meeting was welcoming and orienting the new board members.
 
 ## Welcoming New Board Members
 
-Because of the TN legislature's decision to allow school board races to be partisan, we now have 6 new board members. It is unusual to have this level of turnover, so [[people.admin.Jason Golden]] began by going around the room for introductions. He also gave a succinct, 101-level overview of what the role of the board is, including the process by which the board will elect a board chair and vice chair on Monday.
+Because of the TN legislature's decision to allow school board races to be partisan, we now have 6 new board members. It is unusual to have this level of turnover, so [[people.o.Jason Golden]] began by going around the room for introductions. He also gave a succinct, 101-level overview of what the role of the board is, including the process by which the board will elect a board chair and vice chair on Monday.
 
 He then transitioned into speaking about the viral mis-information problem about "targeted" schools. In that context, he emphasized that a threat to harm 2 or more people at school is now a zero-tolerance offense. This means that if someone is found to have made a valid threat, there is a mandatory one-year suspension.
 

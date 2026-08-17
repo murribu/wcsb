@@ -1,7 +1,7 @@
 ---
 id: march2026
 title: Board Unanimously Approves Budget
-desc: ""
+desc: ''
 updated: 1774549825542
 created: 1774490909311
 nav_order: 975
@@ -43,7 +43,7 @@ During the work session, [[people.board.Margie Johnson]] pushed back against the
 
 [[people.board.Eric Welch]] then chimed in right before the whole budget was voted on to say, "So, we voted for this. If the commission says no, are we going to roll over like normal?"
 
-The budget passed unanimously, which means that it goes to the commission for approval. That means that the commission will have to decide whether to find the extra $22.3 million to fully fund the schools or deny the budget and force the school board to cut even more. As [[people.admin.Jason Golden]] said, any further cuts would mean a reduction in services.
+The budget passed unanimously, which means that it goes to the commission for approval. That means that the commission will have to decide whether to find the extra $22.3 million to fully fund the schools or deny the budget and force the school board to cut even more. As [[people.o.Jason Golden]] said, any further cuts would mean a reduction in services.
 
 ## Skipping Class Policy
 

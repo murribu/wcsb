@@ -1,7 +1,9 @@
 ---
 id: science-textbook-emails
-title: Teachers and Parents Give Feedback on the Rejection of their Science Textbook Recommendations
-desc: ""
+title: >-
+  Teachers and Parents Give Feedback on the Rejection of their Science Textbook
+  Recommendations
+desc: ''
 updated: 1744663535803
 created: 1744557413579
 nav_order: 994
@@ -56,7 +58,7 @@ He also coordinated with [[organizations.MomsForLiberty]]'s local chapter chair,
 
 [[people.board.Josh Brown]] only showed up in two emails that I saw.
 
-First, he corrected the record when [[people.board.Margie Johnson]] said that [[people.admin.Jason Golden]] blamed the board for the rush at the end of the process.
+First, he corrected the record when [[people.board.Margie Johnson]] said that [[people.o.Jason Golden]] blamed the board for the rush at the end of the process.
 
 Second, he confirmed that he would not speak to the media.
 
