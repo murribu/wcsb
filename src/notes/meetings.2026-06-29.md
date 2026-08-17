@@ -2,8 +2,9 @@
 id: june2026special
 title: Leigh Webb Appointed Interim Superintendent and Budget Approved
 desc: ""
-updated: 1786998272307
+updated: 1787003061842
 created: 1786997191989
+nav_order: 971
 ---
 
 The Williamson County School Board held a specially called meeting on June 29, 2026.
