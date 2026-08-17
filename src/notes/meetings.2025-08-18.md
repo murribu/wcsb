@@ -1,7 +1,7 @@
 ---
 id: august2025
-title: "Diversity Goal Removed"
-desc: ""
+title: Diversity Goal Removed
+desc: ''
 updated: 1755791455875
 created: 1755782548620
 nav_order: 981
@@ -48,7 +48,7 @@ One parent spoke about a traumatizing incident. His daughter, among other studen
 
 Another citizen spoke about a desire for our cell phone ban to go further, advocating for a "bell to bell" restriction.
 
-This prompted [[people.admin.Jason Golden]] to talk about how the existing ban has been going. He said that it has gone more smoothly than they anticipated, but warned that they may be in a "honeymoon period."
+This prompted [[people.o.Jason Golden]] to talk about how the existing ban has been going. He said that it has gone more smoothly than they anticipated, but warned that they may be in a "honeymoon period."
 
 ## New School Year Starting Strong
 

@@ -8,4 +8,4 @@ created: 1716407128332
 
 ## Superintendent
 
-[[people.admin.Jason Golden]]
+[[people.o.Jason Golden]]

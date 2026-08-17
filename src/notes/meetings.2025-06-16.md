@@ -1,7 +1,7 @@
 ---
 id: june2025
-title: "Superintendent Evaluation and Cell Phone Free Schools"
-desc: "The June 16, 2025 Williamson County School Board Meeting"
+title: Superintendent Evaluation and Cell Phone Free Schools
+desc: 'The June 16, 2025 Williamson County School Board Meeting'
 updated: 1750271231535
 created: 1750267327670
 nav_order: 982
@@ -20,7 +20,7 @@ And their regular voting meeting Monday night.
 
 There were three main topics discussed this month.
 
-1. [[people.admin.Jason Golden]]'s evaluation
+1. [[people.o.Jason Golden]]'s evaluation
 1. Giving students and parents access to graded tests and quizzes
 1. How to limit devices like cell phones from educational settings.
 

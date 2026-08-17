@@ -23,7 +23,7 @@ By my count, there were 7 folks who spoke during public comment in support of th
 
 Three people spoke against the recent changes, citing the many states (including TN) that are suing the federal government to retract these changes. One speaker was wearing a [[organizations.MomsForLiberty]] shirt and referred to a [debunked story](https://www.nbcnews.com/tech/misinformation/urban-myth-litter-boxes-schools-became-gop-talking-point-rcna51439) of litter boxes in school.
 
-[[Mr. Golden|people.admin.Jason Golden]] said, "we're at the study stage," regarding this topic.
+[[Mr. Golden|people.o.Jason Golden]] said, "we're at the study stage," regarding this topic.
 
 <details>
 <summary>List of speakers</summary>
@@ -83,7 +83,7 @@ Highlights from the board's discussion:
 
 - [[people.board.Donna Clements]] [was disappointed](https://x.com/murribu/status/1792717239646585144) at the assumption that teachers' pay would need to be cut in response to a lower budget. She [echoed](https://x.com/murribu/status/1792717793605108139) [[people.pol.Barb Sturgeon]]'s suggestion that there should be an external audit.
 
-- [[Superintendent Golden|people.admin.Jason Golden]] [confirmed](https://x.com/murribu/status/1792718324377522328) that if our budget is less than $555, we will have to either cut services or salaries.
+- [[Superintendent Golden|people.o.Jason Golden]] [confirmed](https://x.com/murribu/status/1792718324377522328) that if our budget is less than $555, we will have to either cut services or salaries.
 
 - [[people.board.Eric Welch]] also [verified](https://x.com/murribu/status/1792718699591561713) that the district is externally audited every year. The only recent finding was that the district was too conservative with their budget.
 

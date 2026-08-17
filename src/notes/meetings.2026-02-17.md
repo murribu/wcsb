@@ -1,7 +1,7 @@
 ---
 id: february2026
-title: "Board Addresses Recent Student Protests"
-desc: ""
+title: Board Addresses Recent Student Protests
+desc: ''
 updated: 1771447552400
 created: 1771443783268
 nav_order: 976
@@ -25,7 +25,7 @@ Most of the discussion centered around two topics. First, there was a lot said a
 
 Two members of the public, [[people.pol.Steve Hickey]] and [[people.pol.Elliott Franklin]] spoke about the recent student walkouts. Mr. Hickey stated that there needs to be a new policy about when kids skip class. Mr. Franklin cited the policy that talks about students interfering or disrupting school activities.
 
-[[people.admin.Jason Golden]] addressed these concerns, pointing to the InFocus article that was released yesterday. You can read it [here](https://infocus.wcs.edu/infocus-news-template/~board/infocus-news/post/rumor-mill-february-17-2026). He reiterated that WCS does not condone or coordinate student walkouts. In fact, the opposite. Administrators proactively reach out to students who plan to walkout and try to encourage them to find an alternative way to demonstrate.
+[[people.o.Jason Golden]] addressed these concerns, pointing to the InFocus article that was released yesterday. You can read it [here](https://infocus.wcs.edu/infocus-news-template/~board/infocus-news/post/rumor-mill-february-17-2026). He reiterated that WCS does not condone or coordinate student walkouts. In fact, the opposite. Administrators proactively reach out to students who plan to walkout and try to encourage them to find an alternative way to demonstrate.
 
 He clarified that policy 6.300 addresses when students skip class. And this policy was followed in these recent cases.
 
