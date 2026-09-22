@@ -44,7 +44,7 @@ Some of these emails were only sent to one or two board members, but the vast ma
 
 ### Dan Cash (District 2)
 
-[[people.board.Dan Cash]] only replied to folks who agreed with his vote to adopt STEMscopes, mostly thanking them for their support.
+[[people.pol.Dan Cash]] only replied to folks who agreed with his vote to adopt STEMscopes, mostly thanking them for their support.
 
 ### Dennis Driggers (District 3)
 
@@ -56,7 +56,7 @@ He also coordinated with [[organizations.MomsForLiberty]]'s local chapter chair,
 
 ### Josh Brown (District 4)
 
-[[people.board.Josh Brown]] only showed up in two emails that I saw.
+[[people.pol.Josh Brown]] only showed up in two emails that I saw.
 
 First, he corrected the record when [[people.board.Margie Johnson]] said that [[people.o.Jason Golden]] blamed the board for the rush at the end of the process.
 
@@ -68,7 +68,7 @@ Second, he confirmed that he would not speak to the media.
 
 ### Jay Galbreath (District 6)
 
-[[people.board.Jay Galbreath]] sent 18 emails in response to criticism, defending his position and better understanding constituent concerns. Some were short messages of thanks, others were long email threads where he discussed the situation in depth.
+[[people.pol.Jay Galbreath]] sent 18 emails in response to criticism, defending his position and better understanding constituent concerns. Some were short messages of thanks, others were long email threads where he discussed the situation in depth.
 
 He also arranged to meet with some teachers to hear what they had to say in person.
 
@@ -88,13 +88,13 @@ He also hosted a very lengthy discussion on facebook. [Click here](https://www.f
 
 ### Eric Welch (District 10)
 
-[[people.board.Eric Welch]] also voted against the adoption of STEM Scopes. Most of his replies to constituents were thanking them.
+[[people.pol.Eric Welch]] also voted against the adoption of STEM Scopes. Most of his replies to constituents were thanking them.
 
 ### Others
 
 The only emails from [[people.board.Tony Bostic]] and [[people.board.Tonja Hibma]] were internal to other board members and/or front office personnel.
 
-I found no emails from [[people.board.Drason Beasley]]. He was absent from the board meeting and did not vote on this textbook adoption process.
+I found no emails from [[people.pol.Drason Beasley]]. He was absent from the board meeting and did not vote on this textbook adoption process.
 
 ## Work Session Agenda
 

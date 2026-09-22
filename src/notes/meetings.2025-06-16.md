@@ -43,7 +43,7 @@ justify restricting access. But this should enhance transparency.
 
 There is a new TN law that requires public schools to adopt a policy that limits cell phone use during educational time. The extent of that limitation is up to each district. Our board was divided on whether to disallow cell phone possession from "bell to bell" or if students could keep them and just not use them.
 
-[[people.board.Claire Reeves]] led a group advocating for the "bell to bell" policy, joined by [[people.board.Tonja Hibma]], [[people.board.Donna Clements]], and [[people.board.Jay Galbreath]]. The idea here would be that cell phones would be stored in a secure locker (or something like that) as soon as the student enters the building and returned at the end of the day.
+[[people.board.Claire Reeves]] led a group advocating for the "bell to bell" policy, joined by [[people.board.Tonja Hibma]], [[people.board.Donna Clements]], and [[people.pol.Jay Galbreath]]. The idea here would be that cell phones would be stored in a secure locker (or something like that) as soon as the student enters the building and returned at the end of the day.
 
 Ultimately, that effort failed and the board adopted a policy that wireless communication devices must be "silenced and not used during the school day." But the student may remain in possession of them. This includes devices like watches, cell phones, laptops, tablets, and gaming devices. There is a carveout for high school lunchtime. Cell phones will be allowed then.
 

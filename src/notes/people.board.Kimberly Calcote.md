@@ -1,11 +1,11 @@
 ---
 id: kimberly-calcote
 title: Kimberly Calcote
-desc: ""
-updated: 1774541806550
+desc: ''
+updated: 1790109896736
 created: 1774541769423
 ---
 
-Republican candidate for district 6 representative on the Williamson County School Board in 2026
+District 6 representative on the Williamson County School Board
 
 [ballotpedia](https://ballotpedia.org/Kimberly_Calcote)

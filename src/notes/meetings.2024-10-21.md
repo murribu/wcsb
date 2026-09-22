@@ -1,6 +1,6 @@
 ---
 id: october2024
-title: "October 21, 2024 Board Meeting"
+title: 'October 21, 2024 Board Meeting'
 desc: The October 2024 Williamson County School Board Meeting
 updated: 1729631351142
 created: 1729613556867
@@ -39,15 +39,15 @@ When it came time for the board to discuss this, it got contentious. [[people.bo
 
 [[people.board.Melissa Wyatt]] read a prepared statement indicating that she would be voting no on this resolution, preferring to keep the anti-voucher resolution.
 
-[[people.board.Eric Welch]] told us that he contacted many education officials (previous WCS board members, the FSSD superintendent, TSBA, and more) and none of them had heard of a board rescinding a previously passed resolution. This is unprecedented. And its timing (less than a month after the new board's seating) indicates that this is a priority.
+[[people.pol.Eric Welch]] told us that he contacted many education officials (previous WCS board members, the FSSD superintendent, TSBA, and more) and none of them had heard of a board rescinding a previously passed resolution. This is unprecedented. And its timing (less than a month after the new board's seating) indicates that this is a priority.
 
-He then took each argument for rescinding the resolution and addressed them one-by one. He referenced [[people.pol.Brian Kelsey]] as a voucher proponent. When Mr. Welch mentioned Mr. Kelsey's illegal activity, [[people.board.Josh Brown]] interrupted to ask him to please speak to the resolution. Mr. Welch clapped back, "I'm speaking to the resolution. Please don't interrupt me again, Mr. Chair." They went back-and-forth a bit, talking over each other and Mr. Brown threatened to cut Mr. Welch's mic. During the squabble, Dr. Driggers interrupted to [[glossary.call the question]]. Mr. Brown told him that was inappropriate. In the end, Mr. Welch was allowed two more minutes, during which he addressed the reasons some board members gave for wanting to rescind the resolution.
+He then took each argument for rescinding the resolution and addressed them one-by one. He referenced [[people.pol.Brian Kelsey]] as a voucher proponent. When Mr. Welch mentioned Mr. Kelsey's illegal activity, [[people.pol.Josh Brown]] interrupted to ask him to please speak to the resolution. Mr. Welch clapped back, "I'm speaking to the resolution. Please don't interrupt me again, Mr. Chair." They went back-and-forth a bit, talking over each other and Mr. Brown threatened to cut Mr. Welch's mic. During the squabble, Dr. Driggers interrupted to [[glossary.call the question]]. Mr. Brown told him that was inappropriate. In the end, Mr. Welch was allowed two more minutes, during which he addressed the reasons some board members gave for wanting to rescind the resolution.
 
-[[people.board.Jay Galbreath]] said that it was unprecedented to send the resolution in March because it was so narrowly passed. He asked the board to consider a policy to dictate how many votes are needed on a resolution to pass it along to the legislature.
+[[people.pol.Jay Galbreath]] said that it was unprecedented to send the resolution in March because it was so narrowly passed. He asked the board to consider a policy to dictate how many votes are needed on a resolution to pass it along to the legislature.
 
 [[people.board.Tonja Hibma]] said she would vote to rescind, in order to take a neutral stance. She said that this would be a good opportunity to look at TISA funding and get more money from the state of TN for Williamson County Schools.
 
-The vote was 10-2 in favor of rescinding the anti-voucher resolution. [[people.board.Melissa Wyatt]] and [[people.board.Eric Welch]] were the "no" votes. Notably, [[people.board.Drason Beasley]] voted in favor of the anti-voucher resolution back in March. Then he voted to rescind it yesterday.
+The vote was 10-2 in favor of rescinding the anti-voucher resolution. [[people.board.Melissa Wyatt]] and [[people.pol.Eric Welch]] were the "no" votes. Notably, [[people.pol.Drason Beasley]] voted in favor of the anti-voucher resolution back in March. Then he voted to rescind it yesterday.
 
 ## Dress Code Policy
 

@@ -1,7 +1,7 @@
 ---
 id: april2026
-title: "Special Ed Parents Push Back on Consolidation"
-desc: ""
+title: Special Ed Parents Push Back on Consolidation
+desc: ''
 updated: 1776887336764
 created: 1776884233052
 nav_order: 974
@@ -9,7 +9,7 @@ nav_order: 974
 
 The Williamson County School Board held its April meetings recently.
 
-All board members were present for the Work Session. [[people.board.Jay Galbreath]] was absent for the voting meeting.
+All board members were present for the Work Session. [[people.pol.Jay Galbreath]] was absent for the voting meeting.
 
 - [Work Session Agenda](https://meeting.boeconnect.net/Public/Agenda/566?meeting=737876)
 - [Work Session Live Stream](https://www.youtube.com/watch?v=vQ2KTqh6aMY) - 2:23:28

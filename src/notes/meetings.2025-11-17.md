@@ -1,7 +1,7 @@
 ---
 id: november2025
-title: "Cell Phones Allowed During High School Lunch"
-desc: ""
+title: Cell Phones Allowed During High School Lunch
+desc: ''
 updated: 1769033854329
 created: 1763501587888
 nav_order: 978
@@ -44,7 +44,7 @@ Each of the next two school year calendars were approved. They will be very simi
 
 ### Textbook Adoption Committee Policy
 
-A proposed addition to the textbook adoption committee policy that was brought to this meeting contained the sentence "One Board member shall be appointed to serve on the committee and shall subscribe to the oath required by state law." There was a discussion about the second "shall" in that sentence. [[people.board.Jay Galbreath]] motioned to change it to "may" so that the board member does not have to take the oath. That amendment passed 10-2 with [[people.board.Melissa Wyatt]] and [[people.board.Eric Welch]] voting in the negative.
+A proposed addition to the textbook adoption committee policy that was brought to this meeting contained the sentence "One Board member shall be appointed to serve on the committee and shall subscribe to the oath required by state law." There was a discussion about the second "shall" in that sentence. [[people.pol.Jay Galbreath]] motioned to change it to "may" so that the board member does not have to take the oath. That amendment passed 10-2 with [[people.board.Melissa Wyatt]] and [[people.pol.Eric Welch]] voting in the negative.
 
 ## Next Meeting
 

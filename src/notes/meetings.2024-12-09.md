@@ -1,7 +1,7 @@
 ---
 id: december2024
-title: "December 9, 2024 Board Meeting"
-desc: "The December 2024 Williamson County School Board Meeting"
+title: 'December 9, 2024 Board Meeting'
+desc: The December 2024 Williamson County School Board Meeting
 updated: 1735833575535
 created: 1733842219207
 nav_order: 990
@@ -23,7 +23,7 @@ One book was restricted to only be available to 11th and 12th graders: [The Fiel
 
 And one book was removed from middle schools, but remains in high schools: [Speak](https://www.goodreads.com/book/show/39280444-speak?ref=nav_sb_ss_1_5)
 
-There was a lot of good discussion amongst the board that was specific to each book (except for Perks - there was no discussion for that one). [[people.board.Eric Welch]] and [[people.board.Melissa Wyatt]] voted against each restriction. [[people.board.Dan Cash]] and [[people.board.Drason Beasley]] joined them in voting against restricting Speak to only high schools.
+There was a lot of good discussion amongst the board that was specific to each book (except for Perks - there was no discussion for that one). [[people.pol.Eric Welch]] and [[people.board.Melissa Wyatt]] voted against each restriction. [[people.pol.Dan Cash]] and [[people.pol.Drason Beasley]] joined them in voting against restricting Speak to only high schools.
 
 There were more police officers than normal and the audience was palpably energetic.
 

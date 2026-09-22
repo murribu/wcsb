@@ -1,7 +1,7 @@
 ---
 id: june2026
-title: "Board Extends Superintendent's Contract"
-desc: ""
+title: Board Extends Superintendent's Contract
+desc: ''
 updated: 1781803520971
 created: 1781786880017
 nav_order: 972
@@ -35,7 +35,7 @@ Back in [[March|meetings.2026-03-23]], the school board approved the 26-27 schoo
 
 ## Other topics
 
-[[people.board.Jay Galbreath]] talked about a change to the cell phone policy at the Work Session. His change did not make it onto the agenda and he said that he intended to make a motion at the voting meeting to add it to the agenda. After some conversations with front office personnel, he decided not to pursue this at the voting meeting.
+[[people.pol.Jay Galbreath]] talked about a change to the cell phone policy at the Work Session. His change did not make it onto the agenda and he said that he intended to make a motion at the voting meeting to add it to the agenda. After some conversations with front office personnel, he decided not to pursue this at the voting meeting.
 
 Two high school football coaches and one WCS parent spoke during public comment to advocate for adding an athletic period to the school day.
 

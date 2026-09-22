@@ -1,7 +1,7 @@
 ---
 id: january2026
-title: "Carol Passes Baton To Cory, Reward Schools Celebrated"
-desc: ""
+title: 'Carol Passes Baton To Cory, Reward Schools Celebrated'
+desc: ''
 updated: 1771447219644
 created: 1769033866624
 nav_order: 977
@@ -9,7 +9,7 @@ nav_order: 977
 
 The Williamson County School Board held its January meetings recently.
 
-[[people.board.Jay Galbreath]] was absent for both the work session and the voting meeting. [[people.board.Drason Beasley]] was absent for the work session and was late for the voting meeting.
+[[people.pol.Jay Galbreath]] was absent for both the work session and the voting meeting. [[people.pol.Drason Beasley]] was absent for the work session and was late for the voting meeting.
 
 - [Work Session Agenda](https://meeting.boeconnect.net/Public/Agenda/566?meeting=723806)
 - [Work Session Live Stream](https://www.youtube.com/watch?v=76sSLNwJwyE) - 2:00:53

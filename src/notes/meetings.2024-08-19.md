@@ -7,7 +7,7 @@ created: 1724180262538
 nav_order: 997
 ---
 
-The board met for their August 2024 meeting yesterday. For the first time in her tenure, [[people.pol.Jennifer Aprea]] was absent. [[people.pol.Rick Wimberly]] and [[people.board.Eric Welch]] were also absent.
+The board met for their August 2024 meeting yesterday. For the first time in her tenure, [[people.pol.Jennifer Aprea]] was absent. [[people.pol.Rick Wimberly]] and [[people.pol.Eric Welch]] were also absent.
 
 - [Agenda](https://meeting.boeconnect.net/Public/Agenda/566?meeting=650356)
 - [Live Stream](https://www.youtube.com/live/_75NKjH_rvI) - 1:21:01

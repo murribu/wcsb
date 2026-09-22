@@ -1,10 +1,12 @@
 ---
 id: margie-johnson
-title: Margie Johnson
-desc: ''
-updated: 1726317779322
+title: Margie Johnson Padgett
+desc: ""
+updated: 1790110461996
 created: 1720489986003
 ---
+
+She got married and changed her name from Margie Johnson to Margie Padgett
 
 ## Position
 

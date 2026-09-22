@@ -1,7 +1,7 @@
 ---
 id: august2026
 title: Five Board Members Have Their Last Meeting
-desc: ""
+desc: ''
 updated: 1787089004277
 created: 1787086766654
 nav_order: 970
@@ -9,13 +9,13 @@ nav_order: 970
 
 The Williamson County School Board held its August meeting yesterday.
 
-All members were present, with [[people.board.Drason Beasley]] joining remotely.
+All members were present, with [[people.pol.Drason Beasley]] joining remotely.
 
 - [Agenda](https://meeting.boeconnect.net/Public/Agenda/566?meeting=761549)
 - [Live Stream](https://www.youtube.com/watch?v=XOgMcMxesXk) - 1:21:52
 - [Live Threads](https://www.threads.com/@murribu/post/DcKNvRODZJy)
 
-The agenda was pretty light this month, but it was notably the last meeting for [[people.board.Dan Cash]], [[people.board.Josh Brown]], [[people.board.Jay Galbreath]], [[people.board.Eric Welch]], and [[people.board.Drason Beasley]].
+The agenda was pretty light this month, but it was notably the last meeting for [[people.pol.Dan Cash]], [[people.pol.Josh Brown]], [[people.pol.Jay Galbreath]], [[people.pol.Eric Welch]], and [[people.pol.Drason Beasley]].
 
 ## Public comment
 

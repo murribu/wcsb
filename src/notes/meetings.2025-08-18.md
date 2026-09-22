@@ -9,14 +9,14 @@ nav_order: 981
 
 The board met for their August [[glossary.Work Session]] last Thursday.
 
-[[people.board.Josh Brown]] and [[people.board.Dan Cash]] were absent. And [[people.board.Drason Beasley]] joined remotely. Since both the Chair and Vice Chair were absent, [[people.board.Jay Galbreath]] presided.
+[[people.pol.Josh Brown]] and [[people.pol.Dan Cash]] were absent. And [[people.pol.Drason Beasley]] joined remotely. Since both the Chair and Vice Chair were absent, [[people.pol.Jay Galbreath]] presided.
 
 - [Agenda](https://meeting.boeconnect.net/Public/Organization/566)
 - [Live Stream](https://youtu.be/TnvUp4YKjRc) - 1:10:43
 
 And they met for their regular voting meeting Monday night.
 
-[[people.board.Dan Cash]], [[people.board.Melissa Wyatt]], and [[people.board.Drason Beasley]] were absent.
+[[people.pol.Dan Cash]], [[people.board.Melissa Wyatt]], and [[people.pol.Drason Beasley]] were absent.
 
 - [Agenda](https://meeting.boeconnect.net/Public/Organization/566)
 - [Live Stream](https://www.youtube.com/live/sZhAX_7nMQg) - 1:08:19

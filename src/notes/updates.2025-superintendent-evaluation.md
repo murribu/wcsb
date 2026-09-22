@@ -1,7 +1,7 @@
 ---
 id: 2025-superintendent-evaluation
 title: 2025 Superintendent Evaluation
-desc: ""
+desc: ''
 updated: 1754084322958
 created: 1754074773874
 nav_order: 993
@@ -9,7 +9,7 @@ nav_order: 993
 
 Each June, the school board evaluates the superintendent against the goals he set for himself the previous August. Those goals have to be approved by the board and then they guide his efforts over the school year. Each board member ranks the superintendent's performance on a scale of 1 to 5 pertaining to each goal, with 1 meaning "Significantly Below Expectations" and 5 meaning "Significantly Above Expectations." These ranks are then weighted and compiled for an overall evaluation score.
 
-This year, for the first time, he has not accompanied his evaluation with a request for a contract extension. I thought it might be useful to look at the past few years to see how an individual board member's evaluation of the superintendent correlates to their vote on whether to extend his contract. The disaggregated data has not been included in the published agenda until this year. (Thank you to [[people.board.Josh Brown]] for including these data for the 2025 evaluation.) So, I submitted a FOIA request for the disaggregated data from 2021 through 2024.
+This year, for the first time, he has not accompanied his evaluation with a request for a contract extension. I thought it might be useful to look at the past few years to see how an individual board member's evaluation of the superintendent correlates to their vote on whether to extend his contract. The disaggregated data has not been included in the published agenda until this year. (Thank you to [[people.pol.Josh Brown]] for including these data for the 2025 evaluation.) So, I submitted a FOIA request for the disaggregated data from 2021 through 2024.
 
 Unfortunately, the data from 2022 is incomplete, as only 6 of the 12 board members' evaluations were available. However, there is still enough to get an idea of how these two sets of data interact.
 
@@ -31,9 +31,9 @@ Year | Avg  | Min  | Max  | Vote   |
 
 - I can't know min and max for 2022 because of missing data, but the average was published in the [June 2022 meeting agenda](https://meeting.boeconnect.net/Public/Agenda/566?meeting=531239).
 
-The lowest score over this time period was from [[people.board.Jay Galbreath]] in 2021, when he gave the superintendent a score of 1.5 out of 5. This was largely due to Mr. Galbreath's dissatisfaction with Mr. Golden's leadership coming out of the pandemic. Not surprisingly, Mr. Galbreath voted not to extend Mr. Golden's contract that year.
+The lowest score over this time period was from [[people.pol.Jay Galbreath]] in 2021, when he gave the superintendent a score of 1.5 out of 5. This was largely due to Mr. Galbreath's dissatisfaction with Mr. Golden's leadership coming out of the pandemic. Not surprisingly, Mr. Galbreath voted not to extend Mr. Golden's contract that year.
 
-The highest score is a tie between [[people.board.Drason Beasley]] in 2023 and 2024. Both years, he gave Mr. Golden perfect marks. Each score is accompanied with an opportunity to explain the score. But both of these years, Mr. Beasley literally had no notes.
+The highest score is a tie between [[people.pol.Drason Beasley]] in 2023 and 2024. Both years, he gave Mr. Golden perfect marks. Each score is accompanied with an opportunity to explain the score. But both of these years, Mr. Beasley literally had no notes.
 
 The highest score that received a "No" vote on the contract extension was from [[people.board.Donna Clements]] in 2024. She presented a 3.28, which would be between "Met Expectations" and "Above Expectations." She cited concerns regarding the superintendent's salary not being explicitly noted in the amendment as her reasoning for voting against the extension.
 

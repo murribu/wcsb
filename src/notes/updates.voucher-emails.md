@@ -1,7 +1,7 @@
 ---
 id: voucher-emails
 title: Voucher Emails
-desc: ""
+desc: ''
 updated: 1730042399688
 created: 1729960597859
 nav_order: 996
@@ -41,6 +41,6 @@ Sixty-one people emailed the whole board while many others emailed just one repr
 
 It is important to note that the public had approximately 72 hours of notice about this vote.
 
-There was only one constituent who emailed the whole board asking them to rescind the anti-voucher resolution. That was [[people.pol.Barb Sturgeon]]. Of course, she is a county commissioner from District 8. She said that she spoke for the residents of her district, saying that "the majority of them did not support [the anti-voucher resolution]." Notably in her email, Ms. Sturgeon misspelled [[people.board.Eric Welch]]'s name as "Welsh." He replied to her, "My last name is spelled Welch, with a CH like 'charged' and not an sh like 'shackled.'" She replied, apologizing for the misspelling.
+There was only one constituent who emailed the whole board asking them to rescind the anti-voucher resolution. That was [[people.pol.Barb Sturgeon]]. Of course, she is a county commissioner from District 8. She said that she spoke for the residents of her district, saying that "the majority of them did not support [the anti-voucher resolution]." Notably in her email, Ms. Sturgeon misspelled [[people.pol.Eric Welch]]'s name as "Welsh." He replied to her, "My last name is spelled Welch, with a CH like 'charged' and not an sh like 'shackled.'" She replied, apologizing for the misspelling.
 
 For the majority of our school board representatives, if they are being influenced to vote one way or another, it's clearly not via emails from their constituents (75-2), nor via the folks who are willing to show up to speak at a school board meeting (8-0).
