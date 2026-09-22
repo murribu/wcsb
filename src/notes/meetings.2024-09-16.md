@@ -39,11 +39,11 @@ Mayor [[people.pol.Rogers Anderson]] swore in the 6 new board members: [[people.
 
 #### Chair
 
-The board needed to elect a new chair and vice chair. [[people.board.Eric Welch]] nominated [[people.board.Drason Beasley]], while [[people.board.Dan Cash]] nominated [[people.board.Josh Brown]]. Mr. Welch was the only vote for Mr. Beasley. All eleven of the other board members (including Mr. Beasley) voted for Mr. Brown.
+The board needed to elect a new chair and vice chair. [[people.pol.Eric Welch]] nominated [[people.pol.Drason Beasley]], while [[people.pol.Dan Cash]] nominated [[people.pol.Josh Brown]]. Mr. Welch was the only vote for Mr. Beasley. All eleven of the other board members (including Mr. Beasley) voted for Mr. Brown.
 
 #### Vice Chair
 
-[[people.board.Drason Beasley]] nominated [[people.board.Jay Galbreath]], who declined the nomination. Then Mr. Galbreath nominated [[people.board.Dan Cash]]. [[people.board.Tony Bostic]] nominated [[people.board.Margie Johnson]]. Mr. Cash won that vote, 8-4. The four who voted for Dr. Johnson were [[people.board.Tony Bostic]], [[people.board.Margie Johnson]] herself, [[people.board.Melissa Wyatt]], and [[people.board.Eric Welch]].
+[[people.pol.Drason Beasley]] nominated [[people.pol.Jay Galbreath]], who declined the nomination. Then Mr. Galbreath nominated [[people.pol.Dan Cash]]. [[people.board.Tony Bostic]] nominated [[people.board.Margie Johnson]]. Mr. Cash won that vote, 8-4. The four who voted for Dr. Johnson were [[people.board.Tony Bostic]], [[people.board.Margie Johnson]] herself, [[people.board.Melissa Wyatt]], and [[people.pol.Eric Welch]].
 
 ### Public Comment
 

@@ -26,7 +26,7 @@ Compared to recent months, these were pretty boring meetings. Three issues stood
 
 As mentioned in [[April|meetings.2025-04-21]], [[people.board.Tony Bostic]] would like to require educators to maintain service delivery logs for students who have IEPs. He maintains that this will help inform parents about their kids' education and will help protect the district when it is challenged to prove that it is complying with IEPs.
 
-He added language to a policy amendment last month to enshrine this requirement, but front office personnel and [[people.board.Eric Welch]] resisted this idea, saying it would add an unnecessary burden on our educators. So it was removed for further consideration.
+He added language to a policy amendment last month to enshrine this requirement, but front office personnel and [[people.pol.Eric Welch]] resisted this idea, saying it would add an unnecessary burden on our educators. So it was removed for further consideration.
 
 At the work session this month, Mr. Bostic told the board that he intended to propose an amendment at the voting meeting to add similar language back in. [[people.board.Claire Reeves]] suggested that the board look into seeing whether this could be accomplished with [TN Pulse](https://www.tn.gov/education/families/student-support/special-education/tn-pulse.html).
 
@@ -38,7 +38,7 @@ Four community members from the Page High School community showed up to ask the 
 
 After public comment, [[people.o.Jason Golden]] and [[people.admin.Dana Ausbrooks]] clarified that the district does not have a policy regarding this topic and state law is silent as well.
 
-[[people.board.Jay Galbreath]] confirmed that the next step would be to bring this up at a policy meeting and proceed from there. It sounds like these community members were heard and the board will address the issue.
+[[people.pol.Jay Galbreath]] confirmed that the next step would be to bring this up at a policy meeting and proceed from there. It sounds like these community members were heard and the board will address the issue.
 
 ## Teacher and Administrator Pay Charts
 
@@ -46,7 +46,7 @@ The rest of the meeting was filled with unanimous votes on budget issues and sma
 
 [[people.board.Margie Johnson]] proposed an amendment that was complex, but she basically wanted to shift money away from administrators toward teachers.
 
-[[people.board.Claire Reeves]] and [[people.board.Eric Welch]] were both concerned about the lack of time available to consider this change, which led to a conversation about delaying the approval of the Pay Charts. Ms. Hall said that would be problematic because they are currently trying to hire teachers. So the board agreed that a deferral was a bad idea.
+[[people.board.Claire Reeves]] and [[people.pol.Eric Welch]] were both concerned about the lack of time available to consider this change, which led to a conversation about delaying the approval of the Pay Charts. Ms. Hall said that would be problematic because they are currently trying to hire teachers. So the board agreed that a deferral was a bad idea.
 
 The amendment failed, 8-3-1 with [[people.board.Tony Bostic]], [[people.board.Dennis Driggers]], and [[people.board.Margie Johnson]] voting in favor of the amendment and [[people.board.Donna Clements]] abstaining.
 

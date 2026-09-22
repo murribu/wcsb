@@ -1,7 +1,7 @@
 ---
 id: january2025
-title: "January 21, 2025 Board Meeting"
-desc: ""
+title: 'January 21, 2025 Board Meeting'
+desc: ''
 updated: 1737584269405
 created: 1737581987797
 nav_order: 989
@@ -26,7 +26,7 @@ Finally, they spoke about the Five Year Capital Plan. Since there were some boar
 - [Live Stream](https://www.youtube.com/live/ZFhzxAa28D0) - 1:10:24
 - [Live Threads](https://www.threads.net/@murribu/post/DFG470zJZ3p)
 
-This was a VERY short meeting. [[people.board.Josh Brown]] was absent, so [[people.board.Dan Cash]] presided as Chair with a sparse leadership style. [[people.board.Jay Galbreath]] and [[people.board.Claire Reeves]] were also absent.
+This was a VERY short meeting. [[people.pol.Josh Brown]] was absent, so [[people.pol.Dan Cash]] presided as Chair with a sparse leadership style. [[people.pol.Jay Galbreath]] and [[people.board.Claire Reeves]] were also absent.
 
 There were a few members of the public who spoke out against the book bans that happened last month. And some students touted the virtues of [DECA](https://www.deca.org/).
 

@@ -1,6 +1,6 @@
 ---
 id: march2025
-title: "Board Rejects Teachers' and Parents' Textbook Recommendations"
+title: Board Rejects Teachers' and Parents' Textbook Recommendations
 desc: Board Rejects Teachers' and Parents' Textbook Recommendations
 updated: 1742329973982
 created: 1742308991890
@@ -11,7 +11,7 @@ nav_order: 985
 - [Live Stream](https://www.youtube.com/live/kFuRGaTnJMA) - 4:32:31
 - [Live Threads](https://www.threads.net/@murribu/post/DHUZowGyaDr)
 
-This was a long meeting with a lot of discussion about the 25-26 budget and some votes on the adoption of textbook materials that will be used for the next 8 years. All board members were present except [[people.board.Drason Beasley]].
+This was a long meeting with a lot of discussion about the 25-26 budget and some votes on the adoption of textbook materials that will be used for the next 8 years. All board members were present except [[people.pol.Drason Beasley]].
 
 ## Public Comment
 
@@ -43,7 +43,7 @@ The board had a slate of fifteen different science subjects for which they neede
 
 [[people.board.Claire Reeves]] proposed an amendment to change the books used in K-8 from the recommended Savvas and McGraw Hill publishers to STEMscopes instead. In K-2, the teachers preferred Savvas over STEMscopes by a 2:1 ratio. In 3-5, over 80% preferred Savvas. In 6-8, it was split pretty evenly between Savvas and McGraw Hill. Nobody in the groups who reviewed materials for 6-8 voted for STEMscopes.
 
-By a vote of 8-2-1, the board decided to override the committees' recommendations and use STEMscopes textbooks. [[people.board.Melissa Wyatt]] and [[people.board.Eric Welch]] voted against this amendment and [[people.board.Margie Johnson]] abstained.
+By a vote of 8-2-1, the board decided to override the committees' recommendations and use STEMscopes textbooks. [[people.board.Melissa Wyatt]] and [[people.pol.Eric Welch]] voted against this amendment and [[people.board.Margie Johnson]] abstained.
 
 ### AP Psychology
 
@@ -51,11 +51,11 @@ By a vote of 8-2-1, the board decided to override the committees' recommendation
 
 During that discussion, [[people.board.Donna Clements]] proposed an amendment to that amendment that would select the Cengage textbook for this course, noting that this was an area of expertise for her. [[people.admin.Dave Allen]] and [[people.admin.Leigh Webb]] talked about the 9 AP Psychology teachers in the district. Their students have consistently performed exceedingly well on the AP Psych exam, and they unanimously chose the BFW Myers textbook. The parent/educator committee chose the BFW Myers textbook unanimously as well. But Ms. Clements wanted to choose Cengage instead. This effort failed by a vote of [2-9](https://www.threads.net/@murribu/post/DHU0mbFNT1E), with [[people.board.Tony Bostic]] joining Ms. Clements in the affirmative.
 
-After that, they were back to merely delaying the adoption of the AP Psych textbook. That amendment passed 7-3-1. The dissent was [[people.board.Melissa Wyatt]], [[people.board.Eric Welch]], and [[people.board.Jay Galbreath]], with [[people.board.Margie Johnson]] abstaining. So they will vote on this textbook probably next month.
+After that, they were back to merely delaying the adoption of the AP Psych textbook. That amendment passed 7-3-1. The dissent was [[people.board.Melissa Wyatt]], [[people.pol.Eric Welch]], and [[people.pol.Jay Galbreath]], with [[people.board.Margie Johnson]] abstaining. So they will vote on this textbook probably next month.
 
 ### Vote to Adopt the Textbooks
 
-The board then adopted the amended slate of textbooks by a vote of 9-2, with [[people.board.Eric Welch]] and [[people.board.Melissa Wyatt]] in the dissent. They dissented because they would have preferred to take the recommendations of the educators instead of the other board members' overriding preference.
+The board then adopted the amended slate of textbooks by a vote of 9-2, with [[people.pol.Eric Welch]] and [[people.board.Melissa Wyatt]] in the dissent. They dissented because they would have preferred to take the recommendations of the educators instead of the other board members' overriding preference.
 
 ## Call to action
 

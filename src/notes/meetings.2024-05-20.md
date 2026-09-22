@@ -75,17 +75,17 @@ The school board members discussed the budget before their vote. In March of 202
 
 Highlights from the board's discussion:
 
-- [[people.board.Eric Welch]] [said](https://x.com/murribu/status/1792715048248541423) he was "proud to put his name on this budget."
+- [[people.pol.Eric Welch]] [said](https://x.com/murribu/status/1792715048248541423) he was "proud to put his name on this budget."
 
-- [[Josh Brown|people.board.Josh Brown]] [said](https://x.com/murribu/status/1792715398481424631) that 71% of the burden of funding is on the county. It is a burden, but it's a choice. He said they should pass this budget and continue the conversation with the commission.
+- [[Josh Brown|people.pol.Josh Brown]] [said](https://x.com/murribu/status/1792715398481424631) that 71% of the burden of funding is on the county. It is a burden, but it's a choice. He said they should pass this budget and continue the conversation with the commission.
 
-- [[people.board.Jay Galbreath]] [called out](https://x.com/murribu/status/1792716180203221057) the TISA formula as a reason why we get less money from TN. [Also](https://x.com/murribu/status/1792716734497206325), this $555 million budget should not require a tax increase.
+- [[people.pol.Jay Galbreath]] [called out](https://x.com/murribu/status/1792716180203221057) the TISA formula as a reason why we get less money from TN. [Also](https://x.com/murribu/status/1792716734497206325), this $555 million budget should not require a tax increase.
 
 - [[people.board.Donna Clements]] [was disappointed](https://x.com/murribu/status/1792717239646585144) at the assumption that teachers' pay would need to be cut in response to a lower budget. She [echoed](https://x.com/murribu/status/1792717793605108139) [[people.pol.Barb Sturgeon]]'s suggestion that there should be an external audit.
 
 - [[Superintendent Golden|people.o.Jason Golden]] [confirmed](https://x.com/murribu/status/1792718324377522328) that if our budget is less than $555, we will have to either cut services or salaries.
 
-- [[people.board.Eric Welch]] also [verified](https://x.com/murribu/status/1792718699591561713) that the district is externally audited every year. The only recent finding was that the district was too conservative with their budget.
+- [[people.pol.Eric Welch]] also [verified](https://x.com/murribu/status/1792718699591561713) that the district is externally audited every year. The only recent finding was that the district was too conservative with their budget.
 
 The budget ended up passing by a vote of 10-0-1, with [[people.board.Donna Clements]] abstaining.
 
@@ -100,8 +100,8 @@ The prevailing opinion of board was that this policy would be onerous and imprac
 Some highlights:
 
 - [[people.pol.Rick Wimberly]] [estimated](https://x.com/murribu/status/1792725464471199919) that this would add 450 hours of work per librarian per year
-- [[people.board.Eric Welch]] [read](https://x.com/murribu/status/1792730046005952737) excerpts from Roots. That book has never received any complaints and is historically valuable. Further, it was recently enshrined as an official state book of TN, nominated by [[people.pol.Gino Bulso]]. But under this policy, it would be removed. He called the TN law a "pile of crap."
-- [[people.board.Drason Beasley]] [spoke up](https://x.com/murribu/status/1792733750025207831), which is a rare event. He expressed some frustration that board members were critiquing the policy and yet they had not showed up for the policy meeting. [[people.pol.Rick Wimberly]] jovially acknowledged that he was the object of that complaint.
+- [[people.pol.Eric Welch]] [read](https://x.com/murribu/status/1792730046005952737) excerpts from Roots. That book has never received any complaints and is historically valuable. Further, it was recently enshrined as an official state book of TN, nominated by [[people.pol.Gino Bulso]]. But under this policy, it would be removed. He called the TN law a "pile of crap."
+- [[people.pol.Drason Beasley]] [spoke up](https://x.com/murribu/status/1792733750025207831), which is a rare event. He expressed some frustration that board members were critiquing the policy and yet they had not showed up for the policy meeting. [[people.pol.Rick Wimberly]] jovially acknowledged that he was the object of that complaint.
 - For an eloquent explanation of the implications of this policy, [watch Lisa Carson's comments](https://www.youtube.com/live/PEsvj1Da6zI?si=WW-ptyYfjeBk7qqd&t=9185). She helped write the policy they're voting on. This segment is about 4 or 5 minutes long.
 
-The policy passed for [[glossary.first reading]], by a vote of 9-2, with [[people.board.Eric Welch]] and [[people.pol.KC Haugh]] dissenting.
+The policy passed for [[glossary.first reading]], by a vote of 9-2, with [[people.pol.Eric Welch]] and [[people.pol.KC Haugh]] dissenting.

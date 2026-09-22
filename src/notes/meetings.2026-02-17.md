@@ -9,7 +9,7 @@ nav_order: 976
 
 The Williamson County School Board held its February meetings recently.
 
-[[people.board.Josh Brown]] was absent for the work session and [[people.board.Claire Reeves]] joined by phone, so [[people.board.Jay Galbreath]] was the acting Chair for that meeting. Every board member was present for the voting meeting.
+[[people.pol.Josh Brown]] was absent for the work session and [[people.board.Claire Reeves]] joined by phone, so [[people.pol.Jay Galbreath]] was the acting Chair for that meeting. Every board member was present for the voting meeting.
 
 - [Work Session Agenda](https://meeting.boeconnect.net/Public/Agenda/566?meeting=729999)
 - [Work Session Live Stream](https://www.youtube.com/watch?v=za11IwR0x7Q) - 2:15:25
@@ -29,11 +29,11 @@ Two members of the public, [[people.pol.Steve Hickey]] and [[people.pol.Elliott 
 
 He clarified that policy 6.300 addresses when students skip class. And this policy was followed in these recent cases.
 
-[[people.board.Jay Galbreath]] added that he thought they might need a new policy, particularly when a student is encouraging another student to skip class. He will be bringing that to a future policy meeting. He also asked for aggregated data around skipping class and the punishments that are given for the past 3 semesters.
+[[people.pol.Jay Galbreath]] added that he thought they might need a new policy, particularly when a student is encouraging another student to skip class. He will be bringing that to a future policy meeting. He also asked for aggregated data around skipping class and the punishments that are given for the past 3 semesters.
 
 ## IEPs and Classroom Disruptions
 
-[[people.board.Dan Cash]] and [[people.board.Dennis Driggers]] both brought up recent situations where an elementary student severely disrupted a class. According to this student's IEP, the school is not allowed to remove them from the classroom. This has led to repeated disruptions, causing problems for the other students in the class.
+[[people.pol.Dan Cash]] and [[people.board.Dennis Driggers]] both brought up recent situations where an elementary student severely disrupted a class. According to this student's IEP, the school is not allowed to remove them from the classroom. This has led to repeated disruptions, causing problems for the other students in the class.
 
 [[people.board.Tony Bostic]] asked if students with an IEP can be assigned to the Alternative Learning Center (ALC). Mr. Golden said that it depends. If the IEP states that the student should not be removed from a general education classroom, then by law, the student must stay in the classroom. The law requires daily services for the student, allowing for no more than 10 missed days. So the student could go to the ALC for up to 10 days. If the behavior is egregious (drug possession, causing severe bodily harm, etc.) that limit can be extended to 45 days.
 

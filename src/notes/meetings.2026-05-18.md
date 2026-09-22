@@ -1,7 +1,7 @@
 ---
 id: may2026
-title: Service Delivery Logs, Continued Pushback on T2 Consolidation
-desc: ""
+title: 'Service Delivery Logs, Continued Pushback on T2 Consolidation'
+desc: ''
 updated: 1779219388425
 created: 1779196504593
 nav_order: 973
@@ -9,7 +9,7 @@ nav_order: 973
 
 The Williamson County School Board held its May meeting yesterday.
 
-[[people.board.Eric Welch]] was absent for the Work Session. [[people.board.Josh Brown]] and [[people.board.Drason Beasley]] were absent for the voting meeting. Since Mr. Brown is the chair, [[people.board.Claire Reeves]] presided in the voting meeting because she is vice chair.
+[[people.pol.Eric Welch]] was absent for the Work Session. [[people.pol.Josh Brown]] and [[people.pol.Drason Beasley]] were absent for the voting meeting. Since Mr. Brown is the chair, [[people.board.Claire Reeves]] presided in the voting meeting because she is vice chair.
 
 - [Work Session Agenda](https://meeting.boeconnect.net/Public/Agenda/566?meeting=744431)
 - [Work Session Live Stream](https://www.youtube.com/watch?v=9WfmxAnU_bQ) - 3:20:02
@@ -25,7 +25,7 @@ One parent of a Transition II student spoke up during public comment, expressing
 
 [[people.board.Margie Johnson]], [[people.board.Tony Bostic]], [[people.board.Donna Clements]], and [[people.board.Dennis Driggers]] each took time to express their displeasure about the proposed changes. They have heard from parents and teachers that this change was not welcome.
 
-[[people.board.Dan Cash]] and [[people.board.Eric Welch]] defended our educators and admin, disputing the rumors that they were uncaring. Mr. Cash has heard from teachers who are in favor of this change and asks if they can poll the teachers to get their opinion. Mr. Golden said that it's a very small number of teachers, but yes, they could ask them.
+[[people.pol.Dan Cash]] and [[people.pol.Eric Welch]] defended our educators and admin, disputing the rumors that they were uncaring. Mr. Cash has heard from teachers who are in favor of this change and asks if they can poll the teachers to get their opinion. Mr. Golden said that it's a very small number of teachers, but yes, they could ask them.
 
 Superintendent Golden again laid out the reasons why these changes were proposed. The admin overseeing this program saw the job performance data from our T2 students after they age out, and thought we could do better. This change was an attempt to serve those students better. They did not anticipate the pushback that they have received. The reaction to this proposed change has shown them that they did not communicate adequately nor sensitively enough.
 
@@ -35,7 +35,7 @@ Mr. Bostic asked if they could at least delay these changes by a year, but did n
 
 Last year at the [April meeting](https://wcsb.substack.com/i/161920254/special-education), Mr. Bostic wanted to require educators to maintain a service delivery log for each student with an [[IEP|glossary.iep]]. The purpose is to increase accountability, have a record that parents can access to see that their child is receiving services, and to protect the district in case of litigation.
 
-At the time, there was pushback from front office personnel and [[people.board.Eric Welch]], saying it would add an unnecessary burden on our educators. And our legal counsel explained that this type of a system would not enhance our protection against IEP complaints. Compliance with an IEP is driven by results, not by process. This pushback was enough to withdraw the recommendation at that time.
+At the time, there was pushback from front office personnel and [[people.pol.Eric Welch]], saying it would add an unnecessary burden on our educators. And our legal counsel explained that this type of a system would not enhance our protection against IEP complaints. Compliance with an IEP is driven by results, not by process. This pushback was enough to withdraw the recommendation at that time.
 
 This month, the same change was back on the agenda. Three members of the public spoke to special education, with one specifically endorsing the idea of service delivery logs.
 

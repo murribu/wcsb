@@ -1,22 +1,22 @@
 ---
 id: october2024worksession
-title: "October 17, 2024 Work Session"
-desc: ""
+title: 'October 17, 2024 Work Session'
+desc: ''
 updated: 1729288936439
 created: 1729285703017
 nav_order: 994
 ---
 
-The board met for their October [[glossary.Work Session]] last night. Three board members were absent: [[people.board.Josh Brown]], [[people.board.Jay Galbreath]], and [[people.board.Eric Welch]].
+The board met for their October [[glossary.Work Session]] last night. Three board members were absent: [[people.pol.Josh Brown]], [[people.pol.Jay Galbreath]], and [[people.pol.Eric Welch]].
 
 - [Agenda](https://meeting.boeconnect.net/Public/Agenda/566?meeting=657178)
 - [Live Stream](https://www.youtube.com/watch?v=7Ufwa-mbcy8) - 1:56:12
 
 ## Vouchers
 
-This agenda item was prompted by [[people.board.Dennis Driggers]]. He wants to rescind the board's March 2024 resolution that denounced vouchers. His argument is two-fold. First, the board should be neutral on the issue, especially since the TN law failed. If there's another law being presented, they can provide feedback on it. Second (as I mentioned in my [[updates.2024-10-preview]]), the make-up of the board has changed. Only two of the "yes" votes for the previous resolution remain on the board: [[people.board.Eric Welch]] and [[people.board.Drason Beasley]].
+This agenda item was prompted by [[people.board.Dennis Driggers]]. He wants to rescind the board's March 2024 resolution that denounced vouchers. His argument is two-fold. First, the board should be neutral on the issue, especially since the TN law failed. If there's another law being presented, they can provide feedback on it. Second (as I mentioned in my [[updates.2024-10-preview]]), the make-up of the board has changed. Only two of the "yes" votes for the previous resolution remain on the board: [[people.pol.Eric Welch]] and [[people.pol.Drason Beasley]].
 
-During the discussion, [[people.board.Claire Reeves]], [[people.board.Tonja Hibma]], and [[people.board.Dan Cash]] seemed to express support for Dr. Driggers's proposal. [[people.board.Melissa Wyatt]] and [[people.board.Drason Beasley]] pushed back at the idea.
+During the discussion, [[people.board.Claire Reeves]], [[people.board.Tonja Hibma]], and [[people.pol.Dan Cash]] seemed to express support for Dr. Driggers's proposal. [[people.board.Melissa Wyatt]] and [[people.pol.Drason Beasley]] pushed back at the idea.
 
 If you'd like to see the discussion [click here](https://www.youtube.com/live/7Ufwa-mbcy8?t=5701). It's about 20 minutes.
 

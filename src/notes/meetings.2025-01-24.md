@@ -1,7 +1,7 @@
 ---
 id: jan24legislators
 title: WCSB Meeting with TN State Legislators
-desc: ""
+desc: ''
 updated: 1737759839285
 created: 1737754806220
 nav_order: 988
@@ -9,7 +9,7 @@ nav_order: 988
 
 On Friday, January 24, 2025 at 9:30am, our school board gathered to meet with our legislators. This is an annual meeting to discuss issues at the state level that effect Williamson County Schools.
 
-Ten board members were present. [[people.board.Jay Galbreath]] was connected via phone because of an illness and [[people.board.Drason Beasley]] was absent.
+Ten board members were present. [[people.pol.Jay Galbreath]] was connected via phone because of an illness and [[people.pol.Drason Beasley]] was absent.
 
 From the legislature, the following were present
 
@@ -35,7 +35,7 @@ There was not much time spent on this topic, but [[people.pol.Gino Bulso]] expre
 
 [[people.pol.Gino Bulso]] replied by blaming Memphis for skewing our state-wide numbers. He also asserted that the problem is not the guns, rather it is a societal issue. He seemed to pine for a time when there was more prayer in school and divorce was more difficult to attain, implying that gun violence would be stemmed if these societal shifts were rolled back.
 
-[[people.board.Eric Welch]] asked about enhancing red flag laws to remove firearms from folks who are mentally ill, citing the Covenant shooting.
+[[people.pol.Eric Welch]] asked about enhancing red flag laws to remove firearms from folks who are mentally ill, citing the Covenant shooting.
 
 [[people.pol.Jack Johnson]] said that there is a process to temporarily remove firearms if an individual is adjudicated as mentally ill. In the case of Covenant, that process broke down. It was not a failure of policy, but a failure of implementation.
 
@@ -51,7 +51,7 @@ In order to get more money for Williamson County, they added a provision for "fa
 
 So now, they're looking at going outside of the TISA calculation to add funding for high-performing districts.
 
-[[people.board.Eric Welch]] noted that this is all talking about how the "pie" is divided up. But couldn't you increase the size of the pie?
+[[people.pol.Eric Welch]] noted that this is all talking about how the "pie" is divided up. But couldn't you increase the size of the pie?
 
 [[people.pol.Gino Bulso]] said that the state's budget for education is over $7b and the schools are failing. More money won't help. But if we provide vouchers, we'll get better educational outcomes by giving parents more options. "All students" means public school students, private school students, homeschool students - everyone.
 
@@ -67,7 +67,7 @@ Mr. Bulso also mentioned that there aren't private schools in many rural countie
 
 Mr. Welch and Senator Johnson had another heated exchange.
 
-[[people.board.Josh Brown]] wanted to know about the "hold harmless" clause.
+[[people.pol.Josh Brown]] wanted to know about the "hold harmless" clause.
 
 (This is Cory interjecting now with some background) The "hold harmless" clause says that if a school district loses enrollment because of folks using vouchers - **or for any other reason** - their funding will not be negatively affected. At the institution of the voucher bill, there will be a "floor" of funding established for each district and their funding will not go below that floor. There is some confusion about whether this floor is in perpetuity or whether it gets re-drawn after each school year. Okay, back to the meeting...
 

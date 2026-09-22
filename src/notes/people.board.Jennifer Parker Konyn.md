@@ -2,10 +2,10 @@
 id: jennifer-parker-konyn
 title: Jennifer Parker Konyn
 desc: ""
-updated: 1774543831153
+updated: 1790110257108
 created: 1774543801435
 ---
 
-Democrat candidate for district 10 representative on the Williamson County School Board in 2026
+District 10 representative on the Williamson County School Board
 
 [website](https://www.konynforwcskids.com/)

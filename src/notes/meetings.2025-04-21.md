@@ -58,15 +58,15 @@ It also requires librarians to develop a "Mature Materials List" in order to com
 
 ### Vote
 
-[[people.board.Dan Cash]] seemed confused about why these changes were necessary. [[people.admin.Dana Ausbrooks]] and [[people.board.Jay Galbreath]] tried to explain the reasons, but he was apparently unconvinced, asking "do we implement policies, anticipating that laws will change?"
+[[people.pol.Dan Cash]] seemed confused about why these changes were necessary. [[people.admin.Dana Ausbrooks]] and [[people.pol.Jay Galbreath]] tried to explain the reasons, but he was apparently unconvinced, asking "do we implement policies, anticipating that laws will change?"
 
-[[people.o.Jason Golden]] recommended the approval of these changes and they passed 8-3, with [[people.board.Melissa Wyatt]], [[people.board.Eric Welch]], and Mr. Cash voting against it.
+[[people.o.Jason Golden]] recommended the approval of these changes and they passed 8-3, with [[people.board.Melissa Wyatt]], [[people.pol.Eric Welch]], and Mr. Cash voting against it.
 
 [[Last month|meetings.2025-03-17]], some folks in the community who were pleased with the adoption of STEMscopes said that the board should not always "rubber stamp" the superintendent's recommendations. Notably, Mr. Welch and Ms. Wyatt voted against Mr. Golden's recommendation on this vote.
 
 ## Special Education
 
-At the work session, there was a long discussion about the [[glossary.iep]] process. [[people.board.Tony Bostic]] seemed displeased with the way the district interacts with parents of students with an IEP. At the work session, he proposed instituting a program where educators would be required to maintain service delivery logs to ensure that they were complying with IEPs. Front office personnel and [[people.board.Eric Welch]] resisted this idea, saying it would add an unnecessary burden on our educators. [[people.admin.Dana Ausbrooks]] further explained that this type of a system would not enhance our protection against IEP complaints. Compliance with an IEP is driven by results, not by process. If the required services are rendered and the student does not make progress, the education system has still failed. The SDL system would not protect the district in such a case.
+At the work session, there was a long discussion about the [[glossary.iep]] process. [[people.board.Tony Bostic]] seemed displeased with the way the district interacts with parents of students with an IEP. At the work session, he proposed instituting a program where educators would be required to maintain service delivery logs to ensure that they were complying with IEPs. Front office personnel and [[people.pol.Eric Welch]] resisted this idea, saying it would add an unnecessary burden on our educators. [[people.admin.Dana Ausbrooks]] further explained that this type of a system would not enhance our protection against IEP complaints. Compliance with an IEP is driven by results, not by process. If the required services are rendered and the student does not make progress, the education system has still failed. The SDL system would not protect the district in such a case.
 
 So, Mr. Bostic's proposed changes were excluded from the vote this month.
 

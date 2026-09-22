@@ -27,7 +27,7 @@ Also, school staffing is very good to start the year. The biggest area of concer
 
 ## Counseling Services
 
-There was a discussion about parental consent for counseling services. [[people.board.Dan Cash]] was concerned that a parent may have agreed to counseling services and not realized that they've given permission for their kid to receive sexually explicit conversations. "We don't do that," replied [[people.o.Jason Golden]].
+There was a discussion about parental consent for counseling services. [[people.pol.Dan Cash]] was concerned that a parent may have agreed to counseling services and not realized that they've given permission for their kid to receive sexually explicit conversations. "We don't do that," replied [[people.o.Jason Golden]].
 
 The district is reaching out to each family that chose not to opt in for counseling services to understand exactly what the family is comfortable with. And if you're a WCS parent, you have probably already seen that they sent out another reminder to everyone that you can change your mind about counseling services at any time.
 

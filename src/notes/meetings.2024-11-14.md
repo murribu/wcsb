@@ -1,13 +1,13 @@
 ---
 id: november2024worksession
-title: "November 14, 2024 Work Session"
-desc: "The November 2024 Williamson County School Board Work Session"
+title: 'November 14, 2024 Work Session'
+desc: The November 2024 Williamson County School Board Work Session
 updated: 1731710978870
 created: 1731704469493
 nav_order: 992
 ---
 
-The board met for their September [[glossary.Work Session]] on Thursday. All board members were present except [[people.board.Dan Cash]] and [[people.board.Drason Beasley]].
+The board met for their September [[glossary.Work Session]] on Thursday. All board members were present except [[people.pol.Dan Cash]] and [[people.pol.Drason Beasley]].
 
 - [Agenda](https://meeting.boeconnect.net/Public/Agenda/566?meeting=662241)
 - [Live Stream](https://www.youtube.com/watch?v=HSGD6aCMPCE) - 4:15:50

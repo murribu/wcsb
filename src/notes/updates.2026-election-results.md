@@ -1,7 +1,7 @@
 ---
 id: 2026-election-results
 title: 2026 Election Results
-desc: ""
+desc: ''
 updated: 1787003973213
 created: 1787002920415
 ---
@@ -10,15 +10,15 @@ In the 2026 elections, here were the results:
 
 ## District 2
 
-[[people.pol.Randy Allen]] (R) defeated [[people.pol.Jason Greathouse]] (D)
+[[people.board.Randy Allen]] (R) defeated [[people.pol.Jason Greathouse]] (D)
 
 ## District 4
 
-[[people.pol.Traci Anderson]] (R) was unopposed
+[[people.board.Traci Anderson]] (R) was unopposed
 
 ## District 6
 
-[[people.pol.Kimberly Calcote]] (R) defeated [[people.pol.Kristi Bidinger]] (I)
+[[people.board.Kimberly Calcote]] (R) defeated [[people.pol.Kristi Bidinger]] (I)
 
 ## District 8
 
@@ -26,8 +26,8 @@ In the 2026 elections, here were the results:
 
 ## District 10
 
-[[people.pol.Jennifer Parker Konyn]] (D) defeated [[people.pol.Elliott Franklin]] (R)
+[[people.board.Jennifer Parker Konyn]] (D) defeated [[people.pol.Elliott Franklin]] (R)
 
 ## District 12
 
-[[people.pol.Jessica Lucyshyn]] (R) was unopposed
+[[people.board.Jessica Lucyshyn]] (R) was unopposed

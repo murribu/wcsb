@@ -1,7 +1,7 @@
 ---
 id: september2025
-title: "Teacher Suspended Pending Investigation"
-desc: ""
+title: Teacher Suspended Pending Investigation
+desc: ''
 updated: 1758055488914
 created: 1758036132844
 nav_order: 980
@@ -28,9 +28,9 @@ There were four topics from the school board meetings that stood out to me. Firs
 
 ## New Vice Chair
 
-[[people.board.Josh Brown]] was the only nominee for Chair, so he continues in his leadership role.
+[[people.pol.Josh Brown]] was the only nominee for Chair, so he continues in his leadership role.
 
-[[people.board.Claire Reeves]] was the only nominee for Vice Chair, so she will step into that role for [[people.board.Dan Cash]].
+[[people.board.Claire Reeves]] was the only nominee for Vice Chair, so she will step into that role for [[people.pol.Dan Cash]].
 
 ## Death Threat
 
@@ -38,7 +38,7 @@ As I wrote [[last month|meetings.2025-08-18]], a parent spoke about his dissatis
 
 ## Budget
 
-It's very early in the budget process, but [[people.board.Jay Galbreath]] is beating the drum again for change to the way that "class voluntary fees" are treated. Basically, they are categorized poorly and it's not just semantics. It makes it so that schools have to beg for donations to cover classroom costs. He laid out the issue very clearly in the Work Session. You can see it by clicking [here](https://www.youtube.com/watch?v=4PoPv-S-t20&t=1826s). The pertinent section is about 5 minutes long.
+It's very early in the budget process, but [[people.pol.Jay Galbreath]] is beating the drum again for change to the way that "class voluntary fees" are treated. Basically, they are categorized poorly and it's not just semantics. It makes it so that schools have to beg for donations to cover classroom costs. He laid out the issue very clearly in the Work Session. You can see it by clicking [here](https://www.youtube.com/watch?v=4PoPv-S-t20&t=1826s). The pertinent section is about 5 minutes long.
 
 ## Teacher Suspended For Social Media Post
 
@@ -54,7 +54,7 @@ She will have an opportunity to appeal any decision. And I believe the school bo
 
 Mr. Golden repeatedly said that the post from the teacher does not reflect the values of Williamson County Schools. You can see the official statements at [this WKRN article](https://www.wkrn.com/news/local-news/williamson-county-school-employee-suspended-for-charlie-kirk-comments/amp/).
 
-[[people.board.Dan Cash]] mentioned another incident involving a teacher saying something inappropriate in a classroom. That teacher has also been suspended without pay, pending an investigation.
+[[people.pol.Dan Cash]] mentioned another incident involving a teacher saying something inappropriate in a classroom. That teacher has also been suspended without pay, pending an investigation.
 
 ## Next Meeting
 
