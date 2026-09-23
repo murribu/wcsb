@@ -2,7 +2,7 @@
 id: september2026
 title: Board Hires Delaware Company For Superintendent Search
 desc: ""
-updated: 1790115775820
+updated: 1790127784239
 created: 1790109674274
 nav_order: 969
 ---
@@ -39,7 +39,7 @@ One person spoke in favor of hiring a search firm for the superintendent search 
 
 ### Work Session
 
-At the work session, the board heard presentations from three entities who were bidding to be hired to guide the Williamson County School Board through the process of finding a new superintendent. The three entities are [[HYA|https://hyasearch.com/]], [[Zeal Education Group|https://www.zeal-ed.com/]], and [[TSBA|https://tsba.net/services/superintendent-searches/]].
+At the work session, the board heard presentations from three entities who were bidding to be hired to guide the Williamson County School Board through the process of finding a new superintendent. The three entities are [HYA](https://hyasearch.com/), [Zeal Education Group](https://www.zeal-ed.com/), and [TSBA](https://tsba.net/services/superintendent-searches/).
 
 The pricing schedules were not straightforward, but here are rough estimates. HYA would charge around $75,000 with add-ons available. Zeal would charge around $50,000 with add-ons available. TSBA would charge $15,000 for their most robust offering.
 
@@ -47,7 +47,7 @@ HYA and Zeal are both private companies and TSBA is a public entity.
 
 TSBA is the Tennessee School Board Association. Our board pays regular dues to be in this association. Their purpose is to assist school boards in effectively governing school districts. They provide resources for many school board needs, and their superintendent search assistance is a paid offering on top of their regular services.
 
-One wrinkle to this discussion is a new law [[HB2616|https://wapp.capitol.tn.gov/apps/BillInfo/Default?BillNumber=HB2616&ga=114]]. It basically says that a school board who is in the process of hiring a superintendent can interview candidates in private meetings. Before this law, all interviews had to be open to the public. Whichever firm is hired will need to be well-versed in this change, as Williamson County will likely be one of the first districts to operate under this new law.
+One wrinkle to this discussion is a new law [HB2616](https://wapp.capitol.tn.gov/apps/BillInfo/Default?BillNumber=HB2616&ga=114). It basically says that a school board who is in the process of hiring a superintendent can interview candidates in private meetings. Before this law, all interviews had to be open to the public. Whichever firm is hired will need to be well-versed in this change, as Williamson County will likely be one of the first districts to operate under this new law.
 
 ### Voting Meeting
 
@@ -77,4 +77,4 @@ The next meeting will be Monday, October 19th at 6:30pm.
 
 ## Call To Action
 
-The board needs to hear what you're looking for in our next superintendent. [[Click here|mailto:tony.bostic@wcs.edu, randy.allen@wcs.edu, dennis.driggers@wcs.edu, margie.padgett@wcs.edu, kimberly.calcote@wcs.edu, claire.reeves@wcs.edu, tonja.hibma@wcs.edu, jennifer.konyn@wcs.edu, melissa.wyatt@wcs.edu, traci.anderson@wcs.edu, donna.clements@wcs.edu, jessica.lucyshyn@wcs.edu]] to email the board.
+The board needs to hear what you're looking for in our next superintendent. [Click here](mailto:tony.bostic@wcs.edu, randy.allen@wcs.edu, dennis.driggers@wcs.edu, margie.padgett@wcs.edu, kimberly.calcote@wcs.edu, claire.reeves@wcs.edu, tonja.hibma@wcs.edu, jennifer.konyn@wcs.edu, melissa.wyatt@wcs.edu, traci.anderson@wcs.edu, donna.clements@wcs.edu, jessica.lucyshyn@wcs.edu) to email the board.
