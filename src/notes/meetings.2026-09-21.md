@@ -2,7 +2,7 @@
 id: september2026
 title: Board Hires Delaware Company For Superintendent Search
 desc: ""
-updated: 1790127784239
+updated: 1790128491117
 created: 1790109674274
 nav_order: 969
 ---
@@ -77,4 +77,4 @@ The next meeting will be Monday, October 19th at 6:30pm.
 
 ## Call To Action
 
-The board needs to hear what you're looking for in our next superintendent. [Click here](mailto:tony.bostic@wcs.edu, randy.allen@wcs.edu, dennis.driggers@wcs.edu, margie.padgett@wcs.edu, kimberly.calcote@wcs.edu, claire.reeves@wcs.edu, tonja.hibma@wcs.edu, jennifer.konyn@wcs.edu, melissa.wyatt@wcs.edu, traci.anderson@wcs.edu, donna.clements@wcs.edu, jessica.lucyshyn@wcs.edu) to email the board.
+The board needs to hear what you're looking for in our next superintendent. [Click here](mailto:tony.bostic@wcs.edu,randy.allen@wcs.edu,dennis.driggers@wcs.edu,margie.padgett@wcs.edu,kimberly.calcote@wcs.edu,claire.reeves@wcs.edu,tonja.hibma@wcs.edu,jennifer.konyn@wcs.edu,melissa.wyatt@wcs.edu,traci.anderson@wcs.edu,donna.clements@wcs.edu,jessica.lucyshyn@wcs.edu) to email the board.
