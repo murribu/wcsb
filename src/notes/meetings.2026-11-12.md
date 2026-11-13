@@ -2,9 +2,9 @@
 id: november2026
 title: "Superintendent Survey Extended to Sunday, Board to Vote on Calendars Monday"
 desc: ""
-updated: 1794608154617
+updated: 1794609646275
 created: 1794605841800
-nav_order: 968
+nav_order: 967
 ---
 
 The Williamson County School Board held its November work session on Thursday, the 12th. The voting meeting is Monday, the 16th, at 6:30pm.
@@ -48,6 +48,6 @@ The committee also asked the board to consider moving middle and high schools fr
 
 ## Call to Action
 
-Fill out the [ThoughtExchange survey](https://my.thoughtexchange.com/scroll/901321891) by Sunday, Nov 15 at midnight. If you know other WCS families, please share it with them.
+Fill out the [ThoughtExchange survey](https://my.thoughtexchange.com/scroll/901321891) by Sunday, Nov 15 at midnight. If you know other WCS families, please share it with them or forward this article to them.
 
 The board's voting meeting is this coming Monday, November 16, at 6:30pm.
