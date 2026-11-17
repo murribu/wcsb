@@ -35,13 +35,13 @@ Every November, the board votes on a [[glossary.five year plan]]. This is a non-
 
 [[people.pol.Jay Galbreath]] asked to add some commentary to the Five Year Capital Plan to show when each line item was added or changed. [[people.o.Jason Golden]] and [[people.board.Claire Reeves]] agreed that this was a good idea.
 
-[[people.board.Tony Bostic]] and [[people.board.Margie Johnson]] expressed surprise and consternation about having to vote on this plan, saying that they weren't sure where these numbers came from.
+[[people.board.Tony Bostic]] and [[people.board.Margie Padgett]] expressed surprise and consternation about having to vote on this plan, saying that they weren't sure where these numbers came from.
 
 [[people.board.Donna Clements]] expressed concern that the numbers were too high. She cited the growth in our county that has leveled off over the past 4 years or so, saying that we might not need so many new schools.
 
 [[people.pol.Josh Brown]] addressed the concerns, imploring the skeptical board members to collaborate and fix the problems they mentioned rather than vote against the Five Year Capital Plan. If this plan were not to pass, it could have major negative financial implications for the county. Also, it should not have been a surprise. The board voted on the annual agenda, which included this Five Year Capital Plan, in August which was after the 6 new board members had won their races.
 
-Even still, [[people.board.Tony Bostic]] voted against the plan. [[people.board.Donna Clements]] and [[people.board.Margie Johnson]] abstained, which is effectively a "no" vote, since the plan needs 7 "yes" votes to pass. Fortunately, the other 9 board members voted in favor of the Five Year Captial Plan, so it passed.
+Even still, [[people.board.Tony Bostic]] voted against the plan. [[people.board.Donna Clements]] and [[people.board.Margie Padgett]] abstained, which is effectively a "no" vote, since the plan needs 7 "yes" votes to pass. Fortunately, the other 9 board members voted in favor of the Five Year Captial Plan, so it passed.
 
 ## Equal Opportunity Employment Policy
 

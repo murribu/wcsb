@@ -1,7 +1,7 @@
 ---
 id: 2024-candidate-info
 title: 2024 Candidate Info
-desc: ""
+desc: ''
 updated: 1729021610619
 created: 1719797390571
 nav_order: 1000
@@ -61,7 +61,7 @@ She is passionately anti-vouchers.
 
 - District 3 - [[people.board.Dennis Driggers]] (Republican)
 
-- District 5 - [[people.board.Margie Johnson]] (Republican)
+- District 5 - [[people.board.Margie Padgett]] (Republican)
 
 - District 7 - [[people.o.Angela Beaton]] (Republican)
 

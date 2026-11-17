@@ -13,7 +13,7 @@ nav_order: 1
 - District 2 Representative: [[people.pol.Dan Cash]] (current Vice Chair)
 - District 3 Representative: [[people.board.Dennis Driggers]]
 - District 4 Representative: [[people.pol.Josh Brown]] (current Chair)
-- District 5 Representative: [[people.board.Margie Johnson]]
+- District 5 Representative: [[people.board.Margie Padgett]]
 - District 6 Representative: [[people.pol.Jay Galbreath]]
 - District 7 Representative: [[people.board.Melissa Wyatt]]
 - District 8 Representative: [[people.board.Donna Clements]]

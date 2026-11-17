@@ -61,7 +61,7 @@ Senator Johnson says that it's not designed to cover the entire amount, but just
 
 Mr. Bulso also mentioned that there aren't private schools in many rural counties YET. He's confident that the demand will draw in new institutions, including religious schools.
 
-[[people.board.Margie Johnson]] brought up the fact that private schools don't have accountability. Over 70 TN school districts passed resolutions against vouchers. And the metrics for judging these schools are incongruous. Privates schools are judged on "parental satisfaction" while public schools are judged on TCAP scores.
+[[people.board.Margie Padgett]] brought up the fact that private schools don't have accountability. Over 70 TN school districts passed resolutions against vouchers. And the metrics for judging these schools are incongruous. Privates schools are judged on "parental satisfaction" while public schools are judged on TCAP scores.
 
 [[people.pol.Jack Johnson]]: "I reject the assertion that we need to burden these other schools with the same standards we hold public schools to." They don't have to take TCAP - that's the kinda the point of having a private school.
 

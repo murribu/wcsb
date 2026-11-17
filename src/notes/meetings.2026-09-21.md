@@ -1,7 +1,7 @@
 ---
 id: september2026
 title: Board Hires Delaware Company For Superintendent Search
-desc: ""
+desc: ''
 updated: 1790128491117
 created: 1790109674274
 nav_order: 969
@@ -21,7 +21,7 @@ The main topic this month was regarding the search for our next superintendent.
 
 ## Chair and Vice Chair
 
-Each September, there is an election for Chair and Vice Chair. [[people.board.Claire Reeves]] was elected chair unanimously. [[people.board.Tonja Hibma]] was elected vice chair by a vote of 9-3, with [[people.board.Tony Bostic]], [[Margie Padgett|people.board.Margie Johnson]], and Ms. Clements voting for Dr. Padgett.
+Each September, there is an election for Chair and Vice Chair. [[people.board.Claire Reeves]] was elected chair unanimously. [[people.board.Tonja Hibma]] was elected vice chair by a vote of 9-3, with [[people.board.Tony Bostic]], [[Margie Padgett|people.board.Margie Padgett]], and Ms. Clements voting for Dr. Padgett.
 
 ## Public Comment
 

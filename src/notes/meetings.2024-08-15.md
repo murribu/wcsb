@@ -37,7 +37,7 @@ The incoming board members who won their elections are:
 
 - District 1: [[people.board.Tony Bostic]]
 - District 3: [[people.board.Dennis Driggers]]
-- District 5: [[people.board.Margie Johnson]]
+- District 5: [[people.board.Margie Padgett]]
 - District 7: [[people.board.Melissa Wyatt]]
 - District 9: [[people.board.Claire Reeves]]
 - District 11: [[people.board.Tonja Hibma]]
