@@ -43,7 +43,7 @@ The board had a slate of fifteen different science subjects for which they neede
 
 [[people.board.Claire Reeves]] proposed an amendment to change the books used in K-8 from the recommended Savvas and McGraw Hill publishers to STEMscopes instead. In K-2, the teachers preferred Savvas over STEMscopes by a 2:1 ratio. In 3-5, over 80% preferred Savvas. In 6-8, it was split pretty evenly between Savvas and McGraw Hill. Nobody in the groups who reviewed materials for 6-8 voted for STEMscopes.
 
-By a vote of 8-2-1, the board decided to override the committees' recommendations and use STEMscopes textbooks. [[people.board.Melissa Wyatt]] and [[people.pol.Eric Welch]] voted against this amendment and [[people.board.Margie Johnson]] abstained.
+By a vote of 8-2-1, the board decided to override the committees' recommendations and use STEMscopes textbooks. [[people.board.Melissa Wyatt]] and [[people.pol.Eric Welch]] voted against this amendment and [[people.board.Margie Padgett]] abstained.
 
 ### AP Psychology
 
@@ -51,7 +51,7 @@ By a vote of 8-2-1, the board decided to override the committees' recommendation
 
 During that discussion, [[people.board.Donna Clements]] proposed an amendment to that amendment that would select the Cengage textbook for this course, noting that this was an area of expertise for her. [[people.admin.Dave Allen]] and [[people.admin.Leigh Webb]] talked about the 9 AP Psychology teachers in the district. Their students have consistently performed exceedingly well on the AP Psych exam, and they unanimously chose the BFW Myers textbook. The parent/educator committee chose the BFW Myers textbook unanimously as well. But Ms. Clements wanted to choose Cengage instead. This effort failed by a vote of [2-9](https://www.threads.net/@murribu/post/DHU0mbFNT1E), with [[people.board.Tony Bostic]] joining Ms. Clements in the affirmative.
 
-After that, they were back to merely delaying the adoption of the AP Psych textbook. That amendment passed 7-3-1. The dissent was [[people.board.Melissa Wyatt]], [[people.pol.Eric Welch]], and [[people.pol.Jay Galbreath]], with [[people.board.Margie Johnson]] abstaining. So they will vote on this textbook probably next month.
+After that, they were back to merely delaying the adoption of the AP Psych textbook. That amendment passed 7-3-1. The dissent was [[people.board.Melissa Wyatt]], [[people.pol.Eric Welch]], and [[people.pol.Jay Galbreath]], with [[people.board.Margie Padgett]] abstaining. So they will vote on this textbook probably next month.
 
 ### Vote to Adopt the Textbooks
 

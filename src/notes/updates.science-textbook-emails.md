@@ -58,13 +58,13 @@ He also coordinated with [[organizations.MomsForLiberty]]'s local chapter chair,
 
 [[people.pol.Josh Brown]] only showed up in two emails that I saw.
 
-First, he corrected the record when [[people.board.Margie Johnson]] said that [[people.o.Jason Golden]] blamed the board for the rush at the end of the process.
+First, he corrected the record when [[people.board.Margie Padgett]] said that [[people.o.Jason Golden]] blamed the board for the rush at the end of the process.
 
 Second, he confirmed that he would not speak to the media.
 
 ### Margie Johnson (District 5)
 
-[[people.board.Margie Johnson]] didn't show up much either. She sent some internal communications, upset about the textbook adoption process. And replied to 3 outside emails.
+[[people.board.Margie Padgett]] didn't show up much either. She sent some internal communications, upset about the textbook adoption process. And replied to 3 outside emails.
 
 ### Jay Galbreath (District 6)
 

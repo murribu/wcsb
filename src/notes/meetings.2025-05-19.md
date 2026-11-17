@@ -44,17 +44,17 @@ After public comment, [[people.o.Jason Golden]] and [[people.admin.Dana Ausbrook
 
 The rest of the meeting was filled with unanimous votes on budget issues and small policy tweaks until we got to the last agenda item. The Pay Charts define how district employees are paid. They break down each employee type (teacher / principal / vice principal / etc) and define their salary or hourly wages. [[people.admin.Vickie Hall]] submitted the Pay Chart for board approval for this month.
 
-[[people.board.Margie Johnson]] proposed an amendment that was complex, but she basically wanted to shift money away from administrators toward teachers.
+[[people.board.Margie Padgett]] proposed an amendment that was complex, but she basically wanted to shift money away from administrators toward teachers.
 
 [[people.board.Claire Reeves]] and [[people.pol.Eric Welch]] were both concerned about the lack of time available to consider this change, which led to a conversation about delaying the approval of the Pay Charts. Ms. Hall said that would be problematic because they are currently trying to hire teachers. So the board agreed that a deferral was a bad idea.
 
-The amendment failed, 8-3-1 with [[people.board.Tony Bostic]], [[people.board.Dennis Driggers]], and [[people.board.Margie Johnson]] voting in favor of the amendment and [[people.board.Donna Clements]] abstaining.
+The amendment failed, 8-3-1 with [[people.board.Tony Bostic]], [[people.board.Dennis Driggers]], and [[people.board.Margie Padgett]] voting in favor of the amendment and [[people.board.Donna Clements]] abstaining.
 
-The unamended Pay Charts were approved 10-1-1 with [[people.board.Margie Johnson]] voting no and [[people.board.Tony Bostic]] abstaining.
+The unamended Pay Charts were approved 10-1-1 with [[people.board.Margie Padgett]] voting no and [[people.board.Tony Bostic]] abstaining.
 
 ## Some Board Members Sue TN Department of Education
 
-There was some school board news this month that happened outside of their public meetings. [[people.board.Tony Bostic]], [[people.board.Margie Johnson]], and [[people.board.Donna Clements]] are suing the Tennessee Department of Education for the alleged "chronic underfunding of Williamson County Schools." The Williamson Scene wrote a great article on it. You can read it by [clicking here](https://www.williamsonscene.com/news/state-education-department-sued-for-underfunding-williamson-schools/article_0755976d-3ea9-4728-b822-ee7622064685.html).
+There was some school board news this month that happened outside of their public meetings. [[people.board.Tony Bostic]], [[people.board.Margie Padgett]], and [[people.board.Donna Clements]] are suing the Tennessee Department of Education for the alleged "chronic underfunding of Williamson County Schools." The Williamson Scene wrote a great article on it. You can read it by [clicking here](https://www.williamsonscene.com/news/state-education-department-sued-for-underfunding-williamson-schools/article_0755976d-3ea9-4728-b822-ee7622064685.html).
 
 ## Call to Action
 

@@ -23,7 +23,7 @@ There were many topics discussed at these meetings. First, the Transition II pro
 
 One parent of a Transition II student spoke up during public comment, expressing her displeasure with the proposed changes to the Transition II program. As I said last month, [this WSMV article](https://www.wsmv.com/2026/04/21/were-just-shocked-parents-push-back-williamson-county-schools-plan-consolidate-special-education-programs/) lays out the story well.
 
-[[people.board.Margie Johnson]], [[people.board.Tony Bostic]], [[people.board.Donna Clements]], and [[people.board.Dennis Driggers]] each took time to express their displeasure about the proposed changes. They have heard from parents and teachers that this change was not welcome.
+[[people.board.Margie Padgett]], [[people.board.Tony Bostic]], [[people.board.Donna Clements]], and [[people.board.Dennis Driggers]] each took time to express their displeasure about the proposed changes. They have heard from parents and teachers that this change was not welcome.
 
 [[people.pol.Dan Cash]] and [[people.pol.Eric Welch]] defended our educators and admin, disputing the rumors that they were uncaring. Mr. Cash has heard from teachers who are in favor of this change and asks if they can poll the teachers to get their opinion. Mr. Golden said that it's a very small number of teachers, but yes, they could ask them.
 

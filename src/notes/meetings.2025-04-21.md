@@ -18,7 +18,7 @@ And their regular voting meeting last night.
 - [Live Stream](https://www.youtube.com/live/lDN7bknxhX4) - 2:04:30
 - [Live Threads](https://www.threads.net/@murribu/post/DIugFlZJcgy)
 
-All board members were present for both meetings except [[people.board.Margie Johnson]] - she was absent from both.
+All board members were present for both meetings except [[people.board.Margie Padgett]] - she was absent from both.
 
 The following is a summary of both meetings.
 

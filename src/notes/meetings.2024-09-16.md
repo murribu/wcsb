@@ -33,7 +33,7 @@ The internet was down, so they could not use their electronic method of voting. 
 
 ### New Board Members
 
-Mayor [[people.pol.Rogers Anderson]] swore in the 6 new board members: [[people.board.Tony Bostic]], [[people.board.Margie Johnson]], [[people.board.Melissa Wyatt]], [[people.board.Claire Reeves]], and [[people.board.Tonja Hibma]]. Technically, [[people.board.Dennis Driggers]] was already sworn in, but he participated in this event as well.
+Mayor [[people.pol.Rogers Anderson]] swore in the 6 new board members: [[people.board.Tony Bostic]], [[people.board.Margie Padgett]], [[people.board.Melissa Wyatt]], [[people.board.Claire Reeves]], and [[people.board.Tonja Hibma]]. Technically, [[people.board.Dennis Driggers]] was already sworn in, but he participated in this event as well.
 
 ### New Leadership
 
@@ -43,7 +43,7 @@ The board needed to elect a new chair and vice chair. [[people.pol.Eric Welch]] 
 
 #### Vice Chair
 
-[[people.pol.Drason Beasley]] nominated [[people.pol.Jay Galbreath]], who declined the nomination. Then Mr. Galbreath nominated [[people.pol.Dan Cash]]. [[people.board.Tony Bostic]] nominated [[people.board.Margie Johnson]]. Mr. Cash won that vote, 8-4. The four who voted for Dr. Johnson were [[people.board.Tony Bostic]], [[people.board.Margie Johnson]] herself, [[people.board.Melissa Wyatt]], and [[people.pol.Eric Welch]].
+[[people.pol.Drason Beasley]] nominated [[people.pol.Jay Galbreath]], who declined the nomination. Then Mr. Galbreath nominated [[people.pol.Dan Cash]]. [[people.board.Tony Bostic]] nominated [[people.board.Margie Padgett]]. Mr. Cash won that vote, 8-4. The four who voted for Dr. Johnson were [[people.board.Tony Bostic]], [[people.board.Margie Padgett]] herself, [[people.board.Melissa Wyatt]], and [[people.pol.Eric Welch]].
 
 ### Public Comment
 
@@ -55,7 +55,7 @@ And [[people.o.Angela Frederick]] introduced the board to the work of the [[orga
 
 ### Voting Items
 
-All of the votes were unanimous. The only real contention was [[people.board.Margie Johnson]] musing that we should consider reducing the number of built-in snow days. We currently allow for 10 and we don't usually use them all. She was also concerned about whether we pay school-based employees when there are snow days. The short answer seemed to be that it's moot for salaried employees and hourly employees are paid for the hours that they actually work.
+All of the votes were unanimous. The only real contention was [[people.board.Margie Padgett]] musing that we should consider reducing the number of built-in snow days. We currently allow for 10 and we don't usually use them all. She was also concerned about whether we pay school-based employees when there are snow days. The short answer seemed to be that it's moot for salaried employees and hourly employees are paid for the hours that they actually work.
 
 The rest of the meeting was rather uneventful. They revisited and codified some of the points of discussion from [[Thursday's Work Session|meetings.2024-09-12]], so review that for more context.
 

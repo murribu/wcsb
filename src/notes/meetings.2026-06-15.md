@@ -23,11 +23,11 @@ Mr. Golden was hired as the superintendent in 2019 on a 4-year contract. Every J
 
 This month he did request an extension, and the board voted 9-2 with one abstention to grant him that request. And it was an interesting discussion that led to that vote.
 
-First, [[people.board.Margie Johnson]] made a motion to delay the vote until September. Her reasoning was that there will be many new board members after August and they should make the decision. (Six board seats will be elected in August. And five incumbents are not seeking reelection.) There was a pause when the chair asked if there was a second. Then [[people.board.Donna Clements]] verbally seconded the motion while [[people.board.Tony Bostic]] pressed the button on his ipad to register his second.
+First, [[people.board.Margie Padgett]] made a motion to delay the vote until September. Her reasoning was that there will be many new board members after August and they should make the decision. (Six board seats will be elected in August. And five incumbents are not seeking reelection.) There was a pause when the chair asked if there was a second. Then [[people.board.Donna Clements]] verbally seconded the motion while [[people.board.Tony Bostic]] pressed the button on his ipad to register his second.
 
-Seven of the other nine board members took to their microphones in turn to state why this delay was a bad idea. After the discussion, the motion to delay failed 9-2 with [[people.board.Margie Johnson]] and [[people.board.Tony Bostic]] voting to delay and [[people.board.Donna Clements]] abstaining.
+Seven of the other nine board members took to their microphones in turn to state why this delay was a bad idea. After the discussion, the motion to delay failed 9-2 with [[people.board.Margie Padgett]] and [[people.board.Tony Bostic]] voting to delay and [[people.board.Donna Clements]] abstaining.
 
-Shortly after, the contract extension passed 9-2, with [[people.board.Margie Johnson]] and [[people.board.Tony Bostic]] voting no and [[people.board.Donna Clements]] abstaining.
+Shortly after, the contract extension passed 9-2, with [[people.board.Margie Padgett]] and [[people.board.Tony Bostic]] voting no and [[people.board.Donna Clements]] abstaining.
 
 ## Budget
 
